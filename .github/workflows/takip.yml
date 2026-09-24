@@ -1,0 +1,37 @@
+name: GIB Duyuru Takip
+
+on:
+  schedule:
+    # Her gün 07:00 UTC = 10:00 Türkiye saati
+    - cron: '0 7 * * *'
+  workflow_dispatch:  # Manuel test için
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: Script'i çalıştır
+        env:
+          GONDEREN_EMAIL: ${{ secrets.GONDEREN_EMAIL }}
+          GONDEREN_SIFRE: ${{ secrets.GONDEREN_SIFRE }}
+        run: python takip.py
+
+      - name: Hash dosyasını kaydet
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add son_hash.txt
+          git diff --staged --quiet || git commit -m "Hash güncellendi"
+          git push
