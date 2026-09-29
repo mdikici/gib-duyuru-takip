@@ -8,23 +8,22 @@ from email.mime.multipart import MIMEMultipart
 import time
 
 # ============ İZLENECEK URL'LER ============
-# Buraya istediğin kadar URL ekleyebilirsin.
-# Her URL için ayrı bir "isim" ve "hash dosyası" otomatik oluşturulur.
 URL_LISTESI = [
     {
-        "isim": "GİB ynökc",
-        "url":  "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
-        "hash_file": "hash_gib.txt",
-    },
-    {
-        "isim": "GİB duyuru",
+        "isim": "GİB Duyuru Arşivi (Güncel)",
         "url":  "https://www.gib.gov.tr/duyuru-arsivi/guncel",
-        "hash_file": "hash_sayfa2.txt",
+        "hash_file": "hash_gib_guncel.txt",
+        "api": "https://gib.gov.tr/api/gibportal/duyuru/listPublish?preview=false&page=0&size=5&sortFieldName=startdate&sortType=DESC",
     },
     {
-        "isim": "GİB e-belge",
+        "isim": "YN ÖKC Duyuru Arşivi",
+        "url":  "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
+        "hash_file": "hash_ynokc.txt",
+    },
+    {
+        "isim": "eBelge Duyuruları",
         "url":  "https://ebelge.gib.gov.tr/duyurular.html",
-        "hash_file": "hash_sayfa3.txt",
+        "hash_file": "hash_ebelge.txt",
     },
 ]
 
@@ -41,12 +40,22 @@ HEADERS = {
 }
 
 
-def sayfa_hash_al(url):
-    r = requests.get(url, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
-    body = soup.find("body")
-    metin = body.get_text(separator=" ", strip=True) if body else r.text
+def sayfa_hash_al(site):
+    """Sayfanın içeriğini alıp SHA-256 hash'ini döndürür."""
+    url = site["url"]
+
+    # API'si tanımlıysa (JavaScript ile yüklenen sayfalar için)
+    if site.get("api"):
+        r = requests.get(site["api"], headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        metin = r.text
+    else:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        body = soup.find("body")
+        metin = body.get_text(separator=" ", strip=True) if body else r.text
+
     return hashlib.sha256(metin.encode("utf-8")).hexdigest()
 
 
@@ -69,11 +78,10 @@ def email_gonder(konu, icerik):
 
 def kontrol_et(site):
     isim = site["isim"]
-    url = site["url"]
     hash_file = site["hash_file"]
 
     try:
-        yeni_hash = sayfa_hash_al(url)
+        yeni_hash = sayfa_hash_al(site)
     except Exception as e:
         print(f"[{time.strftime('%H:%M:%S')}] ⚠️ {isim} alınamadı: {e}")
         return False
@@ -103,9 +111,7 @@ def main():
             degisenler.append(site)
 
     if degisenler:
-        satirlar = []
-        for s in degisenler:
-            satirlar.append(f"• {s['isim']}\n  {s['url']}")
+        satirlar = [f"• {s['isim']}\n  {s['url']}" for s in degisenler]
         icerik = (
             f"Aşağıdaki sayfalarda değişiklik tespit edildi:\n\n"
             + "\n\n".join(satirlar)
