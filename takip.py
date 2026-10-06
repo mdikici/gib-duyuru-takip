@@ -25,6 +25,11 @@ URL_LISTESI = [
         "url":  "https://ebelge.gib.gov.tr/duyurular.html",
         "hash_file": "hash_ebelge.txt",
     },
+    {
+        "isim": "Onay Alan Firmalar (1003)",
+        "url":  "https://ynokc.gib.gov.tr/Home/OnayAlanFirmalar/1003",
+        "hash_file": "hash_onay_firmalar.txt",
+    },
 ]
 
 # ============ E-POSTA AYARLARI ============
