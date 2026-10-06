@@ -46,7 +46,20 @@ def sayfa_hash_al(site):
 
     # API'si tanımlıysa (JavaScript ile yüklenen sayfalar için)
     if site.get("api"):
-        r = requests.get(site["api"], headers=HEADERS, timeout=20)
+        # API POST metodu istiyor
+        payload = {
+            "preview": False,
+            "page": 0,
+            "size": 50,
+            "sortFieldName": "startdate",
+            "sortType": "DESC"
+        }
+        r = requests.post(
+            "https://gib.gov.tr/api/gibportal/duyuru/listPublish",
+            json=payload,
+            headers=HEADERS,
+            timeout=20
+        )
         r.raise_for_status()
         metin = r.text
     else:
@@ -57,7 +70,6 @@ def sayfa_hash_al(site):
         metin = body.get_text(separator=" ", strip=True) if body else r.text
 
     return hashlib.sha256(metin.encode("utf-8")).hexdigest()
-
 
 def email_gonder(konu, icerik):
     msg = MIMEMultipart()
