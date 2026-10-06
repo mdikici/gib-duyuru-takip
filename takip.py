@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import hashlib
 import os
 import smtplib
+import difflib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import time
@@ -13,22 +14,26 @@ URL_LISTESI = [
         "isim": "GİB Duyuru Arşivi (Güncel)",
         "url":  "https://www.gib.gov.tr/duyuru-arsivi/guncel",
         "hash_file": "hash_gib_guncel.txt",
+        "text_file": "text_gib_guncel.txt",
         "api": "https://gib.gov.tr/api/gibportal/duyuru/listPublish",
     },
     {
         "isim": "YN ÖKC Duyuru Arşivi",
         "url":  "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
         "hash_file": "hash_ynokc.txt",
+        "text_file": "text_ynokc.txt",
     },
     {
         "isim": "eBelge Duyuruları",
         "url":  "https://ebelge.gib.gov.tr/duyurular.html",
         "hash_file": "hash_ebelge.txt",
+        "text_file": "text_ebelge.txt",
     },
     {
         "isim": "Onay Alan Firmalar (1003)",
         "url":  "https://ynokc.gib.gov.tr/Home/OnayAlanFirmalar/1003",
         "hash_file": "hash_onay_firmalar.txt",
+        "text_file": "text_onay_firmalar.txt",
     },
 ]
 
@@ -45,11 +50,10 @@ HEADERS = {
 }
 
 
-def sayfa_hash_al(site):
-    """Sayfanın içeriğini alıp SHA-256 hash'ini döndürür."""
+def sayfa_icerik_al(site):
+    """Sayfanın metnini ve hash'ini döndürür."""
     url = site["url"]
 
-    # API'si tanımlıysa (JavaScript ile yüklenen sayfalar için)
     if site.get("api"):
         # API POST metodu istiyor
         payload = {
@@ -60,7 +64,7 @@ def sayfa_hash_al(site):
             "sortType": "DESC"
         }
         r = requests.post(
-            "https://gib.gov.tr/api/gibportal/duyuru/listPublish",
+            site["api"],
             json=payload,
             headers=HEADERS,
             timeout=20
@@ -72,9 +76,34 @@ def sayfa_hash_al(site):
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         body = soup.find("body")
-        metin = body.get_text(separator=" ", strip=True) if body else r.text
+        metin = body.get_text(separator="\n", strip=True) if body else r.text
 
-    return hashlib.sha256(metin.encode("utf-8")).hexdigest()
+    icerik_hash = hashlib.sha256(metin.encode("utf-8")).hexdigest()
+    return icerik_hash, metin
+
+
+def fark_bul(eski_metin, yeni_metin, max_satir=30):
+    """İki metin arasındaki farkı okunabilir şekilde döndürür."""
+    eski_satirlar = eski_metin.splitlines()
+    yeni_satirlar = yeni_metin.splitlines()
+
+    farklar = []
+    for satir in difflib.unified_diff(
+        eski_satirlar, yeni_satirlar,
+        lineterm="", n=1
+    ):
+        # Sadece eklenen (+) ve silinen (-) satırları al
+        if satir.startswith("+") and not satir.startswith("+++"):
+            farklar.append(f"➕ {satir[1:].strip()}")
+        elif satir.startswith("-") and not satir.startswith("---"):
+            farklar.append(f"➖ {satir[1:].strip()}")
+
+        if len(farklar) >= max_satir:
+            farklar.append("... (daha fazla fark var)")
+            break
+
+    return "\n".join(farklar) if farklar else "(Metin farkı hesaplanamadı)"
+
 
 def email_gonder(konu, icerik):
     msg = MIMEMultipart()
@@ -96,43 +125,64 @@ def email_gonder(konu, icerik):
 def kontrol_et(site):
     isim = site["isim"]
     hash_file = site["hash_file"]
+    text_file = site["text_file"]
 
     try:
-        yeni_hash = sayfa_hash_al(site)
+        yeni_hash, yeni_metin = sayfa_icerik_al(site)
     except Exception as e:
         print(f"[{time.strftime('%H:%M:%S')}] ⚠️ {isim} alınamadı: {e}")
-        return False
+        return None
 
-    if os.path.exists(hash_file):
-        eski_hash = open(hash_file, encoding="utf-8").read().strip()
-        if eski_hash != yeni_hash:
-            print(f"[{time.strftime('%H:%M:%S')}] 🔔 DEĞİŞİKLİK: {isim}")
-            with open(hash_file, "w", encoding="utf-8") as f:
-                f.write(yeni_hash)
-            return True
-        else:
-            print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
-    else:
+    # İlk kayıt
+    if not os.path.exists(hash_file) or not os.path.exists(text_file):
         print(f"[{time.strftime('%H:%M:%S')}] İlk kayıt: {isim}")
+        with open(hash_file, "w", encoding="utf-8") as f:
+            f.write(yeni_hash)
+        with open(text_file, "w", encoding="utf-8") as f:
+            f.write(yeni_metin)
+        return None
 
-    with open(hash_file, "w", encoding="utf-8") as f:
-        f.write(yeni_hash)
-    return False
+    eski_hash = open(hash_file, encoding="utf-8").read().strip()
+    eski_metin = open(text_file, encoding="utf-8").read()
+
+    if eski_hash != yeni_hash:
+        print(f"[{time.strftime('%H:%M:%S')}] 🔔 DEĞİŞİKLİK: {isim}")
+        fark = fark_bul(eski_metin, yeni_metin)
+
+        # Güncel hash ve metni kaydet
+        with open(hash_file, "w", encoding="utf-8") as f:
+            f.write(yeni_hash)
+        with open(text_file, "w", encoding="utf-8") as f:
+            f.write(yeni_metin)
+
+        return {"isim": isim, "url": site["url"], "fark": fark}
+    else:
+        print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
+        return None
 
 
 def main():
     degisenler = []
 
     for site in URL_LISTESI:
-        if kontrol_et(site):
-            degisenler.append(site)
+        sonuc = kontrol_et(site)
+        if sonuc:
+            degisenler.append(sonuc)
 
     if degisenler:
-        satirlar = [f"• {s['isim']}\n  {s['url']}" for s in degisenler]
+        parcalar = []
+        for d in degisenler:
+            parcalar.append(
+                f"═══════════════════════════════════\n"
+                f"📍 {d['isim']}\n"
+                f"🔗 {d['url']}\n"
+                f"───────────────────────────────────\n"
+                f"{d['fark']}\n"
+            )
         icerik = (
             f"Aşağıdaki sayfalarda değişiklik tespit edildi:\n\n"
-            + "\n\n".join(satirlar)
-            + f"\n\nZaman: {time.strftime('%d.%m.%Y %H:%M:%S')}\n"
+            + "\n".join(parcalar)
+            + f"\n⏰ Zaman: {time.strftime('%d.%m.%Y %H:%M:%S')}\n"
         )
         email_gonder("🔔 Sayfa Değişikliği Tespit Edildi", icerik)
     else:
