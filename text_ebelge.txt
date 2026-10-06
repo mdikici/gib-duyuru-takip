@@ -1,0 +1,2024 @@
+Ana Sayfa
+e-Fatura
+Hakkında
+Mevzuat ve Teknik Mimari
+Yararlanma Yöntemleri
+Özel Entegrasyon
+Entegrasyon
+e-Fatura Portalı
+Kayıtlı Kullanıcılar Listesi
+Özel Entegratörler Listesi
+e-Fatura Saklama Hizmeti Verme İzni Alan Kurumların Listesi
+e-İrsaliye
+Hakkında
+Mevzuat ve Teknik Mimari
+Kayıtlı Kullanıcılar Listesi
+Özel Entegratörler Listesi
+e-Arşiv
+e-Arşiv
+Hakkında
+Mevzuat ve Teknik Mimari
+Yararlanma
+Yöntemleri
+Başvuru
+e-Arşiv Uygulamasına Kayıtlı Mükellefler Listesi
+Özel Entegratörler Listesi
+e-Arşiv Fatura Sorgulama
+e-Dekont
+e-Dekont Paketi
+e-Dekont Özel Entegratörler listesi
+e-Döviz
+e-Döviz ve Kıymetli Maden Alım-Satım Paketi
+e-Döviz Alım - Satım Belgesi Özel Entegratörler Listesi
+e-Adisyon
+e-Adisyon Belgesi Özel Entegratörler Listesi
+e-Sigorta
+e-Sigorta Komisyon Gider Belgesi Paketi
+e-Sigorta komisyon Gider Belgesi Özel Entegratörler Listesi
+e-Sigorta Poliçesi Paketi
+e-Sigorta Poliçesi Özel Entegratör Listesi
+e-Gider Pusulası
+e-Gider Pusulası Paketi
+e-Gider Pusulası Özel Entegratörler Listesi
+e-SMM
+e-SMM Hakkında
+Mevzuat ve Teknik Mimari
+e-SMM Kayıtlı Kullanıcılar Listesi
+Özel Entegratörler Listesi
+e-Serbest Meslek Makbuzu Sorgulama
+e-Müstahsil
+Makbuzu
+e-Müstahsil Makbuzu Hakkında
+Mevzuat ve Teknik Mimari
+Kayıtlı Kullanıcılar Listesi
+Özel Entegratörler Listesi
+e-Bilet
+e-Bilet Hakkında
+Mevzuat ve Teknik Mimari
+e-Bilet Başvuru
+e-Bilet Uygulama Girişi
+e-Bilet / e-Yolcu Listesi İzni Alanlar
+e-Bilet Sorgulama Web Servis Adresleri
+e-Bilet Özel Entegratörler Listesi
+GMÖEBYS
+Hakkında
+Mevzuat ve Teknik Mimari
+İşletici Kuruluş Listesi
+SSS
+Duyurular
+Duyurular
+30.09.2026
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde yer alan düzenlemeler kapsamında hesapları kapatılan mükelleflerin bilgilerinin ve sicil entegrasyonu işlemlerinin sonuçlarının takip edilebilmesi amacıyla hazırlanan Userlist (Kullanıcı Listeleri) Kılavuzu güncellenmiştir. Kılavuzda yer alan açıklamalara yönelik geliştirmelerin
+16/11/2026
+tarihine kadar yapılması gerekmektedir. UserList (Kullanıcı Listeleri) Kılavuzuna ulaşmak için
+tıklayınız.
+25.09.2026
+e-Döviz ve Kıymetli Maden Alım Satım Belgesi Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler
+02.11.2026
+tarihi itibari ile devreye alınacaktır. Duyurulur.
+18.09.2026
+Elektronik Belge Sistemlerinde Yapılacak Planlı Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+15.09.2026
+e-Gider Pusulası Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+24.08.2026
+27/07/2026
+tarihinde yayınlanan e-Fatura paketindeki eksiklikler giderilmiştir. Güncel pakete ulaşmak için
+tıklayınız.
+11.08.2026
+e-Arşiv Paketi güncellenmiştir. earsiv.xsd dosyasındaki eksiklikler giderilmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+27.07.2026
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+e-Arşiv Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler
+14.09.2026
+tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+13.07.2026
+Gelir İdaresi Başkanlığı *.gib.gov.tr ve *.efatura.gov.tr SSL/TLS sertifikaları 14.07.2026 tarihinde saat 14:00 itibarıyla yenilenecektir. Söz konusu sertifikalara ulaşmak için
+tıklayınız.
+Duyurulur
+29.06.2026
+e-Fatura Uygulaması Özel Entegrasyon Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız.
+22.05.2026
+e-Arşiv Başvuru Kılavuzu Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+22.05.2026
+e-Müstahsil Makbuzu Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+e-Müstahsil Makbuzunun Islak İmza İle İmzalanarak Düzenlenmesi Yerine Bilgi Teknolojileri Ve/Veya İletişim Araç Ve Ortamları Üzerinden Doğrulanarak Düzenlemesine Yönelik Zorunluluk Getirilmesi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+e-Gider Pusulası Paketi yayınlanmıştır. Söz konusu Pakete ulaşmak için
+tıklayınız.
+03.04.2026
+Elektronik Belge Sistemlerinde Yapılacak Planlı Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+02.04.2026
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde yer alan düzenlemeler kapsamında hesapları kapatılan mükelleflerin bilgilerinin ve sicil entegrasyonu işlemlerinin sonuçlarının takip edilebilmesi amacıyla Userlist (Kullanıcı Listeleri) Kılavuzu hazırlanmıştır. Kılavuzda yer alan açıklamalara yönelik geliştirmelerin  15/4/2026 tarihine kadar yapılması gerekmektedir.
+UserList (Kullanıcı Listeleri) Kılavuzuna ulaşmak için
+tıklayınız.
+27.03.2026
+Elektronik Belgelerde Sicil ve Faaliyet Kodu Karşılığı KDV Oran Kontrolünün Ertelenmesi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+16.03.2026
+Özel Entegratör sistemleri üzerinden düzenlenen belgeler için Gelir İdaresi Başkanlığı sicil ve faaliyet kodu kayıtları üzerinden gerekli kontroller 1 Nisan 2026 tarihi itibarıyla yapılmaya başlanacaktır.  Bu kapsamda yansıtma faturaları, demirbaş satış faturaları gibi faaliyet koduna karşılık gelen KDV oranı ile fatura düzenlenememesi durumlarında seçilebilecek "555-KDV Oran Kontrolüne Tabi Olmayan Satışlar" kodu eklenmiştir. Yapılan değişiklikler ile birlikte;
+e-Fatura Paketi güncellenmiştir.
+Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir.
+Güncel Kılavuza ulaşmak için
+tıklayınız.
+UBLTR 1.2.1 paketi güncellenmiştir.
+Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 1.4.2026 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+12.01.2026
+e-Fatura uygulamasında “YATIRIMTESVIK” senaryosunun altında “ISTISNA” fatura tipinde ve e-Arşiv Fatura uygulamasında “EARSIVFATURA” senaryosunun altında “YTBISTISNA” fatura tipinde düzenlenen faturalarda “Yatırım Teşvik Kapsamında Yapılan Teslimlere İlişkin Fatura Teknik Kılavuzu”nda belirtilen kurala göre “Vazgeçilen KDV Tutarı” yazılacaktır. Bu alan sadece xml üzerinden gösterilecek olup fatura satır ve dip toplamlarında hesaplamaya dahil olmayacak ve fatura görselinde gösterilmeyecektir. Bu senaryo ve fatura tipinde hazırlanan faturalar için belirlenen kurala göre xslt dosyalarının güncellenmesi gerekmektedir. Bu kapsamda “UBL-TR1.2.1_Paketi” güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+09.01.2026
+Başkanlığımız https://ebelge.gib.gov.tr/anasayfa.html  internet adresinde 2 Aralık 2025 tarihinde yapılan duyuruda, e-Fatura ve e-İrsaliye uygulamalarına dâhil olan mükellefler tarafından, Darphane ve Damga Matbaası Genel Müdürlüğü’ne İnşaat Demiri İzleme Sistemi (IDIS) üzerinden bildirimi yapılan ürünler için düzenlenecek e-Fatura ve e-İrsaliyelerde kullanılması gereken alanların belirlendiği İDİS Kapsamında Yapılan Teslimlere İlişkin Fatura ve İrsaliye Teknik Kılavuzu yayımlandığı ve Kılavuzda belirtilen geliştirmelerin 12.01.2026 tarihine kadar yapılması gerektiği belirtilmiştir.
+Konu hakkında Başkanlığımıza iletilen geri dönüşlere istinaden yapılan değerlendirme sonucunda, “İDİS Kapsamında Yapılan Teslimlere İlişkin Fatura ve İrsaliye Teknik Kılavuzu”nda belirtilen geliştirmelerin yapılması için açıklanan sürenin 02.02.2026 tarihine kadar uzatılması uygun görülmüştür.
+Bu kapsamda, 02.02.2026 tarihine kadar “İDİS Kapsamında Yapılan Teslimlere İlişkin Fatura ve İrsaliye Teknik Kılavuzu”nda belirtilen geliştirmelerin yapılması gerekmektedir.
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+e-Arşiv Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+UBL-TR1.2.1_Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 02.02.2026 tarihi itibarıyla devreye alınacaktır.
+Yatırım Teşvik Kapsamında Yapılan Teslimlere İlişkin Fatura Teknik Kılavuzu güncellenmiştir. Güncel   Kılavuza ulaşmak için
+tıklayınız.
+07.01.2026
+GİB e-belge portallarına girişte sorun yaşayan mükelleflerimizin sistemleri üzerinde yapması gereken işlemlerin açıklandığı dokümana ulaşmak için
+tıklayınız.
+18.12.2025
+e-Arşiv Fatura Paketi içerisindeki EArsiv.xsd dosyası güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+09.12.2025
+Yatırım Teşvik Kapsamında Yapılan Teslimlere İlişkin Fatura Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+e-Arşiv Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+UBL-TR1.2.1_Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 22.12.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+02.12.2025
+e-Fatura ve e-İrsaliye uygulamalarına dâhil olan mükellefler tarafından, Darphane ve Damga Matbaası Genel Müdürlüğü’ne
+İnşaat Demiri İzleme Sistemi (IDIS)
+üzerinden bildirimi yapılan ürünler için düzenlenecek e-Fatura ve e-İrsaliyelerde kullanılması gereken alanların belirlendiği
+İDİS Kapsamında Yapılan Teslimlere İlişkin Fatura ve İrsaliye Teknik Kılavuzu
+yayımlanmıştır. Kılavuzda belirtilen geliştirmelerin
+12.01.2026
+tarihine kadar yapılması gerekmektedir. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+21.11.2025
+e-Fatura ve e-Arşiv Fatura uygulamasına dâhil olan mükellefler tarafından
+Yatırım Teşvik Belgesi (YTB)
+kapsamında düzenlenecek Faturalarda kullanılması gereken alanların belirlendiği
+Yatırım Teşvik Kapsamında Yapılan Teslimlere İlişkin Fatura Teknik Kılavuzu
+yayımlanmıştır. Kılavuzda belirtilen geliştirmelerin
+22.12.2025
+tarihine kadar yapılması gerekmektedir. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+17.11.2025
+e-Gider Pusulası Teknik Kılavuz taslağı hazırlanmıştır. Taslak kılavuza ulaşmak için
+tıklayınız.
+Söz konusu taslağa ilişkin görüşlerinizi
+01/12/2025
+tarihine kadar
+earsiv@gelirler.gov.tr
+adresine e-Posta olarak gönderebilirsiniz.
+e-Müstahsil Makbuzu Teknik Kılavuz taslağı hazırlanmıştır. Taslak kılavuza ulaşmak için
+tıklayınız.
+Söz konusu taslağa ilişkin görüşlerinizi
+01/12/2025
+tarihine kadar
+earsiv@gelirler.gov.tr
+adresine e-Posta olarak gönderebilirsiniz.
+12.11.2025
+e-Arşiv Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 01.12.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+05.11.2025
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 01.12.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur
+29.10.2025
+Elektronik Belge Sistemlerinde Yapılan Bakım Çalışmasının Tamamlanması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+24.10.2025
+Elektronik Belge Sistemlerinde Yapılacak Planlı Bakım Çalışması Hakkındaki Duyuru'ya ulaşmak için
+tıklayınız.
+14.10.2025
+İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu Hakkında Duyuru'ya ulaşmak için
+tıklayınız.
+23.09.2025
+e-Gider Pusulası uygulamasına ilişkin taslak paket hazırlanmıştır. Taslak pakete ulaşmak için
+tıklayınız.
+Söz konusu taslağa ilişkin görüşlerinizi
+08/10/2025
+tarihine kadar
+earsiv@gelirler.gov.tr
+adresine e-Posta olarak gönderebilirsiniz
+18.09.2025
+e-Dekont paketi güncellenmiştir. Güncel pakete ulaşmak için
+tıklayınız.
+12.09.2025
+"İstisna Fatura Tipi"nde yer alan istisna kodlarına yeni kod (344) eklenmiş olup bu kapsamda; e-Fatura Paketi güncellenmiştir.
+Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir.
+Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler 01.10.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+05.09.2025
+e-Fatura Paketi güncellenmiştir.
+Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir.
+Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler 01.10.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+27.08.2025
+e-Arşiv paketi ve e-Arşiv Teknik Kılavuzu güncellenmiştir.
+Güncel Pakete ulaşmak için
+tıklayınız.
+Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler 03.10.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+30.06.2025
+İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu Hakkında Duyuru" ya ulaşmak için
+tıklayınız.
+İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+30.06.2025
+e-SMM Uygulamasına Kayıtlı Mükelleflerin e-Faturaya Geçip Geçmeyeceği Hakkında Duyuru'ya ulaşmak için
+tıklayınız.
+02.05.2025
+“Teknoloji Destek e-Arşiv Fatura Teknik Kılavuzu Hakkında Duyuru" ya ulaşmak için
+tıklayınız.
+28.04.2025
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler 02.05.2025 tarihi itibari ile devreye alınacaktır.
+Duyurulur
+11.04.2025
+Yükseköğretim öğrencilerine teknolojik cihaz desteği verilmesine ilişkin düzenlenecek e-Arşiv Faturalarda kullanılması gereken alanların belirlendiği Teknoloji Destek e-Arşiv Fatura Teknik Kılavuzu yayınlanmıştır. Kılavuzda belirtilen geliştirmelerin 02.05.2025  tarihine kadar yapılması gerekmektedir. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+05.03.2025
+Elektronik Belge Sistemlerinde Yapılacak Planlı Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+14.02.2025
+E-FATURA PAKETİ VE UBL-TR (KOD LİSTELERİ) KILAVUZUNDAKİ GÜNCELLEŞTİRMELER HAKKINDA DUYURU. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+28.01.2025
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+Güncellemeler
+17.02.2025
+tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+23.01.2025
+İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu Hakkında Duyuru" ya ulaşmak için
+tıklayınız.
+İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+20.01.2025
+Tübitak Kamu Sm’ye Yapılan Mali Mühür Başvuru İşlemlerine İlişkin Yapılan Geliştirme Hakkında Duyuruya ulaşmak için
+tıklayınız.
+06.01.2025
+İlaç ve tıbbi cihaz ticareti gerçekleştiren mükellefler tarafından, ilaç ve tıbbi cihaz teslimleri için düzenlenecek e-Faturalarda kullanılması gereken alanların belirlendiği İlaç ve Tıbbi Cihaz Teslimlerine İlişkin Fatura Teknik Kılavuzu yayınlanmıştır. Kılavuzda belirtilen geliştirmelerin 24.01.2025  tarihine kadar yapılması gerekmektedir. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+03.01.2025
+Muhasebe kayıt süreçleri ile beyannamelerin hazırlanması ve verilmesine ilişkin işlemlerin etkinleştirilmesi amacıyla e-Fatura ve e-Arşiv Uygulamalarına İlişkin İptal ve İhtar/İtiraz Bildirim Kılavuzlarında, itiraz talebinin kabul edilmesi gereken sürelere ilişkin olarak değişiklik yapılmıştır.
+e-Arşiv Uygulamaları İptal İhtar/İtiraz Bildirim Kılavuzuna ulaşmak için
+tıklayınız.
+e-Fatura İptal İhtar/İtiraz Bildirim Kılavuzuna ulaşmak için
+tıklayınız.
+20.12.2024
+YENİ MERKEZ UYGULAMA GEÇİŞİ KAPSAMINDA BAŞVURU EKRANLARINA ERİŞİM ADRESLERİNDE DEĞİŞİKLİK YAPILMASI HAKKINDA DUYURU'ya ulaşmak için
+tıklayınız.
+16.12.2024
+e-Fatura ve e-İrsaliye Yeni Merkez Uygulama Geçişi Çalışmasının Tamamlanması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+13.12.2024
+Durum Kodu 1220 olan Zarflar için ÖZEL ENTEGRATÖRLERİN VE ENTEGRASYON YAPAN FİRMALARIN DİKKATİNE
+12.12.2024
+e-Fatura ve e-İrsaliye Yeni Merkez Uygulama Geçişi Hakkındaki Duyuruya Ulaşmak
+tıklayınız.
+27.11.2024
+Muhasebe kayıt süreçleri ile beyannamelerin hazırlanması ve verilmesine ilişkin işlemlerin etkinleştirilmesi amacıyla e-Fatura ve e-Arşiv Uygulamalarına İlişkin İptal ve İhtar/İtiraz Bildirim Kılavuzlarında değişiklik yapılması amacıyla kılavuz taslakları hazırlanmıştır.
+Söz konusu taslaklara ilişkin görüşlerinizi
+13/12/2024
+tarihine kadar
+efatura@gelirler.gov.tr
+adresine e-Posta olarak gönderebilirsiniz.
+e-Fatura İptal İhtar/İtiraz Bildirim Kılavuzu Kılavuzuna ulaşmak için
+tıklayınız.
+e-Arşiv Uygulamaları  İptal İhtar/İtiraz Bildirim Kılavuzuna ulaşmak için
+tıklayınız.
+21.11.2024
+e-Fatura ve e-İrsaliye Yeni Merkez Uygulama Geçişi Hakkında Duyuruya ulaşmak
+tıklayınız.
+12.11.2024
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 573)
+12/11/2024 tarihli ve 32720 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+04.11.2024
+Bilgi İşlem Sistem Entegrasyonu Yapan Mükelleflerin Dikkatine!
+30.10.2024
+Elektronik Belge Sistemlerinde Yapılan Bakım Çalışmasının Tamamlanması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+30.10.2024
+Elektronik Belge Sistemlerinde Yapılacak Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+11.10.2024
+Kamu e-Fatura Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+19.09.2024
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+22.08.2024
+e-Dekont paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+29.05.2024
+Özel Entegratörlerin ve Entegrasyon Yapan Firmaların Dikkatine!
+29.05.2024
+e-Belge Uygulamalarında Karekod Kullanımı Hakkında Duyuruya uluşmak için
+tıklayınız.
+22.05.2024
+e-Arşiv Fatura, e-Serbest Meslek Makbuzu, e-Müstahsil Makbuzu ve e-Adisyon uygulamalarının e-Arşiv Raporlarında "İmza Zamanı" alanı zorunlu hale getirilmiştir.
+
+                                                        e-Arşiv Fatura, e-Serbest Meslek Makbuzu ve e-Müstahsil Makbuzu uygulamalarının e-Arşiv Raporlarında “Vergi Oranı” alanı zorunlu hale getirilmiştir.
+                                                        
+                                                        e-Arşiv Fatura uygulaması e-Arşiv Raporlarında “Gönderi Bilgileri” alanı zorunlu hale getirilmiştir.
+                                                        
+                                                        e-Sigorta Komisyon Gider Belgesi uygulamasının e-Arşiv Raporlarında "İmza Zamanı" alanı zorunlu hale getirilmiştir.
+                                                        
+                                                        Güncellemeler 01.07.2024 tarihi itibari ile devreye alınacaktır.
+"e-Arşiv Teknik Kılavuzu" güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+"e-Arşiv paketi" güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+"e-Sigorta Komisyon Gider Belgesi paketi" güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+10.05.2024
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+28.03.2024
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+28.03.2024
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ UZAMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+27.03.2024
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+09.02.2024
+Gelir İdaresi Başkanlığı olarak, mükelleflerimize daha kaliteli hizmet sunabilmek ve günümüz teknolojisine uyum sağlayabilmek adına 10/02/2024 Cumartesi günü 22:00 ile 11/02/2024 Pazar günü 12:00 saatleri arasında planlı bakım çalışması yapılacaktır. Söz konusu çalışma süresince, e-Adisyon, e-Döviz ve Kıymetli Maden Alım Satım Belgesi ve e-Sigorta Komisyon Gider Belgesi uygulamalarında raporların gönderildiği sistemlere erişim sağlanamayacaktır. Duyurulur.
+08.01.2024
+Gelir İdaresi Başkanlığı *.gib.gov.tr ve *.edefter.gov.tr SSL/TLS sertifikaları yenilenmiştir. Söz konusu sertifikalara ulaşmak için
+tıklayınız.
+Ayrıca sertifikaları
+https://www.gib.gov.tr
+ve
+https://uygtest.edefter.gov.tr
+internet sitesi üzerinden de indirebilirsiniz.
+Duyurulur.
+03.01.2024
+e-Arşiv Teknik Kılavuzu güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+03.01.2024
+2 Ocak 2024 tarihli ve 163 Sıra No.lu Vergi Usul Kanunu Sirküleriyle, elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 2 Ocak 2024 günü sonuna kadar oluşturulması ve imzalanması gereken e-Defterlerin oluşturulma ve imzalanma süresi ile aynı sürede Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine yüklenmesi gereken “Elektronik Defter Beratları”nın yüklenme süresi 5 Ocak 2024 Cuma günü sonuna kadar uzatılmıştır. Söz konusu Sirkülere ulaşmak için
+tıklayınız.
+28.12.2023
+Elektrik Şarj Hizmetlerine İlişkin Fatura Teknik Kılavuzu” yayınlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+e-Arşiv Teknik Kılavuzu" güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+e-Fatura Paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+e-Arşiv paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Güncel Kılavuza ulaşmak için
+tıklayınız.
+“SARJ” ve “SARJANLIK” tipi fatura örneklerinin bulunduğu UBL-TR1.2.1_Paketi.zip paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+Güncellemeler 02.01.2024 tarihi itibari ile devreye alınacaktır.
+Duyurulur.
+21.11.2023
+Yükseköğretim Öğrencilerine Yönelik "Teknolojik Cihaz Ve İnternet Desteği" Kapsamında Düzenlenecek Elektronik Faturalar Hakkında Duyuruya ulaşmak için
+tıklayınız.
+08.11.2023
+Elektronik Belge Sistemlerinde Yapılan Bakım Çalışmasının  Tamamlanması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+07.11.2023
+Elektronik Belge Sistemlerinde Yapılacak Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+06.11.2023
+Karekod Standardı Kılavuzuna, Yolcu Beraber Eşya senaryosunda oluşturulan e-Fatura Belgesinde olması gereken Karekod Bilgileri eklenmiş, e-Sigorta Komisyon Gider Belgesi Karekod bilgilerinden “Toplam Komisyon Tutarı” alanı çıkarılmıştır. Güncel Kılavuza ulaşmak için
+tıklayınız.
+Bu kapsamda, bahse konu Kılavuzda yapılan değişikliklerin 15/12/2023 tarihinden itibaren düzenlenecek elektronik belgelerde zorunlu olarak bulunması uygun görülmüştür. Özel entegratörler ile bilgi işlem sistemleri entegrasyonu yapan mükelleflerin söz konusu tarihe kadar sistemlerinde gerekli geliştirmeleri yapmaları gerekmektedir.
+Duyurulur.
+06.11.2023
+e-Sigorta Komisyon Gider Belgesi paketi güncellenmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
+09.10.2023
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde değişiklik yapılmasına dair Tebliğ (Sıra No: 550) 07/10/2023 tarihli ve 32332 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir. Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+05.10.2023
+e-Fatura Paketi Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+UBL-TR1.2.1 Kılavuzları Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+22.09.2023
+e-Sigorta Poliçesi Paketi yayınlanmıştır. Pakete ulaşmak için
+tıklayınız.
+28.07.2023
+e-Fatura Paketi Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+UBL-TR1.2.1 Kılavuzları Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+UBL-TR1.2.1 Paketi Güncellenmiştir. Söz Konusu pakete ulaşmak için
+tıklayınız.
+27.07.2023
+Karekod Standardı Kılavuzu Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+27.07.2023
+e-Dekont paketi güncellenmiştir. Güncel pakete ulaşmak için
+tıklayınız.
+07.07.2023
+Elektronik Belge Sistemlerinde Yapılacak Planlı Bakım Çalışması Hakkında Duyuruya ulaşmak için
+tıklayınız.
+26.06.2023
+e-Fatura, e-Arşiv Fatura Uygulamalarına Dâhil Olması Gereken Mükellefler Hakkında Duyuruya Ulaşmak için
+tıklayınız.
+20.06.2023
+https://*.efatura.gov.tr uygulamalarında kullanılan SSL sertifikası yenilenmiştir. Yeni sertifikaya
+https://earsivportaltest.efatura.gov.tr/
+uygulaması üzerinden erişebilirsiniz. Yeni yüklenecek sertifikanın güvenilen kök ve ara sertifika yetkililerinin bağlantıları aşağıda paylaşılmıştır.
+https://secure.globalsign.net/cacert/Root-R3.crt
+https://secure.globalsign.com/cacert/gsrsaovsslca2018.crt
+15.05.2023
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+e-Fatura Paketi Güncellenmiştir. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+12.05.2023
+Kıymetli maden satım işleminde Katma Değer Vergisi matrahının ve tutarının gösterilmesine ilişkin açıklamalar ile e-Döviz ve Kıymetli Maden Alım Satım Belgesi Kılavuzu ve belge örneğinin yer aldığı  e-Döviz ve Kıymetli Maden Alım Satım Belgesi Paketi güncellenmiştir. Pakete ulaşmak için
+tıklayınız.
+12.05.2023
+Konaklama hizmeti veren işletmelerce düzenlenecek e-adisyon belgesinde “AdditionalDocumentReference” alanına yazılacak bilgilere ait açıklamaların eklendiği e-Adisyon Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız.
+12.05.2023
+e-Sigorta Komisyon Gider Belgesi Paketi güncellenmiştir. Pakete ulaşmak için
+tıklayınız.
+12.05.2023
+e-Fatura Uygulaması Özel Entegrasyon Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız.
+31.03.2023
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Hazırlanmıştır.
+													Tebliğ taslağın geliştirilmesi ve yayımlanmaya hazır hale getirilmesi için Başkanlığımızca çalışmalar devam etmekte olup, mevcut taslakta yer alan konuların geliştirilmesi, değiştirilmesi veya katkıda bulunulması ile ilgili görüş ve önerilerinizi 12/4/2023 Çarşamba günü mesai bitimine kadar eyeniaras@gelirler.gov.tr elektronik posta adresine iletebilirsiniz.
+													Söz konusu Tebliğ taslağı için
+tıklayınız.
+26.03.2023
+ELEKTRONİK DEFTER ve BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+25.03.2023
+ELEKTRONİK DEFTER ve BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ UZAMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+24.03.2023
+e-Arşiv Fatura e-SMM e-MM ve e-Bilet Uygulamaları İçin Özel Entegratör veya Entegrasyon Yetkisi Alan Kurumların Dikkatine Duyurusuna Ulaşmak için
+tıklayınız.
+24.03.2023
+ELEKTRONİK DEFTER ve BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+27.02.2023
+e-Bilet Raporu Kılavuzları güncellenmiştir.
+e-Bilet Raporu Teknik Kılavuzuna (Etkinlik) ulaşmak için
+tıklayınız.
+e-Bilet Raporu Teknik Kılavuzuna (Havayolu) ulaşmak için
+tıklayınız.
+e-Bilet Raporu Teknik Kılavuzuna (Karayolu Denizyolu) ulaşmak için
+tıklayınız.
+24.02.2023
+e-Belge, başvurularınızı imzalamak ve imzalı giriş işlemlerinizi daha kolay yapabilmeniz için
+Java Uygulaması gerektirmeden
+imzalama işlemini yapabileceğiniz yeni imzalama aracı geliştirilmiştir. İndirmek için
+tıklayınız.
+(Windows işletim sisteminde geçerli)
+                                                        İmzalama Aracı kullanım kılavuzu için
+tıklayınız.
+17.02.2023
+e-İrsaliye Uygulamasında Karekod Standardı Kullanımı Hakkında Duyuruya Ulaşmak
+Tıklayınız.
+17.02.2023
+e-Fatura, e-Arşiv Fatura, e-İrsaliye, e-Serbest Meslek Makbuzu, e-Müstahsil Makbuzu, e-Sigorta Komisyon Gider Belgesi, e-Döviz ve Kıymetli Maden Alım Satım Belgesi ve e-Adisyon uygulamalarında düzenlenen belgelerde “Karekod” bulunmasına ilişkin açıklamaları içeren Karekod Standardı Kılavuzu yayınlanmıştır.
+Bu kapsamda, bahse konu Kılavuzda esasları belirlenen “Karekod”un 1/9/2023 tarihinden itibaren düzenlenecek elektronik belgelerde zorunlu olarak bulunması uygun görülmüştür.
+Özel entegratörler ile bilgi işlem sistemleri entegrasyonu yapan mükelleflerin söz konusu tarihe kadar sistemlerinde gerekli geliştirmeleri yapmaları gerekmektedir.
+Duyurulur.
+Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+17.02.2023
+e-Arşiv Başvuru Kılavuzu Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+17.02.2023
+e-Arşiv Kılavuzu Güncellenmiştir. Söz Konusu kılavuza ulaşmak için
+tıklayınız.
+14.02.2023
+e-Arşiv Fatura e-SMM e-MM ve e-Bilet Uygulamaları İçin Özel Entegratör veya Entegrasyon Yetkisi Alan Kurumların Dikkatine Duyurusuna Ulaşmak için
+tıklayınız.
+14.02.2023
+ELEKTRONİK DEFTER ve BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+07.02.2023
+e-Arşiv Fatura, e-SMM ve e-MM Uygulamaları İçin Özel Entegratör veya Entegrasyon Yetkisi Alan Kurumların Dikkatine
+Alıcılar tarafından adlarına düzenlenen; e-Arşiv Fatura, e-SMM ve e-MM belgelerinin görüntülenebilmesi amacıyla, kurumunuzca Başkanlığımıza gönderilen e-Arşiv raporların içerisinde yer alan belgelere ait .XML (e-SMM için ise .PDF) uzantılı  dosyalara ulaşılabilecek link eklenmesi zorunlu hale getirilmiştir. Bu kapsamda 06.03.2023 tarihine kadar gönderilen raporlarda ilgili linkin eklenmesi isteğe bağlı olup, söz konusu tarih itibariyle link bildirimi zorunlu hale gelecektir. Bu kapsamda güncellenen e-arşiv paketine ulaşmak için
+tıklayınız.
+31.01.2023
+Yetkili Müesseselerce Düzenlenen Kıymetli Maden Alım Ve Satım Belgelerinin Elektronik Döviz Ve Kıymetli Maden Alım Ve Satım Belgesi Olarak Düzenleme Zorunluluğu Getirilmesi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+31.01.2023
+e-Döviz ve Kıymetli Maden Alım-Satım Paketi yayımlanmıştır. Söz konusu pakete ulaşmak için
+tıklayınız.
+30.12.2022
+e-Sigorta Komisyon Gider Belgesi Paketi yayınlanmıştır. Söz konusu Pakete ulaşmak için
+tıklayınız.
+28.12.2022
+e-Fatura Paketi Güncellenmiştir. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+e-Arşiv paketi güncellenmiştir. Güncel pakete ulaşmak için
+tıklayınız.
+28.12.2022
+E-Fatura ve E-Arşiv Faturada Konaklama Vergisinin Gösterimi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+31.10.2022
+e-Fatura Paketi (şematron dosyası 01/11/2022 tarihinden itibaren devreye alınacak şekilde) Güncellenmiştir. Güncelleme kapsamında; “Tevkifatlı fatura tipinde yer alan “627” kodlu tevkifat türüne ilişkin tevkifat oranı 5/10 olarak güncellenmiştir. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+24.09.2022
+ELEKTRONİK DEFTER ve BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+17.09.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA DUYURU'ya ulaşmak için
+tıklayınız.
+15.09.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+10.09.2022
+e-Fatura ve e-İrsaliye Uygulamasında 1120 Hatası Alan Paketler Hakkında Duyuru'ya Ulaşmak İçin
+tıklayınız.
+08.09.2022
+e-İRSALİYE UYGULAMA KILAVUZUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA DUYURU’ya ulaşmak için
+tıklayınız.
+30.06.2022
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 535) Uygulaması Hakkında Duyuruya Ulaşmak için
+Tıklayınız.
+13.06.2022
+e-Fatura Paketi
+(şematron dosyası 15/06/2022 tarihinden itibaren devreye alınacak şekilde)
+Güncellenmiştir. Güncelleme kapsamında; “İstisna Fatura Tipi”nde yer alan istisna kodlarına (339) ve (340) kodları eklenmiş, “İhracat Senaryosu” nda yer alan (301) kodunun yanında (338) kodu da seçimlik olarak eklenmiştir. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+27.05.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+26.05.2022
+https://merkez.efatura.gov.tr
+uygulamasında kullanılan SSL sertifikası 27.05.2022 14.00’da yenilenecektir. 
+                                                    Yeni sertifikaya
+https://merkeztest.efatura.gov.tr
+uygulaması üzerinden erişebilirsiniz. Yeni yüklenecek sertifikanın güvenilen kök ve ara sertifika yetkililerinin bağlantıları aşağıda paylaşılmıştır.
+https://secure.globalsign.net/cacert/Root-R3.crt
+https://secure.globalsign.com/cacert/gsrsaovsslca2018.crt
+16.05.2022
+e-Sigorta Poliçesi Teknik Kılavuzu yayınlanmıştır. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+29.04.2022
+e-Fatura Paketi Güncellenmiştir. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+27.04.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ TAMAMALANMASI HAKKINDA DUYURUYA  ulaşmak için
+tıklayınız.
+27.04.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+14.04.2022
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+01.04.2022
+ELEKTRONİK BELGE ve DEFTER SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+21.02.2022
+e-Adisyon Belgesi için Başkanlığımızca yetkilendirilen özel entegratör listesi yayımlanmıştır. Listeye ulaşmak için
+tıklayınız.
+27.01.2022
+e-Arşiv paketi güncellenmiştir. Güncel pakete ulaşmak için
+tıklayınız.
+27.01.2022
+e-Arşiv Teknik Kılavuzu güncellenmiştir. Güncel kılavuza ulaşmak için
+tıklayınız.
+24.01.2022
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde değişiklik yapılmasına dair Tebliğ (Sıra No: 535) 22/01/2021 tarih ve 31727  sayılı Resmi Gazete yayımlanarak yürürlüğe girmiştir. Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+31.12.2021
+e-Sigorta Poliçesi Teknik Kılavuz taslağı yayınlanmıştır. Taslak kılavuzun geliştirilmesine ilişkin görüş ve önerilerinizi 14/01/2022 tarihine kadar
+eyeniaras@gelirler.gov.tr
+e-Posta adresine iletebilirsiniz. Kılavuza ulaşmak için
+tıklayınız.
+28.12.2021
+e-Fatura Uygulaması Özel Entegrasyon Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız.
+21.12.2021
+e-Arşiv Başvuru Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız.
+14.12.2021
+e-Döviz alım / satım belgesi paketi yayınlanmıştır. Söz konusu pakete ulaşmak için
+tıklayınız.
+25.11.2021
+e-Fatura Paketi Güncellenmiştir.Güncelleme kapsamında;
+                                                                      “İstisna Fatura Tipi”nde yer alan istisna kodlarına yeni kod (337) eklenmiş, “Tevkifatlı Fatura Tipi” nde yer alan tevkifat kodlarından (650) kodu kaldırılmış, GİB Portal üzerinden “Kamu Senaryosu” ile düzenlenen faturalarda  “İstisnalı Fatura Tipi” ile fatura düzenleme ve “SGK Fatura Tipi” ile düzenlenen faturalarda KDV’siz fatura düzenleyebilme imkanı sağlanmıştır. Söz Konusu Pakete ulaşmak için
+tıklayınız.
+25.11.2021
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+12.11.2021
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)'de Değişiklik Yapılmasına Dair Tebliğ Taslağı Hazırlanmıştır. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+22.10.2021
+ELEKTRONİK BELGE ve DEFTER SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+30.09.2021
+Yetkili Müesseselerce Düzenlenen Döviz Alım Ve Döviz Satım Belgelerinin Elektronik Döviz Alım ve Satım Belgesi Olarak Düzenleme Zorunluluğu Getirilmesi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+30.09.2021
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin “IV.2.4.3. e-Arşiv Fatura Olarak Düzenlenme Zorunluluğu Getirilen Diğer Faturalar” başlıklı bölümü kapsamında Başkanlık ile gerekli entegrasyonu sağlayan özel entegratörlerin sistemleri aracılığı ile de söz konusu faturaların düzenlenebileceği ifade edilmiştir. Bu kapsamda hazırlanan “E-Arşiv Fatura Portali Özel Entegratör Sistemleri ile Entegrasyon ve Uygulama Kılavuzu” yayınlanmıştır. Söz Konusu Kılavuza Ulaşmak için
+Tıklayınız.
+29.09.2021
+509 Sıra Numaralı Vergi Usul Kanunu Genel Tebliğ’in “IV.10. e-Döviz Alım-Satım Belgesi Uygulaması” başlıklı bölümünde usul ve esaslar belirlenen Döviz Alım-Satım Belgesine ait Teknik Kılavuz yayınlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+05.09.2021
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+03.09.2021
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+06.08.2021
+E-Belge Düzenleme Zorunluluğu Bulunan Mükelleflerin Kağıt Belge Düzenleyebileceği Durumlar Hakkında Duyuruya Ulaşmak için
+Tıklayınız.
+30.07.2021
+e-Adisyon Belgesi Teknik Kılavuzu yayınlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+12.07.2021
+“e-İrsaliye Uygulaması Kapsamında Özel Entegratör Olarak Hizmet Veren Mükellefler ile Uygulamadan Bilgi İşlem Sistemlerinin (BİS) Entegrasyonu Yöntemi ile Yararlanan Mükellefler Hakkında” Duyuruya ulaşmak için
+tıklayınız.
+06.07.2021
+Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi Başvuru Kılavuzu yayınlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+30.06.2021
+Sosyal Güvenlik Kurumu İle Sözleşme İmzalayan Sağlık Hizmeti Sunucuları İle Medikal Malzeme Ve İlaç/Etken Madde Temin Eden Tüm Mükellefler Hakkında Duyuruya ulaşmak için
+tıklayınız.
+30.06.2021
+“e-Fatura Uygulaması,  e-Arşiv Fatura ve e-SMM Uygulamaları Kapsamında Özel Entegratör Olarak Hizmet Veren Mükellefler ile Uygulamadan Bilgi İşlem Sistemlerinin (BİS) Entegrasyonu Yöntemi ile Yararlanan Mükellefler Hakkında” Duyuruya ulaşmak için
+tıklayınız.
+26.06.2021
+e-Arşiv Fatura Teknik Kılavuzu ve e-arşiv paketi güncellenmiştir. Söz konusu duyuruya ve ilgili e-Arşiv Teknik Kılavuzu ile e-Arşiv Paketine ulaşmak için
+tıklayınız.
+26.06.2021
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA
+ulaşmak için
+tıklayınız.
+25.06.2021
+e-Fatura Paketi Güncellenmiştir. Söz Konusu Duyuruya ve ilgili Pakete ulaşmak için
+tıklayınız.
+22.06.2021
+e-FATURA UYGULAMASINDA 1150 VE 1160 HATASI ALAN MÜKELLEFLERİMİZ
+Hakkında Duyuru yayınlanmıştır. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+11.06.2021
+e-Belge Uygulamalarında İptal İşlemleri ile İhbar ve İhtarların GİB Bilgi Sistemlerine Bildirim Usulleri Hakkında Duyuruya ulaşmak
+tıklayınız.
+04.06.2021
+e-İrsaliye uygulaması kapsamında güncellenen schematron dosyasının yer aldığı güncel e-fatura paketi yayınlanmıştır. Söz konusu duyuru ulaşmak için
+tıklayınız.
+Güncel e-Fatura paketine ulaşmak için
+tıklayınız.
+12.05.2021
+e-Arşiv Teknik Kılavuzu ve Paketi Güncellenmiştir.Güncelleme kapsamında;
+e-Arşiv Fatura ve e-SMM belgeleri için İtiraz Raporu eklenmiş olup İtiraz rapor elamanları açıklanmıştır.
+Söz Konusu Kılavuza ulaşmak için
+tıklayınız.
+Söz Konusu Pakete ulaşmak için
+tıklayınız.
+12.05.2021
+e- Fatura Uygulamasında düzenlenen faturalar için düzenleyicisi ve faturanın muhatabı alıcıları tarafından kullanılması suretiyle, düzenlenmiş faturaların elektronik ortamda iptal/itiraz talepleri oluşturulması ve iptal/itiraz taleplerinin elektronik ortamda onaylanmasına ilişkin usul, esas ve sürelerin belirlendiği “e-Fatura Uygulaması İptal, İhtar/İtiraz Bildirim Kılavuzu” yayımlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+03.05.2021
+e- Arşiv Uygulamalarında (e-Arşiv Fatura, e-SMM) düzenlenen belgeler için düzenleyicisi ve belgenin muhatabı alıcıları tarafından kullanılması suretiyle, düzenlenmiş belgelerin elektronik ortamda iptal/itiraz talepleri oluşturulması ve iptal/itiraz taleplerinin elektronik ortamda onaylanmasına ilişkin usul, esas ve sürelerin belirlendiği “e-Arşiv Uygulamaları (e-Arşiv Fatura, e-SMM) İptal, İhtar/İtiraz Bildirim Kılavuzu” yayımlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız.
+17.04.2021
+e-Fatura Paketi Güncellenmiştir.
+Güncelleme kapsamında;
+“Tevkifatlı İade Fatura Tipi” eklenmiş, “İhracat Fatura Senaryosu” nda “Teslim Şekilleri” ne ekleme yapılmış, “Özel Matrah Fatura Tipi” ile “ÖTV Tevkifatlı Fatura”  düzenleme kurallarına ekleme ve değişiklikler yapılmıştır.Söz Konusu Pakete ulaşmak için
+tıklayınız.
+17.04.2021
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+08.03.2021
+e-Arşiv Başvuru Kılavuzu güncellenmiştir. Kılavuza uluşmak için
+tıklayınız.
+02.03.2021
+5.000 TL ve 30.000 TL e-Arşiv Fatura Portali Girişinde Kullanıcı Kodu ve Şifre Kullanımı Hakkında Duyuruya ulaşmak için
+tıklayınız.
+27.02.2021
+35 Seri No'lu Katma  Değer Vergisi Genel  Uygulama Tebliğine göre 01.03.2021 tarihinde yürürlüğe girecek olan KDV Tevkifat Oranları ve Yeni Eklenen KDV Tevkifat Türleri ile Oranlarına İlişkin e-Fatura Paketi Güncellenmiştir. Söz Konusu Pakete Ulaşmak için
+tıklayınız.
+27.02.2021
+UBL-TR (Kod Listeleri) Kılavuzu Güncellenmiştir. Söz Konusu Kılavuza Ulaşmak için
+tıklayınız.
+23.02.2021
+Kamu Kurumlarına Düzenlenen E-Faturalar Hakkında Duyuruya ulaşmak için
+tıklayınız.
+15.02.2021
+e-Fatura Özel Entegrasyon Kılavuzu güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+09.02.2021
+509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde değişiklik yapılmasına dair Tebliğ (Sıra No: 526) 09/02/2021 tarih ve 31390 sayılı Resmi Gazete yayımlanarak yürürlüğe girmiştir. Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+22.01.2021
+ELEKTRONİK ARŞİV SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA  ulaşmak
+tıklayınız.
+10.01.2021
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA DUYURUYA ulaşmak
+tıklayınız.
+09.01.2021
+ELEKTRONİK BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURUYA ulaşmak için
+tıklayınız.
+06.01.2021
+01/01/2021 Tarihi İtibariyle E-Fatura ve E-Arşiv Fatura Uygulamalarına Dahil Olan Mükelleflerce Aralık 2020 Dönemine İlişkin Olarak Başkanlığımız 5.000 TL ve 30.000 TL E-Arşiv Fatura Portalı’ndan Düzenlenmesi Gereken Faturalar Hakkında Duyuruya ulaşmak için
+tıklayınız.
+31.12.2020
+E-BELGE UYGULAMALARINDAN
+                                                    GİB PORTAL YÖNTEMİ İLE YARARLANAN MÜKELLEFLERİMİZİN DİKKATİNE  başlıklı Duyuruya ulaşmak için
+tıklayınız.
+30.12.2020
+E-Fatura Uygulamasına Geçmesi Gerekmekle Birlikte Henüz Mali Mühürlerini Temin Edemeyen Mükellefler Hakkında Duyuruya ulaşmak için
+tıklayınız.
+29.12.2020
+Şehirlerarası Tarifeli Yolcu Taşımacılığı Faaliyetiyle İştigal Eden (D1) Yetki Belgeli İşletmelerin e-Bilet Uygulamasına Geçiş Zorunluluğu Hakkında Duyuruya ulaşmak için
+tıklayınız.
+06.10.2020
+e-Dekont belgesine ait e-Arşiv raporunda bulunması gereken alanların açıklamalarının yer aldığı e-Dekont Teknik Kılavuzu ve paketi güncellenmiştir.
+Güncel e-Dekont paketine ulaşmak için
+tıklayınız.
+02.10.2020
+YERLİ VE YABANCI FİLM GÖSTERİMİ YAPAN SİNEMA İŞLETMELERİ HAKKINDA DUYURU ya ulaşmak için
+tıklayınız.
+30.09.2020
+e-Bilet Uygulamalarına ilişkin
+mevcut Teknik Kılavuzlar
+güncellenmiş ayrıca
+e-Bilet Rapor Özeti Kılavuzu
+yayınlanmıştır. Bu kapsamda;
+·         E-Bilet uygulamalarına ilişkin olarak raporlama sürelerini gösterir bölümler eklenmiştir.
+·         E-Bilet Raporu Teknik Kılavuzuna (Etkinlik); ”Sinema e-Bilet Uygulaması Yeni Nesil ÖKC Entegrasyonu ve Eğlence Vergisi” başlıklı bölüm eklenmek suretiyle sinema işletmelerince uyulması gereken usul ve esaslar açıklamıştır.
+                                                       Söz konusu kılavuzlara ulaşmak için
+tıklayınız.
+30.07.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURU ya ulaşmak için
+tıklayınız.
+28.07.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA DUYURU ya ulaşmak için
+tıklayınız.
+16.07.2020
+e-İrsaliye Uygulama Kılavuzu güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+14.07.2020
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)'de Değişiklik Yapılmasına Dair Tebliğ Taslağı Hazırlanmıştır. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+10.07.2020
+Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi Paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+09.07.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILAN PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA Duyuruya Ulaşmak İçin
+tıklayınız.
+09.07.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA duyuruya ulaşmak için
+tıklayınız.
+03.07.2020
+e-SMM Broşürü yayınlanmıştır. Bilgi için
+tıklayınız..
+03.07.2020
+“e-Arşiv Teknik Kılavuzu” 1.10 Versiyonu yayınlanmış olup ilgili Kılavuza
+“E-Arşiv Faturaların Başkanlığa Aktarımı” bölümü eklenmiştir.
+Güncel “Kılavuz”a ulaşmak için
+tıklayınız..
+02.07.2020
+1 Temmuz tarihi itibariyle e-Fatura ve e-Arşiv Fatura uygulamalarına dahil olan mükelleflerce 30 Haziran 2020 tarihine “5.000 TL ve 30.000 TL e-Arşiv Fatura Portalı”ndan düzenlenmesi gereken e-Arşiv Faturalar Hakkında
+1 Temmuz tarihi itibariyle e-belge uygulamalarına dahil olan mükelleflerce, 30 Haziran 2020 tarihine 5.000 TL ve 30.000 TL e-Arşiv Fatura Portalından düzenlenmesi gereken e-Arşiv Faturalar ile ilgili olarak, ilgili Portal hesaplarına erişemeyen mükellefler,
+earsiv@gelirler.gov.tr
+e-posta adresine başvurmaları halinde, portal hesapları söz konusu e-Arşiv Faturaları düzenleyebilmeleri için geçici süreliğine açılacaktır.
+Duyurulur.
+25.05.2020
+Elektronik İmza veya Mali Mühür Temin Süreçleri Devam Eden Serbest Meslek Erbaplarınınca E-Smm Uygulamasına İnteraktif Vergi Dairesi Uygulaması Üzerinden de Başvuru Yapılabilmesi Hakkında Duyuruya ulaşmak için
+tıklayınız.
+21.05.2020
+“Efatura Merkez Uygulamasında yayınlanan “ Zipli eski etiketleri içeren XML Formatı”(userListWithExAliasxml.zip ve  userGbListWithExAliasxm.zip) ve ” Zipli XML Formatı”(userListxml.zip ve userGbListxml.zip ) adlı dokümanların  01.07.2020 tarihinden itibaren güncellenmesi durdurularak, ilgili adresten bağlantıları kaldırılacaktır. Bu kullanıcı listelerini kullanan entegratörlerin söz konusu tarihe kadar gerekli çalışmaları yaparak sistemlerini  “YeniFormat”(newUserPKListxml.zip ve newUserGBListxml.zip) dokümanlarını kullanıyor hale getirmesi gerekmektedir.” Duyurulur.
+21.05.2020
+Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi Paketi yayımlanmıştır. Söz konusu paket ile; Başvuru, İzin, Onay ve Denetim Süreçleri Kılavuzu ile eki Test ve Doğrulama Adımları Tablosu güncellenmiş olup, ayrıca İşletici Kuruluş Faaliyet İzni Başvuru Formu ile denetim yapacak firmalara yönelik hazırlanan İşletici Kuruluş Sistemi Fonksiyonel Test Süreçleri Dokümanı ve  İşletici Kuruluş Sistemi Güvenlik Test Süreçleri Dokümanı yayımlanmıştır. Söz konusu pakete ulaşmak için
+tıklayınız..
+02.04.2020
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+13.03.2020
+AKARYAKIT SEKTÖRÜNDE FAALİYET GÖSTEREN MÜKELLEFLERİN E-İRSALİYE UYGULAMASINA GEÇİŞ ZORUNLULUĞU HAKKINDA DUYURU'ya ulaşmak için
+tıklayınız
+.
+11.03.2020
+E-SERBEST MESLEK MAKBUZU UYGULAMASINA GEÇMESİ GEREKEN MÜKELLEFLER HAKKINDA
+DUYURU  YAYINLANMIŞTIR.Ulaşmak İçin
+tıklayınız..
+29.02.2020
+e-İrsaliye Uygulama Kılavuzu yayımlanmıştır. Söz konusu kılavuza ulaşmak için
+tıklayınız
+.
+23.02.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILAN PLANLI BAKIM ÇALIŞMASININ TAMAMLANMASI HAKKINDA DUYURUYA ULAŞMAK İÇİN
+tıklayınız
+.
+23.02.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA duyuruya ulaşmak için
+tıklayınız
+.
+21.02.2020
+ELEKTRONİK DEFTER VE BELGE SİSTEMLERİNDE YAPILACAK PLANLI BAKIM ÇALIŞMASI HAKKINDA duyuruya ulaşmak için
+tıklayınız
+.
+05.02.2020
+KULLANICI KODU, ŞİFRE VE ELEKTRONİK İMZA ARAÇLARININKULLANIMINDA DİKKAT EDİLECEK HUSUSLAR HAKKINDA DUYURU
+Gelişen bilgi teknolojileri ile birlikte Başkanlığımızca sunulan hizmetlerin büyük bölümü elektronik
+ortama taşınmış bulunmaktadır. Bu ortamlardan mükelleflerimiz interaktif vergi dairesi kullanıcı kodu
+ve şifreleri ile ya da elektronik imza araçları (mali mühür/e- imza) ile faydalanabilmektedirler.
+Her bir mükellefe özgü olarak oluşturulan, tahsis edilen elektronik imza araçları ile kullanıcı kodu
+ve şifrelerinin kullanım, korunma ve yetkisiz kişiler ile paylaşılmama sorumluluğu mükelleflerimize aittir.
+Bu nedenle Başkanlığımızca elektronik ortamlar vasıtasıyla mükelleflerimizin erişimine sunulan bilgi ve
+hizmetlerin yetkisiz kişilerce suiistimalinin engellenmesi, kişisel veriler ile mali bilgilere üçüncü
+kişilerce erişilememesi için elektronik imza araçları ile kullanıcı kodu ve şifrelerinizin tarafınızca
+güvenli ortamlarda saklanması ve önem arz etmektedir.
+Duyurulur.
+31.01.2020
+e-Dekont Uygulaması Teknik Kılavuzu paketi yayımlanmıştır. Söz konusu Kılavuza ulaşmak için
+tıklayınız..
+10.01.2020
+Hal tipi fatura örneklerinin ve güncel XSLT’nin bulunduğu UBL-TR1.2.1_Paketi.zip paketi güncellenmiştir. Ulaşmak için
+tıklayınız..
+10.01.2020
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+10.01.2020
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)'nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No:515) Resmi Gazete'de Yayımlanmıştır. Ulaşmak İçin
+Tıklayınız..
+10.01.2020
+Mali Mühür Başvuru Sürecine İlişkin Açıklayıcı Tabloya Ulaşmak İçin
+tıklayınız..
+03.01.2020
+10/12/2003 Tarihli ve 5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanununa Ekli Cetvellerde Yer Alan İdare, Kurum ve Kuruluşlar ile İktisadi Kamu Kuruluşlarınca 5.000/30.000 TL Üzeri Düzenlenecek Faturalar Hakkında Duyuru Yayınlanmıştır. Ulaşmak İçin
+tıklayınız...
+02.01.2020
+5000 / 30.000 TL ve Üzeri Düzenlenecek e-Arşiv Faturalar Hakkında Duyuru Yayınlanmıştır. Ulaşmak için
+tıklayınız..
+30.12.2019
+"Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi; Başvuru, İzin, Onay ve Denetim Süreçleri Kılavuzu" ile Kılavuz Eki "Test ve Doğrulama Adımları Tablosu" yayımlanmıştır. İlgili kılavuz ve eki tabloya ulaşmak için aşağıdaki linklere tıklayınız.
+GMÖEBYS TEKNİK KILAVUZU
+GMÖEBYS Test ve Doğrulama Adımları Tablosu
+27.12.2019
+e-Arşiv Fatura Uygulamasına Dahil Olmayan Mükelleflerce 1/1/2020 Tarihinden İtibaren Düzenlenecek Tutarı 5.000 TL ve 30.000 TL’yi Aşan Faturaların e-Arşiv Fatura Olarak GİB e-Belge Portalından Düzenlenmesine İlişkin Videoya
+https://tv.gib.gov.tr/
+Web Adresinden Ulaşabilirsiniz.
+27.12.2019
+e-Arşiv Fatura 5 bin – 30 bin TL Fatura Düzenleme Kılavuzu yayınlanmıştır. Söz Konusu Kılavuza Ulaşmak İçin
+tıklayınız..
+20.12.2019
+e-Dekont uygulaması taslak paketi yayımlanmıştır. Pakete ulaşmak için
+tıklayınız..
+20.12.2019
+509 sıra Nolu Vergi Usul Kanunu Genel Tebliği Uygulamalarına İlişkin Sıkça Sorulan Sorulara Ulaşmak İçin
+tıklayınız..
+19.12.2019
+e-Arşiv Fatura Uygulamasına Dahil Olmak Zorunda Olan Mükelleflerimizin 1/1/2020 tarihinden itibaren GİB portal Üzerinden e-Arşiv Fatura Düzenleyebilmeleri Amacıyla GİB e-Arşiv Portal Başvuru Ekranı Açılmıştır. e-Arşiv Portal Uygulamasına Başvuru Rehberi İçin
+tıklayınız..
+e-Arşiv Fatura Uygulamasına Dahil Olmak Zorunda Olan Mükelleflerimiz için duyuru yayımlanmıştır. İlgili duyuruya ulaşmak için
+tıklayınız..
+19.12.2019
+Sebze ve Meyve Ticaretiyle İştigal Eden Komisyoncu ve Tüccarların e-Belge ve  e-Defter Uygulamalarına Geçişi Hakkında Duyuru yayınlanmıştır. Ulaşmak için
+tıklayınız..
+13.12.2019
+e-Arşiv Fatura Uygulamasına Dahil Olmayan Mükelleflerce 1/1/2020 Tarihinden İtibaren Düzenlenecek ve Tutarı 5.000 TL ve 30.000 TL’yi Aşan Faturaların e-Arşiv Fatura Olarak GİB Portalinden Düzenlenmesine İlişkin Açıklamaların Yer Aldığı Duyuru Yayımlanmıştır. Söz Konusu Duyuruya ulaşmak için
+tıklayınız..
+13.12.2019
+507 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile ilgili olarak hazırlanan
+“Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi Başvuru, İzin, Onay ve Denetim Süreçleri Teknik Kılavuz”
+taslağı ve
+“GMÖEBYS Test Adımları Tablosu”
+taslağı güncellenerek yayınlanmıştır.Bu “Teknik Kılavuz” taslağının geliştirilmesi ve yayınlanmaya hazır hale getirilmesi için Başkanlığımızca çalışmalar devam etmekte olup; mevcut taslakta yer alan konuların geliştirilmesi, değiştirilmesi veya katkıda bulunulması ile ilgili görüş ve önerilerinizi
+25/12/2019 tarihine kadar
+" EYENIARAS@gelirler.gov.tr "
+ve
+" KPERCIN@gelirler.gov.tr "
+e posta adreslerine iletebilirsiniz.
+“GMÖEBYS Başvuru, İzin, Onay ve Denetim Süreçleri Teknik Kılavuz”
+taslağı için
+tıklayınız..
+“GMÖEBYS Test Adımları Tablosu”
+taslağı için
+tıklayınız..
+29.11.2019
+e-Belge Uygulamalarına Mükellef Grupları İtibariyle Başlama Tarihlerini  Gösterir DETAY Tabloya Ulaşmak için
+tıklayınız..
+19.11.2019
+e-BELGE ÖZEL ENTEGRATÖRLERİ BİLGİ SİSTEMLERİ DENETİMİ KILAVUZU yayınlanmıştır. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+15.11.2019
+Kamuya düzenlenen e-Faturalarda KAMU FATURA Senaryosu eklenmiş olup kullanımı şu an zorunlu değildir. Senaryosu TEMEL veya KAMU olan tüm Kamuya düzenlenen faturalarda ilgili alanlara geçerli bir Türkiye IBAN numarası  ve para birimi kodu yazılması gerekmektedir. Kılavuzda yer alan XML örneğinde göründüğü üzere IBAN bilgisi PaymentMeans/PayeeFinancialAccount/ID alanına, para birimi ise PaymentMeans/PayeeFinancialAccount/CurrencyCode alanına yazılmalıdır.
+13.11.2019
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+21.10.2019
+Elektronik belgeleri düzenleyen 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği
+Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için
+tıklayınız..
+04.10.2019
+507 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile ilgili olarak hazırlanan “Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemi Başvuru, İzin, Onay ve Denetim Süreçleri Teknik Kılavuz”  taslağı ve “GMÖEBYS Test Adımları Tablosu”  taslağı yayınlanmıştır.Bu “Teknik Kılavuz” taslağının geliştirilmesi ve yayınlanmaya hazır hale getirilmesi için Başkanlığımızca çalışmalar devam etmekte olup; mevcut taslakta yer alan konuların geliştirilmesi, değiştirilmesi veya katkıda bulunulması ile ilgili görüş ve önerilerinizi 21/10/2019 tarihine kadar " kpercin@gelirler.gov.tr " ve " euysal@gelirler.gov.tr " e posta adreslerine iletebilirsiniz.
+“GMÖEBYS Başvuru, İzin, Onay ve Denetim Süreçleri Teknik Kılavuz” taslağı için
+tıklayınız..
+“GMÖEBYS Test Adımları Tablosu” taslağı için
+tıklayınız..
+22.08.2019
+Değerli Mükelleflerimiz; Planlı bakım çalışmaları kapsamında 21 Ağustos günü saat 16:00'dan önceki faturalarınız için "İPTAL PORTALI" çalışmayacaktır. Bu faturalarınız için TTK hükümlerine göre harici yollar ile iptal yöntemini kullanabilirsiniz. Temel faturalara harici itiraz yolları için e-Fatura forum sitesinin 9920 numaralı sorusunun cevabını inceleyebilirsiniz.
+21.08.2019
+e-FATURA SİSTEMİ PLANLI BAKIM SEBEBİYLE 15:00 İLE 16:00 SAATLERİ ARASINDA KAPALI KALACAKTIR.
+24.07.2019
+Kamu Harcama Süreçlerinde e-Fatura Kullanımı Hakkında Duyuru yayınlanmıştır. Söz konusu duyuruya ulaşmak için
+tıklayınız..
+03.07.2019
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+27.06.2019
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+11.06.2019
+Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemine İlişkin Vergi Usul Kanunu Genel Tebliği (Sıra No:507) Resmi Gazete’de Yayımlandı. Söz konusu Tebliğe ulaşmak için
+tıklayınız..
+17.04.2019
+Güvenli Mobil Ödeme ve Elektronik Belge Yönetim Sistemine İlişkin Vergi Usul Kanunu Genel Tebliğ Taslağı Hazırlanmıştır. Ulaşmak için için
+tıklayınız..
+15.04.2019
+Elektronik Defter ve Belge Uygulamalarına İlişkin Genel Tebliğlerin Birleştirilmesi Amacıyla “Vergi Usul Kanunu Genel Tebliğ Taslağı” Hazırlanmıştır. Ulaşmak için
+tıklayınız..
+05.03.2019
+e-Fatura uygulamasında
+“Temel Fatura”
+senaryosunda düzenlenen ancak e-Fatura uygulamasına ilişkin sistem üzerinden
+Kabul
+veya
+Red
+yanıtı dönülemeyen e-Faturaların,  elektronik ortamda iptal talebinin e-Faturanın düzenleyicisi tarafından oluşturulması ve iptal taleplerinin elektronik ortamda muhatabı alıcıları tarafından onaylanmasını sağlamak amacıyla, Gelir İdaresi Başkanlığınca
+“e-Fatura İptal Portalı”
+mükelleflerimizin kullanımına sunulmuştur. e-Fatura İptal Portalı’na ulaşmak için
+tıklayınız..
+Temel Senaryoda Düzenlenen e-Faturaların İptaline İlişkin  “E-Fatura İptal Portalı” Kullanım Kılavuzu'na ulaşmak için
+tıklayınız..
+21.02.2019
+ELEKTRONİK SERBEST MESLEK MAKBUZU (E-SMM) DÜZENLENMESİ SIRASINDA  BRÜT ÜCRETTEN, NET ÜCRETTEN VEYA NET TAHSİLATTAN HAREKETLE  HESAPLAMALARIN OTOMATİK OLARAK YAPILMASINA İMKAN SAĞLANMIŞTIR.
+Duyuruya ulaşmak için
+tıklayınız..
+04.02.2019
+E-FATURA UYGULAMASINA KAYITLI KULLANICILARIN KAMU HARCAMA BİRİMLERİNE DÜZENLEYECEKLERİ FATURALARIN E-FATURA OLARAK DÜZENLENEBİLMESİ HAKKINDA DUYURU!
+Ulaşmak için
+tıklayınız..
+17.12.2018
+24.10.2018 tarihinden beri Taslak olarak yayında olan Tebliğler ile, e-Fatura, e-Defter, e-Arşiv Fatura, e-İrsaliye, e-SMMM, E-Müstahsil Makbuzu uygulamalarına ilişkin olarak hangi sektör ve mükellef gruplarına uygulamalara geçme zorunluluğu getirilmesi planlandığını gösterir karşılaştırmalı Tablo için
+tıklayınız..
+30.11.2018
+01.01.2019 Tarihi İtibariyle E-Fatura, E-Arşiv Fatura Ve E-Defter Uygulamalarına
+Zorunlu Olarak Dahil Olması Gereken Mükellefler Hakkında Duyuru!Detaylı bilg için
+tıklayınız
+30.11.2018
+İhracat e-Faturasına ait Ticaret Bakanlığı sisteminden dönen
+Referans Numarası
+bilgisi Ticaret Bakanlığı tarafından  dönülen sistem yanıtları içinde mevcuttur. İlgili bilgiye
+“SenderParty elemanı içinde bulunan PartyIdentification schemeID=GTB_REFNO”
+alanından ulaşılabilmekte olup, Gib portal yöntemi kullanıcıları
+“ belge bazında listeleme”
+ekranından bu bilgiyi  görebilmektedirler. Duyurulur.
+28.11.2018
+e-Fatura Uygulamasına başvuru yapmadan önce Java belleğini (cache) temizlemeniz gerekmektedir.
+http://forum.efatura.gov.tr/
+sitesindeki 331 nolu sorunun cevabını inceleyerek Java belleğini (cache) temizleme ile ilgili yardım alabilirsiniz.
+Aksi taktirde Portal yönteminde 01.01.2019 tarihini seçerek başvuru yapmanıza ve Başkanlığımız sistemlerine doğru bir şekilde aktarılmasına rağmen tarafınıza 01.01.2018 tarihi ile başlamanız gerektiğine dair başvuru evrakı gelebilmektedir. Bu durum mükelleflerin tereddüte düşmelerine neden olmaktadır. Konuya dikkat edilmesi tavsiye olunur.
+14.11.2018
+Özel entegratörler için e-irsaliye kullanıcı tanımı sırasında, tanımı yapılacak mükellefin irsaliye alış verişinde kullanacağı etiketleri bildirme zorunluluğu  getirilecektir. Test ortamına bu kural eklenmiş olup, gerçek ortama
+02.01.2019
+tarihinde eklenecektir. Özel entegratörlerin bu tarihe kadar uygulamalarında gerekli güncellemeleri yapmaları gerekmektedir.
+30.10.2018
+"e-Arşiv Teknik Kılavuzu" güncellenmiş olup, en geç takip eden ayın 15. Günü sonuna kadar gönderilmesi gereken e-Arşiv Raporları 1/1/2019 tarihinden itibaren günlük olarak raporlanacaktır. Söz konusu kılavuza ulaşmak için
+tıklayınız..
+25.10.2018
+"Parekende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu" güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız..
+24.10.2018
+Vergi Usul Kanunu Genel Tebliği (Sıra No:454)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Güncellendi.
+Tıklayınız..
+Vergi Usul Kanunu Genel Tebliği (Sıra No:433)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Güncellendi.
+Tıklayınız..
+Vergi Usul Kanunu Genel Tebliği (Sıra No:487)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Güncellendi.
+Tıklayınız..
+03.10.2018
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+24.09.2018
+SSL v3'ün eski bir protokol olması ve güvensizliği nedeniyle efatura merkez mesaj alımlarında 15 Ekim 2018 tarihinden itibaren desteği kaldırılacaktır.
+18.09.2018
+e-Fatura görüntülerinde kullanılan Gelir İdaresi Başkanlığı logosu Bakanlığımızın adının “
+T.C. Hazine ve Maliye Bakanlığı
+” olarak değişmesi nedeniyle Başkanlığımızca değiştirilmiştir. Bu nedenle UBL TR 1.2.1 Paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız..
+10.08.2018
+Vergi Usul Kanunu Genel Tebliği (Sıra No:454)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Hazırlandı. Söz konusu Tebliğ Taslağı için
+tıklayınız..
+Vergi Usul Kanunu Genel Tebliği (Sıra No:487)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Güncellendi. Söz konusu Tebliğ Taslağı için
+tıklayınız..
+Vergi Usul Kanunu Genel Tebliği (Sıra No:433)’nde Değişiklik Yapılmasına Dair Tebliğ Taslağı Güncellendi. Söz konusu Tebliğ Taslağı için
+tıklayınız..
+10.08.2018
+MALİ MÜHRÜ KİLİTLENEN MÜKELLEFLERİMİZİN DİKKATİNE!
+e-Defter ve e-Belge (e-Fatura, e-SMM, e-İrsaliye, e-Arşiv Fatura, e-MM) uygulamalarını kullanan mükelleflerimiz, Kamu Sertifikasyon Merkezinden temin etmiş oldukları “Mali Mührün kilitlenmesi” durumunda;
+https://mbireysel.kamusm.gov.tr
+linkine giriş yapmak suretiyle kilit çözme ve yeni şifre belirleme işlemini gerçekleştirebilirler.
+08.08.2018
+e-Fatura Özel Entegrasyon Kılavuzu güncellenmiştir. Söz konusu dökümana ulaşmak için
+tıklayınız..
+03.08.2018
+‘‘e-İrsaliye Uygulama Kılavuzu’’ taslağı yayınlanmıştır. Taslağa ilişkin görüşler
+efatura@gelirler.gov.tr
+adresine 10.08.2018 tarihine kadar iletilebilir. Taslağa ulaşmak için
+tıklayınız..
+01.08.2018
+e-Arşiv Fatura Uygulaması kapsamında fatura düzenleyen mükellefler hakkında yayımlanan duyuruya ulaşmak
+tıklayınız.
+31.07.2018
+“Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu” güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+31.07.2018
+Tercih Bildirim Ekranının kullanımına ve bildirimde bulunacakların kapsamı ile başvuru ve bildirimlere ilişkin uyulacak diğer usul ve esaslara yönelik “Teknik Kılavuz” güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+17.07.2018
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+01.06.2018
+“Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu” güncellenmiştir.
+Söz konusu kılavuza ulaşmak için
+tıklayınız..
+Ödeme kaydedici cihazlardan düzenlenen günlük Kapanış (Z) Raporlarının 1/10/2018 tarihinden itibaren GİB’e Elektronik Ortamda
+Bildirim Yönteminin seçimine ilişkin “Tercih Bildirim Ekranı” kullanıma açılmıştır.
+Söz konusu ekrana ulaşmak için
+tıklayınız..
+Tercih Bildirim Ekranının kullanımına ve  bildirimde bulunacakların kapsamı ile başvuru ve bildirimlere ilişkin uyulacak diğer usul ve esaslara  yönelik “Teknik Kılavuz” yayınlanmıştır.
+Söz konusu kılavuza ulaşmak için
+tıklayınız..
+29.05.2018
+Bilindiği üzere; 21/3/2018 tarihli ve 7103 sayılı Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 12 nci maddesi ile 213 sayılı Vergi Usul Kanununun 353 üncü maddesinde yer alan belgelerin
+elektronik belge olarak düzenlenmesi gerekirken, Maliye Bakanlığınca belirlenen zorunlu haller hariç olmak üzere, kâğıt olarak düzenlenmesi halinde özel usulsüzlük cezası kesileceğine ilişkin düzenlemeye
+gidilmiştir.
+Bu kapsamda, kanun lafzında belirtilen
+“Maliye Bakanlığınca belirlenen zorunlu haller”
+in kapsamının açık bir şekilde mükelleflerimizce anlaşılabilmesi ve hangi hallerde ve koşullarda mükelleflerimizin cezai bir işleme maruz kalmadan elektronik belge yerine kağıt belge düzenleyebilmesinin mümkün olduğu durumları detaylı olarak açıklamak üzere;  25/05/2018 tarih ve  30431 sayılı Resmi Gazete’de 494 Sıra No.lu Vergi Usul Kanunu Genel Tebliği yayımlanmıştır.
+Söz Konusu Genel Tebliğe Ulaşmak İçin
+Tıklayınız...
+14.05.2018
+e-Fatura Uygulaması Entegrasyon Kılavuzu - v1.9 yayınlanmıştır. Ulaşmak için
+tıklayınız..
+17.04.2018
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+16.04.2018
+“İhracat İşlemlerinde E-Fatura Uygulamasında Gümrük Çıkış Beyannamesine Navlun ve Sigortanın Yazılması Hakkında Duyuru “ iptal edilmiştir. Ayrıntılar için
+tıklayınız..
+04.04.2018
+“e-Arşiv Teknik Kılavuzu” 1.7 Versiyonu yayınlanmış olup ilgili “Kılavuz”a Elektronik Serbest Meslek Makbuzu, Elektronik Müstahsil Makbuzu ve “zRapor”u ile ilgili bilgiler eklenmiştir. Güncel “Kılavuz”a ulaşmak için
+tıklayınız..
+21.03.2018
+Mükelleflerimizin Dikkatine
+e-Fatura FORUM sitemiz tekrar aktif olmuştur. Mükelleflerimizin elektronik uygulamalarımıza ilişkin soruları ilgili sitemiz üzerinden alınmaya devam edilecektir.
+DUYURULUR.
+15.03.2018
+Mükelleflerimizin Dikkatine
+e-fatura FORUM sitemiz bakım nedeniyle  geçici olarak kapatılmıştır. Bu süre Zarfında  Elektronik Uygulamalara ilişkin sorularınız için
+efatura@gelirler.gov.tr
+,
+edefter@gelirler.gov.tr
+,
+earsiv@gelirler.gov.tr
+,
+ebilet@gelirler.gov.tr
+,
+ihracat.efatura@gelirler.gov.tr
+adreslerimizi kullanılabilirsiniz.
+DUYURULUR.
+23.02.2018
+02.04.2018 tarihinden itibaren e-fatura sisteminde istekler TLS 1.2 SSL standardında entegratörlere gönderilecektir. Entegratörlerin SSL isteklerini 02.04.2018 tarihine kadar TLS 1.2 standardında almaya hazır olmaları gereklidir.
+19.02.2018
+Türkiye’den serbest bölgeye mal ihracı yapan e-fatura mükellefleri tarafından  (alıcının   e-fatura kullanıcısı olması halinde)  düzenlenen ihracat e-faturalarının XML halinin de mutlaka  elektronik bir kanaldan (mail vb.) alıcıya ulaştırılması gerekmektedir. Bu kurala uyulmayıp ilgili e-faturanın kağıt çıktısının alınarak gönderilmesi durumunda bu çıktı alıcı nezdinde Bakanlığımız tarafından geçerli bir belge olarak kabul edilmemektedir. DUYURULUR.
+19.02.2018
+7/7/2017 tarihli duyurumuza göre kağıt çıktı ile ihracat işlemleri tamamlanıp sonradan referans numarası alınan faturalar için Gümrük ve Ticaret Bakanlığı’nca otomatik kabul yanıtı gönderilmeye başlanmış olup bu faturalar için mükelleflerimizce yapılması gereken herhangi bir işlem bulunmamaktadır. DUYURULUR.
+13.02.2018
+'E-FATURA REKLAM AMAÇLI DÜZENLEYENLER HAKKINDA' Duyuru için
+tıklayınız..
+09.02.2018
+e-Fatura Uygulaması  Gümrük İşlemleri Kılavuzu (1.8) güncellenmiştir. Ulaşmak için
+tıklayınız..
+08.02.2018
+Planlı Bakım Çalışması: 11/02/2018 tarihinde saat 10:00 – 18:00 arası e-Fatura, e-Defter, e-Arşiv(e-SMM, e-MM), e-Bilet, e-İrsaliye sistemlerinde planlı bakım çalışması yapılacak olup, bu saatler arasında sistemlerimiz kapalı olacaktır. Duyurulur
+07.02.2018
+Bilindiği üzere 13.04.2017 tarihinde UBL-TR 1.2.1 Paketi ve UBL-TR 1.2.1 Kılavuzları güncellenmiştir.  e-Fatura sistemi, fatura alışverişinde hem UBL TR 1.2.1 hem de UBL TR 1.2 destekleyecek şekilde çalışmaktadır. Bu nedenle e-Fatura'ya entegre olan sistemler fatura versiyonu olarak hem 1.2 hem de 1.2.1 versiyonunu destekleyecek şekilde çalışmalıdır. 1.2.1 veya 1.2 versiyon numarası nedeniyle faturaların kabul edilmemesi söz konusu değildir. Duyurulur.
+06.02.2018
+İhracat ve Yolcu Beraberi Eşya Faturalarının e-Fatura Olarak Düzenlenip Gönderilmesine İlişkin Sıkça Sorulan Sorular Güncellenmiştir.
+Ulaşmak için
+tıklayınız..
+eFatura, e-Defter, e-Bilet uygulamalarında sıkça sorulan sorular güncellenmiştir. Ulaşmak için
+tıklayınız..
+10.01.2018
+E-SERBEST MESLEK MAKBUZU VE E-MÜSTAHSİL MAKBUZU UYGULAMALARI HAKKINDA DUYURU!
+Ayrıntılı bilgi için
+tıklayınız..
+08.01.2018
+487 Sıra No’ lu Vergi Usul Kanunu Genel Tebliği kapsamında e-Serbest Meslek Makbuzu (e-SMM) ve e-Müstahsil Makbuzu (e-MM) uygulamalarından yararlanmak isteyen mükellefler için e-Arşiv Başvuru Kılavuzu güncellenmiştir. Söz konusu Kılavuza ulaşmak için
+tıklayınız..
+26.12.2017
+Eski Nesil ÖKC'lerin Mali Hafızaları Doluncaya Kadar Kullanılabilmesi Hakkında Daha Önce Yayınlanmış Olan Duyuru Güncellenmiştir. Söz konusu duyuruya ulaşmak için
+tıklayınız..
+21.12.2017
+Eski Nesil Ödeme Kaydedici Cihazlara Mali Hafızaları Doluncaya Kadar Kullanma İmkanı Getirilmiştir. Söz konusu duyuruya ulaşmak için için
+tıklayınız..
+21.12.2017
+487 No.lu Vergi Usul Kanunu Genel Tebliği kapsamında Başkanlığımızdan “e-İrsaliye Özel Entegrasyon” izni alan kurumlar
+alfabetik sıraya göre listelenmiştir. Ulaşmak için
+tıklayınız..
+19.12.2017
+e-İrsaliyeye yönelik e-Fatura test planı güncellenmiştir. Söz konusu dökümana ulaşmak için
+tıklayınız..
+18.12.2017
+Yaygın olarak kullanılan belgeler arasında yer alan “sevk irsaliyesi”, “müstahsil makbuzu” ve “serbest meslek makbuzu” belgelerinin kağıt belge yerine, elektronik ortamda; elektronik belge olarak düzenlenmesi, iletilmesi ile muhafaza ve ibraz edilebilmesine ilişkin hazırlanan 487 Sıra No.lu Vergi Usul Kanunu Genel Tebliği yayımlanmıştır. Söz konusu Tebliğe ulaşmak için
+tıklayınız..
+e-İrsaliye Uygulaması Başvuru Rehberi ve Klavuzu Yayımlanmıştır. Söz konusu klavuza ulaşmak için
+tıklayınız..
+13.12.2017
+e-İrsaliyeye yönelik e-Fatura test planı güncellenmiştir. Söz konusu dökümana ulaşmak için
+tıklayınız..
+e-İrsaliye entegrasyon işlemleri için e-Fatura Özel Entegrasyon Kılavuzu güncellenmiştir Söz konusu dökümana ulaşmak için
+tıklayınız..
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız..
+08.12.2017
+30/09/2017 tarih ve 30196 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 483 Sıra Nolu Vergi Usul Kanunu Genel Tebliği kapsamında hazırlanacak rapora ilişkin olarak , “Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu” güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+30/09/2017 tarih ve 30196 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 483 Sıra Nolu Vergi Usul Kanunu Genel Tebliği kapsamında hazırlanacak rapora ilişkin olarak e-Arşiv Paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+27.11.2017
+30/09/2017 tarih ve 30196 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 483 Sıra Nolu Vergi Usul Kanunu Genel Tebliği kapsamında hazırlanacak rapora ilişkin olarak , “Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu” güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız.
+21.11.2017
+30/09/2017 tarih ve 30196 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 483 Sıra Nolu Vergi Usul Kanunu Genel Tebliği kapsamında hazırlanacak rapora ilişkin olarak , “Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu” yayınlanmıştır. Söz konusu pakete ulaşmak için
+tıklayınız..
+15.11.2017
+483 Sıra No.lu VUK Genel Tebliğinin 3. ve 6. maddeleri ile getirilen “Mevcut Eski Nesil ÖKC’lerin 10 Yıllık Süreyi Aşmayacak Şekilde Mali Hafızaları Doluncaya Kadar Kullanma” ve “ÖKC Kullanım Muafiyeti” imkanlardan yararlanmak isteyen mükelleflere ilişkin açıklama için
+tıklayınız..
+10.11.2017
+İhracat işlemlerinde
+Geçici İhracat Kapsamında Fatura
+düzenleyen mükelleflerimizin dikkatine!
+Geçici ihracat kapsamında düzenlenen faturalar, bedelsiz ihracat faturası niteliği taşıdığından ihracat e-Fatura düzenleme zorunluluğu dışında bırakılmış ve ihracatın aksamaması için bu tip faturaların matbu ( kağıt/e-arşiv ) fatura olarak düzenlenmesine Başkanlığımızca olanak tanınmıştı. Ancak bedelsiz ihracat faturalarının da Gümrük ve Ticaret Bakanlığınca yapılan güncelleme ile e-fatura olarak düzenlenip gönderilmesine olanak tanındığından
+geçici ihracat kapsamında fatura
+düzenleyecek mükelleflerin bu faturalarını ihracat e-Faturası olarak düzenlemesi gerekmektedir. Duyurulur.
+09.11.2017
+483 Sıra No.lu Vergi Usul Kanunu Genel Tebliği Kapsamında Mevcut Eski Nesil ÖKC’leri Mali Hafızaları Doluncaya Kadar Kullanma İmkanı Getirilen Mükelleflere İlişkin Duyuru Güncellenmiştir. Söz konusu duyuruya ve elektronik başvuru ekranına ulaşmak için
+tıklayınız..
+08.11.2017
+483 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 6. Maddesi uyarınca, Tebliğle belirlenen işletme büyüklüğü ölçüleri ile ödeme kaydedici cihaz veya fatura düzenleyen sistem sayısı koşullarını sağlayan mükelleflerimizden; ÖKC kullanma mecburiyetinden muaf olmak isteyen (www.efatura.gov.tr internet adresinde 10/10/2017 tarihinde yayınlanan duyuruda detaylı olarak açıklanmıştır.) mükelleflerin,
+dilekçe ile tebliğde belirlenen şartları sağladıklarını gösteren tevsik edici bilgi ve belgelerle birlikte, gelir veya kurumlar vergisi yönünden bağlı oldukları vergi dairelerine (merkez vergi dairesi) yazılı olarak başvuruda bulunmaları
+gerekmektedir.
+Söz konusu dilekçe örneği ve tevsik edici belgelere ilişkin formlara ulaşmak için
+tıklayınız..
+03.11.2017
+483 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nin 3. Maddesi uyarınca “Mevcut Eski Nesil ÖKC’leri Mali Hafızaları Doluncaya Kadar Kullanma İmkanı Getirilen” ve 4. Maddede yer alan şartları (www.efatura.gov.tr internet adresinde 10/10/2017 tarihinde yayınlanan duyuruda detaylı olarak açıklanmıştır.) sağlayan mükelleflerin, bu imkandan yararlanabilmeleri için giriş yapmaları gereken elektronik başvuru ekranı www.efatura.gov.tr adresli internet sitesinde açılmış bulunmaktadır.
+Mükelleflerin, mevcut eski nesil ÖKC’leri mali hafızaları doluncaya kadar kullanma imkanından yararlanabilmeleri için
+1/1/2018 tarihinden önce
+söz konusu elektronik başvuru ekranına giriş yapmaları gerekmektedir. Elektronik başvuru ekranına ulaşmak için
+tıklayınız.
+31.10.2017
+İhracat işlemlerinde BEDELSİZ e-Fatura düzenleyen mükelleflerimizin dikkatine!
+Bilindiği üzere 13/7/2017 tarihli duyuru ile, ihracat e-Faturası düzenleme zorunluluğu kapsamında e-fatura uygulaması üzerinden düzenlenip gönderilen Bedelsiz İhracat Faturalarına GTB tarafından yazılım güncellemesi tamamlana kadar, ihracatın aksamaması için bedelsiz ihracat faturalarının matbu ( kağıt/e-arşiv ) fatura olarak düzenlenmesine olanak tanınmıştır. 31/10/2017 tarihi itibariyle GTB tarafından gerekli yazılım güncellemesi yapılmış olup, canlı ortamda devreye alınmıştır.Bu kapsamda bedelsiz ihracat faturası düzenleyecek mükelleflerin e-Faturada “payableamount” (ödenecek tutar) alanına “sıfır” (0) yazması ve “Bilge Sistemi”nde beyanname açılırken bedelsiz alanını seçmesi gerekmektedir.Duyurulur.
+30.10.2017
+e-Fatura Uygulaması Entegrasyon kılavuzu güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız...
+e-Fatura Uygulaması Özel Entegrasyon kılavuzu güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız...
+Ek-2 e-Fatura Uygulaması Sistem Yanıtı Şema Yapısı kılavuzu güncellenmiştir. Söz konusu kılavuza ulaşmak için
+tıklayınız...
+16.10.2017
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız.
+12.10.2017
+e-Fatura Uygulaması  Gümrük İşlemleri Kılavuzu (1.7) güncellenmiştir. Ulaşmak için
+tıklayınız.
+10.10.2017
+483 Sıra Nolu Vergi Usul Kanunu Genel Tebliğinde kapsamı belirlenen mükelleflerin, getirilen imkanlardan yararlanabilmeleri için gerekli olan şartlar ve yapmaları gereken işlemler hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız..
+04.10.2017
+483 Sıra Nolu Vergi Usul Kanunu Genel Tebliği 30/09/2017 tarih ve 30196 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir. Bu kapsamda mezkur Tebliğ’de geçen “Perakende Mal Satışları ile Hizmet İfalarına İlişkin Mali Rapor Bildirim Kılavuzu”na ilişkin taslak doküman hazırlanmış ve mükelleflerimizin görüşüne sunulmuştur. Doküman hakkındaki görüş ve önerilerinizi 65.SUBE@gelirler.gov.tr e-Posta adresine iletmeniz önemle rica olunur. Söz konusu pakete ulaşmak için
+tıklayınız.
+04.10.2017
+14 Seri No.lu K.D.V. Genel Tebliği ile “yapım işleri ile bu işlerle birlikte ifa edilen mühendislik-mimarlık ve etüt-proje hizmetlerinde” uygulanacak tevkifat oranının (2/10)’dan (3/10)’a çıkarılmış olması nedeniyle, e-fatura kullanıcılarının 601 tevkifat kodu ile düzenleyecekleri e-faturada ilgili  tebliğin yayım tarihinden önce düzenlenen e-faturaların gönderilmesinde sıkıntı yaşanmaması için
+10.10.2017 tarihine kadar
+her iki oran ile 601 kodlu tevkiatlı e-fatura düzenlenmesine izin verilmiştir. Ancak belirtilen  tarih itibariyle 601 tevkifat koduyla düzenlenecek e-faturalar yeni oran üzerinden düzenlenecektir.
+Duyurulur.
+03.10.2017
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız.
+02.10.2017
+Sosyal Güvenlik Kurumu 01.10.2017 tarihinden itibaren elektronik fatura (e-fatura) uygulamasına dahil olacak olup, elektronik fatura uygulamasına kayıtlı mükelleflerin belirtilen tarihten itibaren Kurumumuza düzenleyecekleri faturaları elektronik ortamda e-Fatura olarak göndermeleri gerekmektedir. Uygulamaya ilişkin doküman ve kılavuzlar
+www.efatura.gov.tr
+sayfasında Mevzuat ve Teknik Mimari altında kılavuzlarda yer almaktadır.
+Kamuoyuna saygı ile duyurulur.
+02.10.2017
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız.
+25.08.2017
+Yaygın olarak kullanılan belgeler arasında yer alan “sevk irsaliyesi”, “müstahsil makbuzu” ve “serbest meslek makbuzu” belgelerinin kağıt belge yerine, elektronik ortamda; elektronik belge olarak düzenlenmesi, iletilmesi ile muhafaza ve ibraz edilebilmesine ilişkin Vergi Usul Kanunu Genel Tebliği taslağı hazırlanmıştır.
+Söz konusu Tebliğ Taslağı için
+tıklayınız.
+08.08.2017
+Etkinlik e-bilet rapor kılavuzu yayımlanmıştır. İlgili kılavuza ulaşmak için
+tıklayınız.
+e-Bilet paketi güncellenmiştir. Pakete ulaşmak için
+tıklayınız.
+08.08.2017
+Schematron dosyalarının güncellendiği yeni e-Fatura paketi yayınlanmıştır. Güncel e-Fatura paketine ulaşmak için
+tıklayınız.
+21.07.2017
+e-Fatura Uygulamasından Özel Entegratör aracılığı ile yararlanan mükelleflerin, Özel Entegratörler tarafından hesaplarının kapatılması sonucunda GİB Portal hesapları Başkanlık tarafından otomatik olarak aktif hale gelmektedir. Bu nedenle, nevi değişikliği, birleşme veya işi bırakma (terk) gibi nedenlerle özel entegratörüne başvurarak e-Fatura hesaplarını kapattıran mükelleflerin sorun yaşamamaları için, Özel Entegratörleri tarafından, kapatma işlemi sonrasında uyarılması ve söz konusu mükelleflerin durum hakkında GİB’e bilgi vermeleri (dilekçe ile)sağlanmalıdır. Duyurulur.
+21.07.2017
+Etkinlik e-bilet  rapor kılavuzu yayımlanmıştır. İlgili kılavuza ulaşmak için
+tıklayınız.
+20.07.2017
+Bazı mükelleflerimiz tarafından  İhracat e-fatura uygulaması üzerinde düzenlenen  faturaların görüntüsünde alıcı olarak  Gümrük ve Ticaret Bakanlığı bilgilerinin gösterildiği görülmüştür.  İhracat e-faturası üzerinde ihracat yapılan alıcıya ait bilgilerin gösterilmesi gerekmekte olup Gümrük ve Ticaret Bakanlığı bilgilerinin bulunması gerekmemektedir. Duyurulur.
+13.07.2017
+İhracat e-Faturası düzenleme zorunluluğu kapsamında e-fatura uygulaması üzerinden düzenlenip gönderilen
+Bedelsiz İhracat Faturalarına
+GTB tarafından yazılım güncellemesinin henüz tamamlanamamış olması nedeniyle hata dönülmektedir.  Bu nedenle GTB tarafından gerekli yazılım güncellemesi sağlanana kadar, ihracatın aksamaması için bedelsiz ihracat faturaları matbu ( kağıt/e-arşiv )  fatura olarak düzenlenmeye devam edilecektir.
+07.07.2017
+İhracat e-Fatura Uygulamasında GİB/ GTB Sistemlerinde Arıza-Kesinti Hallerinde Kağıt Ortamda Fatura Üzerine İşlem Yapılabilme Usul ve Esasları Hakkında Bilgilendirme Duyurusu Yayınlanmıştır. Ulaşmak İçin
+tıklayınız.
+06.07.2017
+İhracat e-faturalar uygulamasında bazı mükelleflerimizin  1150 hatası aldığı görülmektedir. Bu hatanın alınmaması için mükelleflerimizce ihracat e-faturası düzenlerken  güncel shematron kurallarına uyulması gerekmekte olup söz konusu güncel  e-fatura paketine ulaşmak için
+tıklayınız.
+05.07.2017
+İhracat e-faturası düzenlenip gönderilmesi hususunda yaşanan aksaklılar için yapılması gereken işlemler için
+tıklayınız.
+05.07.2017
+e-fatura Gümrük İşlemleri Kılavuzu Güncellenmiştir. (Versiyon 1.6) İlgili kılavuza ulaşmak için
+tıklayınız.
+29.06.2017
+İhracat ve Yolcu Beraberi Eşya Faturalarının e-Fatura Olarak Düzenlenip Gönderilmesine İlişkin Sıkça Sorulan Sorular Güncellenmiştir. Ulaşmak için
+Tıklayınız.
+eFatura, e-Defter, e-Bilet uygulamalarında sıkça sorulan sorular güncellenmiştir. Ulaşmak için
+Tıklayınız.
+29.06.2017
+Yolcu Beraberi Eşya İhracında Düzenlenecek Faturaların e- Fatura Olarak Düzenlenmesine İlişkin Duyuru Yayınlanmıştır. Ulaşmak İçin
+Tıklayınız.
+22.06.2017
+Gümrük işlemlerinde yolcu beraberi eşya ihracı e-faturası düzenlenmesi uygulamasında GİB portalı test ortamında ve canlı ortamda mükelleflerimizin kullanımına açılmıştır. Duyurulur.
+22.06.2017
+İHRACAT İŞLEMLERİNDE E-FATURA KULLANIM ZORUNLULUĞU HAKKINDA DUYURU yayınlanmıştır. Ulaşmak için
+tıklayınız.
+21.06.2017
+Gümrük işlemlerinde ihracat e-faturası düzenlenmesi uygulamasında GİB portalı canlı ortamda mükelleflerimizin kullanımına açılmıştır. Duyurulur.
+16.06.2017
+İhracat İşlemlerinde e-Fatura Uygulaması Hakkında Duyuru.
+Tıklayınız
+14.06.2017
+e-Fatura Uygulaması Gümrük İşlemleri Kılavuzu (Versiyon 1.5) güncellenmiştir. Ulaşmak için
+tıklayınız.
+08.06.2017
+E-Fatura sisteminde gönderilen zarflar içindeki belgelerde, belgeye ait şema kontrolünü kolaylaştıracak xmlns:xsi ve xsi:schemaLocation tanımının olması gereklidir.
+05.06.2017
+Gümrük işlemlerinde ihracat e-faturası düzenlenmesi uygulamasında  GİB Test portalı aktif hale getirilmiştir. İhracat e-faturası düzenleyecek olan portal kullanıcıları, GİB Test Portaline girerek ihracat sürecini test edebilirler. Bununla birlikte ihracat yapılan ve vergi mükellefi olmayan alıcılar için vergi numarası alanına 10 haneli 2222222222 numarası yazılarak işlem yapılabilir.
+23.05.2017
+“Gelir İdaresi Başkanlığı’nın e-Fatura mevzuatı kapsamında TÜBİTAK BİLGEM Kamu Sertifikasyon Merkezi tarafından verilen e-Fatura Uyum Değerlendirme Hizmeti TÜBİTAK BİLGEM Test ve Değerlendirme Başkanlığı’na aktarılmıştır. Test ve Değerlendirme Başkanlığı e-Fatura Uyum Değerlendirme Hizmetini devam ettirecektir.”
+e-Fatura Uygulaması kapsamında mükelleflerin bilgilendirilmesi amacıyla duyurulur.
+15.05.2017
+e-Fatura, e-Defter, e-Bilet uygulamalarına ilişkin sıkça sorulan sorulara ulaşmak için
+tıklayınız.
+15.05.2017
+İhracat ve Yolcu Beraberi Eşya Faturalarının e-Fatura olarak düzenlenip gönderilmesine ilişkin sıkça sorulan sorulara ulaşmak için
+tıklayınız.
+12.05.2017
+1/7/2017 TARİHİNDE İHRACAT İŞLEMLERİNDE e-FATURA UYGULAMASINA GEÇME ZORUNLULUĞU BAŞLAYACAK MÜKELLEFLERE İLİŞKİN DUYURU  yayımlanmıştır. Ulaşmak için
+Tıklayınız..
+04.05.2017
+e-Fatura Uygulaması Gümrük İşlemleri Kılavuzu (Versiyon 1.4) Güncellenmiştir. Söz konusu Kılavuza Ulaşmak İçin
+Tıklayınız...
+03.05.2017
+04/04/2017 tarihinde yayınlanan e-Arşiv Teknik Kılavuzu 1.6 versiyonunda ‘’6. e-Arşiv Fatura Standardı’’ bölümünde yapılan değişiklik için mükelleflerimize tanınan uyum ve hazırlık süreci 1/9/2017 tarihine uzatılmıştır. Bu süre zarfında hazırlıklarını tamamlayan mükellefler 1.6 versiyonuna göre e-Arşiv Fatura oluşturmaya başlayabilirler.
+03.05.2017
+Hava Yolu E-Biletlerinin Tevsik Edici Belge Olarak Kullanılması Esasları Hakkında Duyuru! Duyuruya ulaşmak için
+tıklayınız..
+28.04.2017
+e-Fatura paketindeki şematron dosyaları güncellenmiştir. Gerekli bilgiler Açıklamalar.txt dosyasındadır.
+13.04.2017
+UBL-TR 1.2.1 Paketi ve UBL-TR 1.2.1 Kılavuzları güncellenmiştir.
+05.04.2017
+e-Arşiv Teknik Kılavuzu 1.6 versiyonu 04.04.2017 tarihinde yayınlanmış olup ilgili kılavuzun “6. e-Arşiv Fatura Standardı” bölümünde değişiklik yapılmıştır. Tüm e-Arşiv özel entegratörlerinin ve entagrasyon yöntemi kullanan mükelleflerin e-Arşiv Faturaları 01.05.2017 tarihinden itibaren söz konusu değişikliğe uygun olarak oluşturmaları gerekmektedir. Güncel kılavuza ulaşmak için
+tıklayınız..
+20.03.2017
+Elektronik İrsaliye uygulaması ile ilgili bilgilerin eklenmesi nedeniyle e-Fatura Entegrasyon, Özel Entegrasyon ve Zarf Şema Yapısı kılavuzları güncellenmiştir.
+14.03.2017
+Elektronik Fatura Başvuru Rehberi ve Kılavuzu Güncellenmiştir.
+Tıklayınız.
+14.03.2017
+E-Fatura kayıtlı kullanıcıları ile proje uygulanmaya başlandığında E-İrsaliye kayıtlı kullanıcılarının da yer alacağı yeni formatlı kayıtlı kullanıcı listesi test ortamında
+https://merkeztest.efatura.gov.tr/EFaturaMerkez/userList.jsp
+gerçek ortamda
+https://merkez.efatura.gov.tr/EFaturaMerkez/userList.jsp
+adresi içinde Yeni Format olarak yayınlanmıştır.
+14.03.2017
+İhracat e-fatura canlı sistemde düzenlenip başarılı olarak gönderilen faturalara Gümrük ve Ticaret Bakanlığı ’nin,  ilgili Gümrük Çıkış Beyannamesi ile ilgili e-faturanın kontrolünü sağlayıp  KABUL yanıtı dönebilmesi için,  ihracata esas Gümrük Çıkış Beyannamesi’nde belge türü kısmında
+0100 yerine 0886
+kodu seçilerek GÇB sürecinin tamamlanması gerekmektedir.
+14.03.2017
+e-Fatura paketi güncellenmiştir. Güncel paketi indirmek için
+tıklayınız.
+Yapılan değişiklikler;
+Schematron dosyaları güncellenmiştir.
+Package_1_2.xsd dosyasına e-Irsaliye schemaları import edilmiştir.
+E-Irsaliye kullanıcılarını içeren yeni kullanıcı listesinin scheması xsd/Userlist/ dizini altına eklenmiştir.
+27.02.2017
+İhracat e-Fatura Canlı Ortamın Uygulamaya Geçmesine İlişkin Duyuru yayınlanmıştır. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+07.02.2017
+e-Bilet paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+17.01.2017
+BİLGİ İŞLEM SİSTEMLERİNİN ENTEGRASYONU YÖNTEMİYLE  E-FATURA UYGULAMASINDAN YARARLANAN MÜKELLEFLERDEN  İHRACAT İŞLEMLERİNDE E-FATURA DÜZENLEYECEK OLANLARIN  TEST ORTAMINI KULLANIMINA İLİŞKİN  GÜNCEL DUYURU
+Tıklayınız.
+03.01.2017
+Yolcu Beraberi Eşya İhracında Düzenlenecek Faturaların  e-Fatura Olarak Düzenlenmesine İlişkin Duyuru.
+Tıklayınız.
+30.12.2016
+İhracat e-Fatura Uygulamasında GTB Test Portalının Kullanımına İlişkin Duyuru.
+Tıklayınız.
+29.12.2016
+e-Fatura ve e-Defter Başvuruları Hakkında Duyuru.
+Tıklayınız.
+28.12.2016
+İhracat e- Faturalarının işleyişinin mükelleflerce görülebilmesi için Test sistemi  kullanıma açılmıştır. Duyuru metnine ulaşmak  için
+tıklayınız.
+27.12.2016
+Hava Yolu E-Biletlerinin Tevsik Edici Belge Olarak Kullanılması  Esasları Hakkında Duyuru yayınlanmıştır. İlgili duyuruya ulaşmak için
+tıklayınız.
+26.12.2016
+İhracatta e-fatura Uygulamaları kapsamında "Kabul Uygulama Yanıtı" içinde fiili ihraç tarihine yer verilmesi için gerekli değişiklikler yapılmış ve ihracat fatura tipinde dikkate alınan Ek Alanlar Tablosu , shematron kontrollerinin yeni halinin yayınlanması nedeniyle güncellenmiştir. İlgili kılavuza ulaşmak için
+tıklayınız.
+26.12.2016
+Etkinlik e-Bileti Rapor Kılavuzu Taslağına ulaşmak için
+tıklayınız.
+15.12.2016
+İhracat ve Yolcu Beraberi Eşya İhracında e-Fatura Uygulamasına İlişkin 475 Sıra Nolu Vergi Usul Kanunu Genel Tebliği Resmî Gazete’de Yayımlandı.
+20/6/2015 tarihli ve 29392 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 454)’nin 3. İhracat İşlemlerinde e-Fatura Uygulaması başlıklı bölümü, 15/12/2016 tarih ve 29919 sayılı Resmi Gazete’de yayımlanan 475 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile değiştirilmiştir.
+Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+Açıklayıcı bilgi notuna ulaşmak için
+tıklayınız.
+09.12.2016
+464 Sıra No.lu Vergi Usul Kanunu Genel Tebliğince e-Arşiv Fatura Uygulamasına geçme zorunluluğu getirilen mükellefler hakkında duyuru yayınlanmıştır.Ulaşmak için
+tıklayınız.
+07.12.2016
+Hal Komisyoncularınca Düzenlenecek Komisyon Faturalarında e-Fatura Uygulaması hakkında duyuru yayınlanmıştır. Ulaşmak için
+tıklayınız.
+07.12.2016
+454 Sıra No.lu Vergi Usul Kanunu kapsamında e-fatura ve e-defter uygulamasına geçme zorunluluğu bulunan mükellefler hakkında  duyuru yayınlanmıştır. Ulaşmak için
+tıklayınız.
+23.11.2016
+e-FATURA UYGULAMASI GÜMRÜK İŞLEMLERİ KILAVUZU güncellenmiştir. İlgili kılavuza ulaşmak için
+tıklayınız.
+18.11.2016
+UBL-TR 1.2.1 Paketi yayımlanmış olup e-irsaliye uygulaması ile ilgili alanlar pakete eklenmiştir.UBL-TR 1.2.1 Kılavuzlarında eklenen alanlara ilişkin açıklamalara yer verilmiştir. e-İrsaliye Uygulaması Taslak Kılavuzları yayımlanmıştır. Söz konusu kılavuzlara ulaşmak için
+tıklayınız.
+03.11.2016
+e-FATURA UYGULAMASI GÜMRÜK İŞLEMLERİ KILAVUZU yayınlanmıştır. İlgili kılavuza ulaşmak için
+tıklayınız.
+01.11.2016
+Değerli mükelleflerimiz,
+Gün ışığından yararlanma kapsamında saat güncellemelerinde farklılıklar oluştuğundan
+Firefox Mozilla ve Internet Explorer internet tarayıcısı , e-Fatura Portal fatura oluşturma ekranında hata vermektedir, hata detayı genellikle betik hatası ve/veya boş ekran olarak karşımıza çıkmaktadır.
+Firefox Mozilla ya da Internet Explorer kullanmak isteyen kullanıcılar, Windows saat ayarlarından gün ışığından otomatik yararlanma seçeneğini kapatarak sorunsuz kullanıma devam edebilirler.
+Chrome tarayıcısından hatasız bir şekilde fatura oluşturulabilmektedir. Bu konu ile alakalı efatura.gov.tr internet adresimizde yer alan
+efatura forum sitesi 45337 numaralı sorusunun cevabı ile imza uygulaması kullanılarak sisteme başarılı bir şekilde giriş ve fatura onaylama 
+yapılabilir.
+21.10.2016
+Tüzel kişi mükellefler, Mali Mühür başvurularında, kimlik doğrulama sorunuyla karşılaşmaları halinde öncelikle Ticaret Sicil Müdürlüklerine başvurarak bilgilerini güncelletmelidirler. Güncelleme yapıldıktan sonra
+mersis.gumrukticaret.gov.tr
+internet adresinden bilgilerinin güncellendiğini teyit etmelidirler.
+Gerçek kişi mükellefler ise kimlik doğrulama sorunuyla karşılaşmaları halinde, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünden nüfus bilgilerini kontrol ettirmelidirler.
+Başvuru ekranları Kamu Sertifikasyon Merkezine ait olmakla birlikte kimlik doğrulama hizmetleri yukarıda bilgileri verilen kurumlarca yapıldığından yaşanan hatanın Gelir İdaresi Başkanlığı ya da Kamu Sertifikasyon Merkezi ile bir ilgisi bulunmamaktadır.
+20.10.2016
+Mali Mühür Süresi Dolan Mükelleflerin Dikkat Etmesi Gereken Hususlar için
+tıklayınız.
+17.10.2016
+Yolcu Beraber Eşya faturaları ile ilgili schematron kontrolleri eklenmiştir. e-Fatura Paketi'ni indirmek için  için
+tıklayınız.
+14.10.2016
+E-Fatura Gümrük İşlemleri Kılavuzu Taslağı Güncel Hali Yayınlanmıştır. Ulaşmak için
+tıklayınız.
+29.09.2016
+UBL-TR 1.2 Kılavuzları klasöründe yer alan kod listesi güncellenmiştir. Söz konusu klasöre ulaşmak için
+tıklayınız.
+29.09.2016
+Özel entegratör firmaların kullanıcı açma/kapamada kullandıkları seri imzalarının Başkanlığımızca kontrol edilmesi ile bazı firmaların hata yaptığı tespit edilmiştir. Gerekli uyarılar yapılmış ve hata yapan özel entegratörlere 31 Ekim 2016 tarihine kadar süre tanınmıştır. Bu tarihten itibaren gerçek ortama seri imza kontrolü tekrar konulacaktır.
+24.08.2016
+E-Fatura Gümrük İşlemleri Kılavuzu Taslağı Güncel Hali Yayınlanmıştır. Ulaşmak için
+tıklayınız.
+23.08.2016
+e-Fatura Görüntüleyici versiyon 1.4 yayınlanmıştır. Bu versiyona faturaları yazdırma özelliği eklenmiştir.
+19.07.2016
+e-Arsiv Fatura Uygulaması Teknik Kılavuzunda getUserList metodu dönüş XML'inde test ortamında değişiklik yapılmış olup 25 Temmuz 2016 tarihinde gerçek ortama yansıtılacaktır.
+Değişiklik ile birlikte kullanıcı bilgileri geçmiş bilgileriyle birlikte gösterilmeye başlanacaktır.
+18.07.2016
+e-Bilet paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+13.07.2016
+e-Bilet paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+12.07.2016
+Entegratörler ve özel entegratörler tarafından
+kullanılmakta olan
+kullanıcı listelerinin
+(userlist)
+yapısı değiştirilmiş ve zip formatına çevrilmiştir. 26.09.2016 tarihinden sonra eski kullanıcı listesinin
+(zip formatsız)
+paylaşımına son verilecektir. Bu nedenle entegratör ve özel entegratör firmaların yazılımlarında gerekli güncelleme işlemlerini söz konusu tarihe kadar yapmaları önem arz etmektedir.
+27.06.2016
+Bazı Web tarayıcılarının java applet desteğini kaldırması veya kaldıracak olması nedeniyle imzalama işlemleri için(giriş,fatura onaylama,başvuru) imzalama aracı geliştirilmiştir. Açıklamaları anasayfada bulabilirsiniz.
+16.06.2016
+UBL-TR’de yeni nesil ödeme kaydedici cihazlardan düzenlenecek olan bilgi fişlerine ait bilgilerin yer alması ile ilgili olarak e-Arşiv Paketi ve e-Arşiv Teknik Kılavuzu, Vergi Kodları ile ilgili olarak da e-Arşiv Paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+10.06.2016
+e-Arşiv Paketi güncellenmiştir. İlgili pakete ulaşmak için
+tıklayınız.
+09.06.2016
+UBL-TR 1.2 Kılavuzları klasörü güncellenmiştir. Söz konusu klasöre ulaşmak için
+tıklayınız.
+17.05.2016
+e-Bilet paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+06.05.2016
+UBL-TR’de yeni nesil ödeme kaydedici cihazlardan düzenlenecek olan bilgi fişlerine ait bilgilerin yer alması ile ilgili olarak e-Arşiv Paketi ve e-Arşiv Teknik Kılavuzu güncellenmiştir. 01/06/2016 tarihinden itibaren söz konusu güncellemelerin dikkate alınması gerekmektedir. Söz konusu pakete ulaşmak için
+tıklayınız.
+29.04.2016
+e-Fatura Uygulamasını GİB-Portal Yöntemi İle Kullanan Mükelleflerin Dikkat Etmesi Gereken Hususlar için
+Tıklayınız.
+18.04.2016
+UBL-TR’de yeni nesil ödeme kaydedici cihazlardan düzenlenecek olan bilgi fişlerine ait bilgilerin yer alması ile ilgili olarak UBL-TR 1.2 Kılavuzları klasörü güncellenmiştir. Söz konusu klasöre ulaşmak için
+tıklayınız.
+06.04.2016
+e-Bilet Raporu Havayolları Teknik Kılavuzu yayınlanmıştır. Kılavuza ulaşmak için
+tıklayınız.
+10.03.2016
+UBL-TR 1.2 Kılavuzları klasörü güncellenmiştir. Söz konusu klasöre ulaşmak için
+tıklayınız.
+09.03.2016
+E-Fatura Paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+E-Arşiv paketi güncellenmiştir. Söz konusu pakete ulaşmak için
+tıklayınız.
+19.02.2016
+11/02/2016 tarihinde yayımlanan ‘’e-Arşiv Fatura Uygulaması Kapsamında Fatura Düzenleyen Mükelleflerin Dikkatine!” başlıklı duyuru güncellenmiştir. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+15.02.2016
+e-Arşiv Paketi güncellenmiştir. İlgili pakete ulaşmak için
+tıklayınız.
+11.02.2016
+e-Arşiv Fatura Uygulaması kapsamında fatura düzenleyen mükelleflerin dikkat etmesi gereken bazı hususlar hakkında yayımlanan duyuruya ulaşmak
+tıklayınız.
+05.02.2016
+03.02.2016 15:30 – 17:00 arasında yaşanan sistemsel sorundan dolayı bazı zarfların Merkez’e ulaşmadığı görülmüştür.
+Entegrasyon ve özel entegrasyon yöntemi kullanıcılarının
+zarf durumunu Merkez’den sorguladıklarında zarfın bulunmadığını görmeleri halinde, aynı zarf numarası ile tekrar gönderim yapması mümkündür.
+GİB-Portal yöntemi kullanıcılarının
+Hata Ayrıntısı kısmında “ZARF ID BULUNAMADI” hatasını gördükleri zarflar, içerisindeki faturaların tekrar gönderilebilmesi (ya da istenmesi halinde iptal edilebilmesi için) “Taslaklar” ya da “Yüklenmiş Faturalar” bölümüne aktarılmıştır. İlgili faturaların (sonrasında yeni fatura numarası ile gönderiminin yapılmamış olması halinde) seçilerek gönderilmesi teknik olarak mümkündür.
+01.02.2016
+e-Arşiv Paketi güncellenmiştir. e-Arşiv Raporlarının gönderiminde 04/02/2016 tarihinden itibaren söz konusu güncellemelerin dikkate alınması gerekmektedir. İlgili pakete ulaşmak için
+tıklayınız
+.
+29.01.2016
+04.02.2016 tarihinde 10:00 -14:00 saatleri arası E-Fatura ve E-Arşiv sistemlerinde bakım yapılacaktır. Bu süre içinde E-Fatura ve E-Arşiv sistemleri erişime kapanacaktır.
+15.01.2016
+08.01.2016 tarihinde arızalı üretilen mali mühür kart okuyucuları ile ilgili yayımlanan duyuru güncellenmiştir. Söz konusu duyuruya ulaşmak için
+tıklayınız.
+15.01.2016
+e-Arşiv Fatura uygulaması sırasında dikkat edilecek hususlar hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız.
+15.01.2016
+UBL-TR1.2 Paketi güncellenmiştir.Paketi indirmek için
+tıklayınız
+.
+13.01.2016
+e-Fatura uygulamasında kayıtlı mükelleflerden mali mührü arızalananların dikkat etmesi gereken hususlar hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız.
+08.01.2016
+Kayıtlı kullanıcı olunmayan tarihe e-Fatura düzenlenmesi hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız.
+Hatalı ya da arızalı üretilen mali mühre sahip mükellefler hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız.
+31.12.2015
+İnternet satışı yapan mükellefler için e-Arşiv Uygulamasına Geçiş Rehberi yayımlanmıştır. Söz konusu rehbere ulaşmak için
+tıklayınız.
+30.12.2015
+e-Fatura ve e-Defter Başvurusu hakkında yayımlanan duyuruya ulaşmak için
+tıklayınız.
+28.12.2015
+e-Arşiv Başvuru Kılavuzu, e-Arşiv Teknik Kılavuzu ve e-Arşiv Paketi güncellenmiştir. e-Arşiv Raporlarının gönderiminde  01/02/2016 tarihinden itibaren söz konusu güncellemelerin dikkate alınması gerekmektedir.
+25.12.2015
+İhracat ve Yolcu Beraberi Eşya Faturasının elektronik fatura olarak düzenlenmesi zorunluluğu kapsamında 1/1/2016 olarak belirlenen tarihin ertelenmesine ilişkin
+461 Sıra No'lu Vergi Usul Kanunu Genel Tebliği
+(Sıra No: 454'te Değişiklik Yapılmasına Dair Tebliğ) Resmi Gazete’de yayımlanmıştır.
+Hava yolu ile yurt içi veya yurt dışı yolcu taşımacılığı işi ile iştigal eden mükelleflerin elektronik bilet düzenlemelerine ilişkin usul ve esasları belirleyen
+462 Sıra No’lu Vergi Usul Kanunu Genel Tebliği
+resmi gazetede yayımlanmıştır.
+Sinema, tiyatro, konser, spor müsabakası ve benzeri etkinlikler düzenleyen mükelleflerin elektronik bilet düzenlemelerine ilişkin usul ve esaslarını belirleyen
+463 Sıra No’lu Vergi Usul Kanunu Genel Tebliği
+resmi gazetede yayımlanmıştır.
+24.12.2015
+24.12.2015 tarih ve 29572 sayılı Resmi Gazete ’de yayımlanarak yürürlüğe giren 464 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile,  433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile e-Arşiv Uygulamasına geçme zorunluluğu getirilen mükelleflere ek olarak (internet üzerinden mal ve hizmet satışı yapan ve 2014 yılı gelir tablosu brüt satış hasılatı tutarı 5 milyon lira ve üzerinde olan mükellefler) internet üzerinden mal ve hizmet satışı yapan ve 2015 ve müteakip hesap dönemlerinde brüt satış hasılatları 5 Milyon TL ve üzerinde olan mükelleflere e-Arşiv Uygulamasına geçme zorunluluğu getirilmiştir.
+464 Sıra No.lu Vergi Usul Kanunu Genel Tebliği, 433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile getirilen e-Arşiv Uygulamasına geçiş zorunluluğu hususunda bir değişiklik getirmemekte olup, 433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği kapsamında olup internet üzerinden mal ve hizmet satışı yapan ve 2014 yılı gelir tablosu brüt satış hasılatı tutarı 5 milyon lira ve üzerinde olan mükellefler en geç
+01/01/2016
+tarihine kadar e-Arşiv Uygulamasına geçmek zorundadırlar.
+23.12.2015
+Yıllara Sari İnşaat ve Onarım İşleri Yapan mükelleflerin e-Fatura ve e-Defter kullanma zorunluluğu hakkında mükelleflerin bilgilendirilmesi amacıyla hazırlanmış olan duyuru metnine ulaşmak için
+tıklayınız.
+11.12.2015
+e-Fatura uygulamasına başvuru yapan mükelleflerin  e-fatura başvurusunun alınıp alınmadığı hususunda bilgi alabilecekleri sorgulama alanı efatura.gov.tr başvuru sayfasına eklenmiştir. İlgili sorgulama ekranına ulaşmak için
+https://portal.efatura.gov.tr/efaturabasvuru/Sorgula.jsp
+linkine tıklayınız.
+04.12.2015
+454 Sıra No.lu VUK Genel Tebliğinin 3. Bölümünde belirtilen “İhracat İşlemlerinde E-fatura Uygulaması”na İlişkin olarak yayınlanması öngörülen “ e-Fatura Gümrük İşlemleri Kılavuzu” taslağı yayınlanmıştır. Söz konusu kılavuz taslağına ulaşmak için
+tıklayınız.
+Önerilerinizi forum sitemiz üzerinden iletebilirsiniz.
+04.12.2015
+e-Fatura ve E-Defter Başvurusu Hakkındaki Duyuruya Ulaşmak İçin
+Tıklayınız.
+09.11.2015
+Başkanlığımızca hava yolu ile yurt içi veya yurt dışı yolcu taşımacılığı işi ile iştigal eden mükelleflerin, elektronik ortamda; bilet düzenlemeleri, düzenledikleri e-Biletleri muhatabına iletmeleri ile bu vesikaları muhafaza ve ibraz etmelerine ilişkin usul ve esasların belirlendiği tebliğ taslağı hazırlanmıştır.Söz konusu taslak hakkındaki görüş ve önerilerinizin en geç 08/12/2015 tarihine kadar ebilet@gelirler.gov.tr e-posta adresine iletilmesini rica ederiz.
+Tebliğ Taslağına ulaşmak için
+tıklayınız.
+.Açıklayıcı bilgi notuna ulaşmak için
+tıklayınız.
+09.11.2015
+Başkanlığımızca sinema, tiyatro, konser, spor müsabakası v.b etkinlikler için bilet düzenleyen mükelleflerin elektronik ortamda bilet düzenlemeleri, düzenledikleri elektronik biletleri muhatabına iletmeleri ile bu vesikaları muhafaza ve ibraz etmelerine ilişkin usul ve esasların belirlendiği tebliğ taslağı hazırlanmıştır.Söz konusu taslak hakkındaki görüş ve önerilerinizin en geç 08/12/2015 tarihine kadar ebilet@gelirler.gov.tr  e-posta adresine iletilmesini rica ederiz.
+Tebliğ Taslağına ulaşmak için
+tıklayınız.
+Açıklayıcı bilgi notuna ulaşmak için
+tıklayınız.
+09.11.2015
+Elektronik defter tutma ve elektronik fatura uygulamasına dâhil olma zorunluluğunuz bulunuyorsa e-Defter başvuru sayfasından elektronik defter başvurusunu yapmanız gerektiğini unutmayınız… Başvuru yapmak için
+tıklayınız.
+28.10.2015
+Zarf yapısı içinde bulunan DocumentIdentification altındaki TypeVersion alanının değeri UBL TR 1.2 geçiş nedeniyle 1.2 olmalıdır. Belirtilen alan 04.11.2015 tarihinden sonra kontrol edilmeye başlayacaktır.
+26.10.2015
+e-Fatura Paketi güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız.
+Güncelleme
+04.11.2015 10:00
+itibari ile devreye alınacaktır. Entegratör, Özel Entegratör ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi ve ilgili tarih ve saatte güncellemesi gerekmektedir.
+22.10.2015
+UBL 2.1 güncellemesi ile birlikte fatura tipine bağlı olarak kullanımı zorunlu olan istisna, tevkifat ve muafiyet kodlarına ulaşmak için
+tıklayınız.
+20.10.2015
+e-Bilet paketi güncellenmiştir.Paketi indirmek için
+tıklayınız.
+17.10.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız.
+16.10.2015
+UBL TR 1.2 schematron kontrolleri, UBL-TR 1.2 Kılavuzları ve Paketi güncellenmiştir.
+e-Fatura Paketi'ni indirmek için
+tıklayınız.
+UBL-TR 1.2 Kılavuzlarına ulaşmak için
+tıklayınız.
+UBL-TR 1.2 Paketine ulaşmak için
+tıklayınız.
+15.10.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız.
+14.10.2015
+19.10.2015 09:45-10:15 arasında Merkez tarafından fatura alımı durdurularak merkeze fatura gelişi engellenecektir. Böylece bu zamana kadar UBL 2.0’a göre gönderilen zarflara merkez tarafından hata verilmeyecek ve söz konusu zarflar alıcıların sistemlerine iletilecektir.
+( Merkeze fatura gelişinin engellenmesi merkezin kapatıldığı ve alıcının sisteminin de kapalı olması gerektiği anlamına gelmemektedir. İletimin gerçekleşebilmesi için alıcının sisteminin açık olması gerekmektedir. Alıcının sistemi o anda kapalıysa, merkez bir sonraki denemede zarfı ilettiğinde alıcının sistemi zarfı alabilirse, eski UBL’e göre gelen bu zarfa alıcı sistem yanıtı ile hata vermelidir.)
+12.10.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız.
+09.10.2015
+Sistemlerinde 19.10.2015 10:00’da gerçekleştirilecek olan UBL 2.1 güncellemesini gerçekleştirmeyen entegratörlerin fatura sorgulama ve gönderimleri geçici olarak engellenecek, durumun devamı halinde entegrasyon yetkisi iptal edilerek GİB-Portalleri açılacaktır.
+09.10.2015
+19.10.2015 10:00 itibari ile SHA-1 özet algoritmasının kullanılmaması gerekmektedir. Entegratör, Özel Entegratör ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi ve ilgili tarih ve saatte güncellemesi gerekmektedir. Bu güncellemenin ardından sadece söz konusu algoritmanın kullanılması halinde zarflar Merkez'den geçemeyerek hata alacaktır.
+06.10.2015
+UBL-TR 1.2 Kılavuzları güncellenmiştir. UBL-TR 1.2 Kılavuzlarına ulaşmak için
+tıklayınız
+.
+30.09.2015
+Elektronik fatura kâğıt faturadan farklı bir belge türü olmayıp mevzuat açısından kâğıt faturayla aynı hükümlere tabidir.
+Buna göre şu kanallar yoluyla bilgi talebinde bulunulabilir:
+- Mevzuata ilişkin sorularınız için VİMER (444 0 189) üzerinden,
+- Teknik işlemlere ilişkin sorularınız için (telefon veya e-posta yerine)
+Forum
+sitemiz üzerinden.
+10.09.2015
+Mükelleflerden gelen taleplere ve bu taleplerle birlikte ortaya çıkan geliştirme ihtiyacına istinaden UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 şemasının e-fatura GERÇEK ortamında uygulamaya konulma zamanı 19 Ekim 2015 saat 10:00'a ertelenmiştir. Entegratör, Özel Entegratör ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi (gerekli gördükleri konularda forum sitesi üzerinden bildirimde bulunması) ve ilgili tarih ve saatte güncellemesi gerekmektedir. Bu güncellemenin ardından sadece UBL-TR1.2 kullanılabilecektir. UBL-TR1.0'a göre düzenlenen faturalar Merkez tarafından kabul edilmeyecek ve ilgili zarflar hata alarak alıcılarına ulaşamayacaktır. Sistemlerinde ilgili değişiklikleri uygulamayan kullanıcıların entegrasyon ve özel entegrasyon izinleri Başkanlıkça iptal edilebilecektir.
+07.09.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız
+.
+02.09.2015
+UBL-TR1.2 Kılavuzları güncellenmiştir. UBL-TR1.2 Kılavuzlarına ulaşmak için
+tıklayınız
+.
+31.08.2015
+15.09.2015 saat 10:00 itibariyle UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 şeması e-fatura GERÇEK ortamında uygulamaya konulacaktır. e-Arşiv Uygulamasında e-fatura format ve standardını kullanan e-Arşiv Entegratör ve Özel Entegratörlerinin  sistemleri ile ilgili değişiklikleri söz konusu tarih ve saate kadar güncellemeleri gerekmektedir.
+27.08.2015
+UBL-TR1.2 Paketi güncellenmiştir.Paketi indirmek için
+tıklayınız
+.
+13.08.2015
+Mükelleflerden gelen taleplere istinaden UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 şemasının e-fatura GERÇEK ortamında uygulamaya konulma zamanı
+15.09.2015 saat 10:00
+'a ertelenmiştir. Entegratör, Özel Entegratör ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi ve ilgili tarih ve saatte güncellemesi gerekmektedir. Bu güncellemenin ardından
+sadece
+UBL-TR1.2 kullanılabilecektir. UBL-TR1.0'a göre düzenlenen faturalar Merkez tarafından kabul edilmeyecek ve ilgili zarflar hata alarak alıcılarına ulaşamayacaktır. Sistemlerinde ilgili değişiklikleri uygulamayan kullanıcıların entegrasyon ve özel entegrasyon izinleri Başkanlıkça iptal edilebilecektir.
+12.08.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. e-Fatura Paketi'ni indirmek için
+tıklayınız
+.
+07.08.2015
+HATIRLATMA:
+18.02.2015 tarihli duyuruda da belirtilmiş olduğu üzere, 01.09.2015 saat 10:00 itibariyle UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 şeması e-fatura GERÇEK ortamında uygulamaya konulacaktır. Entegratör, Özel Entegratör ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi ve ilgili tarih ve saatte güncellemesi gerekmektedir.
+07.08.2015
+UBL 2.1'e geçiş sebebiyle, E-Fatura uygulamasından entegrasyon yöntemi ile yararlanan kullanıcıların ve özel entegratörlük izni almış olan kurumların test hesapları, talep etmeleri halinde 01.09.2015'e kadar açılacaktır. Talep eden kurumların
+Test Tanım Formunu
+online olarak yüklemesi gerekmektedir. Test tanım formundaki IP ve web servis uç noktalarının canlı(gerçek) ortamda kullanılanlardan
+farklı olması
+hususuna dikkat edilmesi gerekmektedir. Aksi takdirde test faturaları canlı ortama düşecektir.
+04.08.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir.
+31.07.2015
+UBL TR 1.2 schematron kontrolleri güncellenmiştir. Schematron dosyaları e-Fatura Paketi'ne eklenmiştir. İlgili dosyalara kılavuzlar bölümünden erişebilirsiniz.
+10.07.2015
+Gelir İdaresi Başkanlığı adına “GIB BİLGİLENDİRME” konu başlığı ile eode@gib.gov.tr ve benzeri sahte e-posta adresleri kullanılarak gönderilen ve ekinde virüs içeren e-postanın kurumumuzla bir ilgisi yoktur. Başkanlığımız hiçbir işlemle ilgili e-posta ile doğrulama yaptırmamaktadır. Vatandaşlarımızın mağduriyet yaşamamaları için bu adresten gönderilen e-postayı dikkate almadan silmeleri önemle duyurulur. (E-Fatura ve E-Defter için genel bilgilendirmeler noreply@gelirler.gov.tr ve info@gelirler.gov.tr e-posta adreslerinden yapılmaktadır. Gönderilen e-postaların son kısmı “@gib.gov.tr” şeklinde olamaz, “@gelirler.gov.tr” şeklinde olabilir.)
+20.04.2015
+GİB-Portaline girişte tarayıcınız "Lütfen Bekleyiniz. Elektronik imza uygulaması yükleniyor." ekranında takılıyorsa
+22224
+numaralı forum sorusunun cevabına göre işlem yaparak portale giriş yapabilirsiniz.
+07.04.2015
+415 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde 446 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile değişiklik yapılmıştır. İlgili değişiklikle birlikte mükelleflerimiz e-bilet uygulamasından,  www.efatura.gov.tr  internet adresinde yayımlanacak olan “e-Bilet Uygulaması Özel Entegrasyon İzni” alan mükelleflerin bilgi işlem sistemleri vasıtası ile de yararlanabileceklerdir.
+06.04.2015
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 397)’nde Değişiklik Yapılmasına Dair Tebliğ Resmi Gazete’de Yayımlanmıştır.
+04.04.2015 tarih ve 29316 sayılı Resmi Gazete’de yayımlanan 447 Sıra No.lu Vergi Usul Kanunu Genel Tebliğ ile; 397 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde bazı düzenlemeler yapılmıştır.
+Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+06.04.2015
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 421)’nde Değişiklik Yapılmasına Dair Tebliğ Resmi Gazete’de Yayımlanmıştır.
+04.04.2015 tarih ve 29316 sayılı Resmi Gazete’de yayımlanan 448 Sıra No.lu Vergi Usul Kanunu Genel Tebliğ ile; 421 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde bazı düzenlemeler yapılmıştır.
+Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+06.04.2015
+Vergi Usul Kanunu Genel Tebliği (Sıra No: 415)’nde Değişiklik Yapılmasına Dair Tebliğ Resmi Gazete’de Yayımlanmıştır.
+04.04.2015 tarih ve 29316 sayılı Resmi Gazete’de yayımlanan 446 Sıra No.lu Vergi Usul Kanunu Genel Tebliğ ile; 415 Sıra No.lu Vergi Usul Kanunu Genel Tebliği’nde bazı düzenlemeler yapılmıştır.
+Söz konusu Tebliğe ulaşmak için
+tıklayınız.
+17.03.2015
+8003 belediye tüketim vergisi yerine kanunda yer aldığı şekilde 4071 elektrik ve havagazı tüketim vergisi 19.03.2015 tarihinden itibaren kullanılacaktır.
+18.02.2015
+01.09.2015 saat 10:00 itibariyle UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 şeması e-fatura GERÇEK ortamında uygulamaya konulacaktır. Entegratör, Özel Entegratörler ve Yükleme Araçları yazılım sağlayıcılarının sistemlerini bu tarihe kadar düzenlemesi ve ilgili tarih ve saatte güncellemesi gerekmektedir.
+UBL-TR1.2 Kılavuzlarına ulaşmak İçin
+Tıklayınız
+.
+UBL-TR1.2 Paketine ulaşmak İçin
+Tıklayınız
+.
+17.02.2015
+02.03.2015 tarihinden itibaren e-Fatura Paketi içinde yayımlanan UBL-TR_Main_Schematron.2.1'e göre e-fatura sistemlerinde kontrol yapılacaktır. e-Fatura Paketine Ulaşmak İçin
+Tıklayınız
+.
+09.02.2015
+15.02.2015 saat 08:00 - 14:00 arası e-fatura sistemleri bakım nedeniyle kapatılacaktır.
+04.02.2015
+Mükelleflerimizden Başkanlığımıza gelen yazılı veya sözlü başvurularla, e-Fatura Uygulamasına kayıtlı kullanıcı olup olmadığı yönünde yazılı bilgi talebinde bulunulmaktadır. Başkanlığımız tarafından mükelleflere böyle bir bildirim yapma zorunluluğu bulunmamakta olup, söz konusu e-Fatura kayıtlı kullanıcılar listesine
+/efaturakayitlikullanicilar.html
+adresinden ulaşılabilmektedir.
+07.01.2015
+e-Fatura uygulamasından entegrasyon veya özel entegrasyon yöntemi ile yararlanan mükelleflerin; sistemlerine gelen zarflara en geç 48 saat  içinde sistem yanıtı dönmeleri gerekmektedir. Söz konusu süre içerisinde dönülmeyen “başarısız sistem yanıtlarının” gönderimi Başkanlık tarafından engellenecektir. Ayrıca söz konusu düzenlemeye uymayan mükelleflerin entegrasyon/özel entegrasyon izinleri Başkanlık tarafından iptal edilebilecektir.
+05.01.2015
+Fatura numarasındaki üç haneli birim koddan sonraki müteselsil numaranın ilk dört hanesi faturanın düzenlendiği yılı kalan dokuz hane ise müteselsil numarayı ifade etmesinden dolayı, 2015 yılında düzenlenen ilk faturanın müteselsil numarasının 2015000000001 olması gerekmektedir. Entegrasyon ve özel entegrasyon yöntemi kullanıcıları ile GİB-Portal yönteminde fatura yükleme modülü kullanan mükelleflerin bu hususa dikkat ederek faturalarını düzenlemeleri gerekmektedir. Entegrasyon ve özel entegrasyon yöntemi kullanıcıları talep etmeleri durumunda 2014 yılına ait faturalarını 2014 ile başlayan müteselsil numara (fatura numarası XXX2014XXXXXXXXX olarak şekilde) ile oluşturabilirler.
+05.01.2015
+Ticari faturanın cevaplanma süresinin entegrasyon ve özel entegrasyon yöntemi kullanıcıları için zorunlu olarak kullanımı ile ilgili güncelleme "e-Fatura Uygulaması Entegrasyon Kılavuzu"nda yapılmıştır. Güncel dokümana ulaşmak için
+tıklayınız
+. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları sistemlerinde bu değişiklikleri en geç 15.01.2015 Perşembe günü itibariyle uygulamalıdır.
+30.12.2014
+Vergi Usul Kanunu Genel Tebliği (Sıra No:433)’nde Değişiklik Yapılmasına Dair Tebliği (Sıra No: 443) Resmi Gazete’de yayımlanmıştır.Sözkonusu Genel Tebliğe ulaşmak için
+tıklayınız
+26.12.2014
+e-defter başvurusunda dikkat edilecek hususular ilişkin açıklamaları görmek ve e-defter başvurusu yapmak için
+tıklayınız
+.
+18.12.2014
+21.12.2014 saat 10:00-12:00 arasında e-fatura, e-arşiv, efks sistemleri planlı donanım bakımı nedeniyle kapalı olacaktır.
+12.12.2014
+397-421 ve 433 sıra numaralı Vergi Usul Kanunu Genel Tebliği’nde yapılan değişiklikler ve Vergi Usul Kanunu Genişleme Tebliğ Taslağı yayımlanmıştır.
+433 sıra numaralı Vergi Usul Kanunu Genel Tebliği  Değişiklik  Tebliğ Taslağı
+Genişleme Tebliğ Taslağı
+397 sıra numaralı Vergi Usul Kanunu Genel Tebliği  Değişiklik  Tebliğ Taslağı
+421 sıra numaralı Vergi Usul Kanunu Genel Tebliği  Değişiklik  Tebliğ Taslağı
+02.12.2014
+Gelir İdaresi Başkanlığı'nca yapılması planlanan elektrik altyapı çalışması nedeniyle 5 Aralık 2014 Saat 19:00 ile 8 Aralık 2014 Pazartesi Saat 7:00 saatleri arasında e-Fatura ve e-Defter uygulamalarına erişim geçici olarak kapatılacaktır. Mükelleflerimize duyurulur.
+01.12.2014
+Hava yolu ile yurt içi veya yurt dışı yolcu taşımacılığı işi ile iştigal eden mükelleflerin elektronik ortamda bilet düzenlemelerine yönelik hazırlanan tebliğ taslağı ve 26.06.2012 tarihli ve 28335 sayılı Resmi Gazete’de yayımlanan 415 sıra numaralı Vergi Usul Kanunu Genel Tebliği’ndeki  değişikliklere yönelik hazırlanan tebliğ taslağı yayımlanmıştır.
+415 sıra numaralı Vergi Usul Kanunu Genel Tebliği’ndeki  değişikliklere yönelik hazırlanan tebliğ taslağı
+Hava yolu ile yurt içi veya yurt dışı yolcu taşımacılığı işi ile iştigal eden mükelleflerin elektronik ortamda bilet düzenlemelerine yönelik hazırlanan tebliğ taslağı
+28.11.2014
+e-Defter kullanmak zorunda olan mükelleflere ilişkin duyuruya ulaşmak için
+tıklayınız
+28.11.2014
+UBL 2.1 standardı esas alınarak Gelir İdaresi Başkanlığı tarafından oluşturulan UBL-TR1.2 güncellemesi taslak olarak yayımlanmıştır. 01.12.2014 itibariyle UBL-TR1.2 şema ve şematronu e-fatura test ortamında uygulamaya konulacaktır.
+25.11.2014
+E-Fatura sistemi kullanıcılarının, entegrasyon ya da özel entegrasyon yöntemine geçmesi durumunda yöntem değişikliğinin yapıldığı tarihten itibaren 8 gün öncesine kadar göndermiş olduğu ticari faturaları entegrasyon ya da özel entegrasyon sistemine aktarması gerekmektedir. Söz konusu ticari faturalara verilen uygulama yanıtlarının fatura göndericisi tarafından (yeni yöntemde) alınabilmesi ve fatura ile eşleştirilebilmesi gerekmektedir. Bu ticari faturalara uygulama yanıtı gönderilirken güncel etiket bilgisinin kullanılmasına dikkat edilmelidir.
+26.09.2014
+Portal üzerinde kayıtlı bulunan 6 aydan önceki tarihli  faturalarınız ve uygulama yanıtlarınız (kabul-red cevapları) 15/10/2014 tarihi  itibariyle portalden silinecektir. Portaldeki faturaların ve posta kutusu yanıtlarının portal kullanıcıları tarafından  bilgisayarlarına indirilip
+397 Sıra Numaralı VUK Genel Tebliği
+nin "6. E-faturanın Muhafaza ve İbraz Yükümlülüğü" başlığı uyarınca elektronik ortamda saklanması gerekmektedir. Portalden indirilerek arşivlenmeyen faturaların ve posta kutusu yanıtlarının saklanma yükümlülüğü mükelleflere ait olup Gelir İdaresi Başkanlığının konuya ilişkin herhangi bir yükümlülüğü bulunmamaktadır. (Bakınız:
+350
+numaralı forum sorusu)
+01.09.2014
+Zarfların durumu Merkez Biriminden sorgulanabilmektedirler. Benzer şekilde merkezde 1220 durum kodunda bulunan zarflar da Merkez Birimi tarafından sorgulanacaktır. Bu amaçla “e-Fatura Uygulaması Sistem Yanıtı Şema Yapısı” kılavuzu güncellenmiştir. Güncel dokümana ulaşmak için
+tıklayınız
+. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları sistemlerinde bu değişiklikleri 01.10.2014 Çarşamba gününe kadar yapmalıdır.
+01.09.2014
+Schematron kontrollerinde değişiklik yapılacaktır. Fatura numarasının üç haneli fatura birim kodunda küçük harf kullanımı engellenecektir. Bu değişiklik 15.09.2014 Pazartesi günü uygulanacaktır. Güncel schematron kontrolleri
+E-Fatura Paketi
+“schematron” dosyası içerisinde yer almaktadır. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları sistemlerinde bu değişiklikleri yapmalıdır.
+21.08.2014
+e-Fatura uygulamasının daha hızlı ve etkin işlemesi amacıyla Gönderilen zarf boyutunda sınırlamaya gidilmiştir. Bu nedenle 21/8/2014 tarihi itibariyle gönderimi yapılacak zarfların boyutunun 5 MB'ı geçmemesi gerekmektedir. Aksi takdirde gönderici, zarfın GİB'de işlenmesi sırasında hata alacaktır. Entegrasyon/Özel Entegrasyon yöntemi kullanıcılarının bu duruma dikkat ederek gönderim yapması gerekmektedir.
+.
+13.08.2014
+e- Fatura Kullanıcılarının e-Fatura Düzenleyip Gönderdikten Sonra Zarf Durum Takibi Yapmaları Gerekliliği Hakkında Mükelleflerin Dikkat Etmesi Gereken Hususlar için
+tıklayınız
+.
+01.07.2014
+E-Fatura Paketi
+içerisine temel/ticari faturaya iade örneği, uygulama yanıtı iade örneği, saklama kullanıcı açma/kapama örneği XML dosyaları eklenmiştir.
+26.06.2014
+Schematron kontrollerinde bazı değişiklikler yapılmıştır. Değişiklikler 27.06.2014 Cuma günü uygulanacaktır. Güncel schematron kontrolleri
+E-Fatura Paketi
+“schematron” dosyası içerisinde yer almaktadır. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları sistemlerinde bu değişiklikleri yapmalıdır.
+UBL-TR Paketi
+içerisinde GİB Portalinde ve E-Fatura Görüntüleyicide kullanılan güncel XSLT dosyası (invoice.xslt) eklenmiştir.
+11.06.2014
+Fatura imzalamada
+bağlantıda
+belirtilen hususlara dikkat edilmelidir.
+06.05.2014
+e-Arşiv Başvuru Kılavuzu
+e-Arşiv uygulamasını bilgi işlem sistemini entegre ederek kullanmak amacıyla başvuran ve başkanlık ile EFKS kullanımı için protokol imzalayan mükelleflerden istenen başvuru evrakları güncellenmiştir.
+15.04.2014
+*.efatura.gov.tr SSL sertifikası 20.04.2014 14:00'da yenilenecektir. Yeni yüklenecek sertifikanın kök ve ara sertifikasının linkleri aşağıda belirtilmiştir.
+Kök SSL Link:
+http://secure.globalsign.net/cacert/Root-R1.crt
+Ara kök SSL Link:
+http://secure.globalsign.com/cacert/gsorganizationvalsha2g2r1.crt
+14.04.2014
+Test ortamında kullanıcı listesinin XML yapısında değişiklik yapılmıştır. RegisterTime bilgisi yerine FirstCreationTime kullanılmış ve ayrıca AliasCreationTime bilgisi eklenmiştir. FirstCreationTime bilgisi kullanıcının e-fatura sistemine dahil olma tarihi iken AliasCreationTime mevcut etiketin kullanılmaya başlanma tarihidir. 15 Nisan 2014 itibari ile uygulanması planlanan değişikliğin gerçek ortamda uygulanma tarihi gelen istekler üzerine 5 Mayıs 2014'e ertelenmiştir.
+03.04.2014
+e-Fatura Uygulamasını GİB-Portal Yöntemi İle Kullanan Mükelleflerin Dikkat Etmesi Gereken Hususlar için
+tıklayınız
+e-Fatura Uygulamasını GİB-Portal Yöntemi İle Kullanan Mükelleflerin Dikkat Etmesi Gereken Hususlar için
+tıklayınız
+31.03.2014
+e-Fatura Uygulamasında Dikkat Edilmesi Gereken Hususlar için
+tıklayınız
+26.03.2014
+433 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği ile uygulamaya geçen e-Arşiv Uygulamasına ait
+Teknik Kılavuz
+,
+Paket
+ve
+Başvuru Kılavuzu
+yayımlanmıştır. e-Fatura Uygulaması
+Özel Entegrasyon Kılavuzu
+güncellenmiştir.
+20.03.2014
+Schematron kontrollerinde 17.03.2014 Pazartesi saat 10:00’da yapılan güncellemede değişiklik yapılmıştır(SignatoryParty). Güncel schematron kontrolleri
+E-Fatura Paketi
+“schematron” dosyası içerisinde yer almaktadır. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları istemlerinde bu değişiklikleri yapmalıdır.
+14.03.2014
+Schematron kontrollerinde 17.03.2014 Pazartesi saat 10:00’da güncelleme yapılacaktır. Güncel schematron kontrolleri
+E-Fatura Paketi
+“schematron” dosyası içerisinde yer almaktadır. Entegrasyon/Özel Entegrasyon yöntemi kullanıcıları belirtilen tarihte sistemlerinde bu değişiklikleri yapmalıdır.
+03.03.2014
+E-Fatura sistemi 9:30-11:00 arasında bakım nedeniyle kapanmıştır.
+29.01.2014
+E-Fatura'da XAdES-EPES imza kullanılması önerilmemektedir. EPES imza tipinin kullanılabilmesi için imzanın daha önceden tanımlanmış bir politikaya uygun bir biçimde oluşturulması gerekmektedir. İmzanın belirtilen politikaya uygunluğu alıcı ve gönderici arasında olduğundan sorunlar çıkabilmektedir.
+15.01.2014
+Schematron kontrollerinde 20.01.2014 Pazartesi saat 11:00’de güncelleme yapılacaktır. Güncel schematron kontrolleri
+E-Fatura Paketi
+“schematron” dosyası içerisinde yer almaktadır. Bu pakete Mevzuat ve Teknik Mimari bölümünde yer alan Kılavuzlar sayfasından erişebilirsiniz.
+30.12.2013
+433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği Resmi Gazete’de yayımlanmıştır.
+Sözkonusu Genel Tebliğe ulaşmak için
+tıklayınız
+.
+Sözkonusu Genel Tebliği ile yapılan düzenleme ve değişikliklere ilişkin açıklamalar için
+tıklayınız
+.
+12.12.2013
+415 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği çerçevesinde analiz ve test prosedürlerini tamamlayarak teknik yeterliliği sağlayan bir firmaya ilk elektronik bilet ve elektronik yolcu listesi oluşturma izni verilmiştir.
+Elektronik bilet / elektronik yolcu listesi izni alan mükellefler listesini görmek için
+tıklayınız
+.
+11.12.2013
+İmza doğrulamasına ek kontroller eklenmiştir. Bunlardan dolayı fatura yüklenler ve entegratörler hata alabilirler.
+1. İmzalayan sertifikanın amacı sayısal imza olmalıdır. Şifreleme sertifikası ile imzalama yapılan dokümanlar doğrulanmayacaktır.
+2. XADES imzada kullanılan KeyInfo/KeyValue içindeki public key ile X509Certificate alanında belirtilen public key aynı olmalıdır.
+3. İmzalama enveloped yöntemi ile yapılmalıdır. İmza referanslarından birinin URI değeri "" olmalıdır.
+11.12.2013
+Hazırlanan elektronik faturaların görüntülenmesini sağlayan xslt içinde 60 KB'ı geçen büyük boyutlu resimler konulmamalıdır. Aksi halde portal' de faturalar görüntülenemeyecektir.
+06.12.2013
+07/12/2013 Cumartesi günü saat 18:00 ile 08/12/2013 Pazar günü saat 24:00 arası bakım çalışması yapılacağından e-Fatura sistemi bu saatler arasında çalışmayacaktır.
+22.11.2013
+25/11/2013 Pazartesi günü 09:00 ile 13:00 arası bakım çalışması yapılacağından e-Fatura test sistemi bu saatler arası çalışmayacaktır.
+12.11.2013
+Sayın e-fatura Kullanıcı Mükelleflerimiz
+Bilindiği üzere Gelir Geçici ve Kurum Geçici Beyannamelerinin Ekler Kısmında "FATURA BİLGİLERİ" istenmektedir. Başkanlığımızdan E-Fatura düzenleme yetkisi alan mükelleflerimizin e-fatura ile düzenledikleri bilgileri
+bu dönem
+için buraya yazmayacaklardır.
+06.11.2013
+e-Fatura Portal Kılavuzu güncellenmiştir. Portal yükleme sınırında güncelleme yapılmış olup aylık 5000 adet olan fatura yükleme sınırı 1 Nisan 2014 itibariyle 500 adete düşürülmüştür. Kılavuza ulaşmak için
+tıklayınız
+.
+06.11.2013
+e-Fatura uygulaması entegrasyon kılavuzunda güncelleme yapılmıştır. Grup entegrasyonu şartları ile ilgili durum güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız
+.
+01.10.2013
+Mali Mühürlerini teslim alan mükelleflerden portal yöntemini kullanacak olanlar Gelir İdaresi tarafından aktivasyon maili ile bilgilendirilecektir. Aktivasyonu gerçekleşip kayıtlı kullanıcılar arasında yer alan mükellefler 7 gün içinde e-fatura kullanımına başlayabilirler.
+02.09.2013
+e-Fatura Uygulaması Portal Kılavuzu güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız
+.
+28.08.2013
+e-Fatura Uygulaması Başvuru Kılavuzları güncellenmiştir. Kılavuza ulaşmak için
+tıklayınız
+.
+19.08.2013
+e-Fatura Uygulaması Entegrasyon Kılavuzu ve ekleri güncellenmiştir. Kılavuzlara ulaşmak için
+tıklayınız
+.
+05.08.2013
+"Elektronik Arşiv Uygulaması Tebliğ Taslağı" yayınlandı. Vergi Usul Kanunu uyarınca kağıt ortamında düzenlenen fatura belgesinin ikinci nüshasının elektronik ortamda muhafaza ve ibrazı ile internet üzerinden yapılan satışlarda düzenlenecek faturanın alıcıya elektronik ortamda iletilmesine ilişkin usul ve esasların düzenlendiği Elektronik Arşiv Uygulaması Tebliğ Taslağı yayınlandı. Tebliğ Taslağı ile ilgili görüş ve önerilerinizi 23/08/2013 tarihine kadar
+Bu e-Posta adresi istenmeyen posta engelleyicileri tarafýkorunuyor.
+internet adresine iletmenizi rica ederiz. Söz konusu Tebliğ Taslağına ulaşmak için
+tıklayınız
+.
+01.08.2013
+e-Fatura Uygulaması Başvuru Kılavuzu güncellenmiştir. 
+Başvuru Kılavuzunda:
+1. Özel entegratör aracılığıyla e-Fatura Uygulamasından yararlanmak isteyen mükelleflerin kullanıcı hesapları özel entegratör aracılığıyla e-Fatura Uygulamasına tanımlanana kadar kullanıcı hesaplarının aktive edilmeyeceği,
+2. Bilgi işlem sistemlerinin entegrasyon yöntemi ile entegre edilmesi suretiyle e-Fatura Uygulamasından yararlanmak isteyen mükelleflerin entegrasyon çalışmaları tamamlanana kadar portal hesaplarının aktive edilmeyeceği,
+3. Mükelleflerin istemeleri halinde yöntemler arası her zaman geçiş yapabilecekleri, hususları hakkında açıklamalar yapılmıştır. Kılavuza ulaşmak için
+tıklayınız
+.
+11.07.2013
+e-Fatura Uygulaması Özel Entegrasyon Kılavuzu güncellenmiştir. Test adımları daha detaylı bir şekilde açıklanmıştır. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+11.07.2013
+E-fatura Uygulamasında İki Firma Daha Başkanlığımızdan Özel Entegrasyon İzni Almıştır. Özel Entegrasyon İzni Alan Firmaların Listesine Ulaşmak İçin
+Tıklayınız
+...
+06.07.2013
+e-Fatura Uygulaması Özel Entegrasyon Kılavuzu revize edilmiştir. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+02.07.2013
+Elektronik Fatura Uygulamasında ilk özel entegrasyon izni verilmiştir. Detaylı bilgi için
+tıklayınız
+.
+28.06.2013
+e-Fatura Test Planı ve e-Fatura Paketi yayımlanmıştır. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+05.06.2013
+Maliye Bakanı Sayın Mehmet ŞİMŞEK'in e-fatura uygulamasına ilişkin
+"e-Fatura ile dünya artık daha düz"
+başlıklı yazısı yayınlandı. Söz konusu yazı için
+tıklayınız
+.
+26.04.2013
+Elektronik defter tutma ve elektronik fatura uygulamasına dahil olma zorunluluğu getirilen mükelleflere ilişkin 58 sıra no.lu Vergi Usul Kanunu sirkülere ekli listeler güncellenmiştir. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+05.04.2013
+Elektronik Fatura Uygulaması Başvuru Kılavuzu güncellenmiştir. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+25.02.2013
+424 Sıra No'lu VUK Genel Tebliği yayımlanmıştır. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+25.02.2013
+E-Fatura Uygulaması Saklama Kılavuzu, E-Fatura Uygulaması Özel Entegrasyon Kılavuzu ve Elektronik Fatura Uygulaması Başvuru Kılavuzu yayımlanmıştır. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+13.02.2013
+Elektronik defter tutma ve elektronik fatura uygulamasına dahil olma zorunluluğu getirilen mükelleflere ilişkin 58 sıra no.lu Vergi Usul Kanunu sirküleri yayımlanmıştır. Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+14.12.2012
+421 Sıra No'lu Vergi Usul Kanunu Genel Tebliği Yayımlanmıştır.  Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+30/10/2012
+04/11/2012 Pazar günü 08:00 ile 13:00 arası sistemlerde donanım bakım çalışması yapılacağından E-Fatura ve EFKS sistemleri bu saatler arası çalışmayacaktır.
+05/07/2012
+6102 sayılı Türk Ticaret Kanununun 6335 sayılı Kanunun 6.maddesi ile değişen 39. maddesinin ikinci fıkrası hükmü uyarınca e-faturada gösterilmesi gereken bilgilerden olup ayrı bir alanda yazılamayan “tacirin sicil numarası” ve “işletmenin merkezi” bilgisi faturanın Not alanına yazılabilecektir.
+20/06/2012
+e-Fatura Portal Kullanım Kılavuzu güncellenmiştir.  Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+18/07/2011
+Fatura Yükleme modülü e-Fatura Portalı üzerinden hizmet vermeye başlamıştır. Gerekli açıklamalar için bakınız: e-Fatura Portalı Kullanım Kılavuzu Versiyon 1.2.  Mevzuat ve Teknik Mimari bölümüne ulaşmak için
+tıklayınız
+.
+15/03/2011
+E-Fatura Uygulaması Entegrasyon Kılavuzu ve ekleri güncellenmiştir. Dökümanlara
+Mevzuat ve Teknik Mimari
+bölümünden ulaşılabilir.
+Bize Ulaşın
+Elektronik belge uygulamalarımıza ilişkin her türlü görüş, soru, öneri ve değerlendirmeleriniz için:
+http://forum.efatura.gov.tr
+Adres: Zübeyde Hanım Mah. Etlik Cad. No: 12 06110 Dışkapı / ANKARA
+Faydalı Bağlantılar
+e-Fatura Görüntüleyici Kılavuzu
+e-Fatura Görüntüleyici
+e-Arşiv Fatura Sorgulama
+e-Fatura Portal Girişi
+e-Arşiv (e-SMM, eMM) Portal Girişi
+e-Defter Sitesi
+Defter Beyan Sistemi Sitesi
+Yeni Nesil Ödeme Kaydedici Cihazlar Sitesi
+Gelir İdaresi Başkanlığı Mevzuat
+e-Fatura Forum
+İletişim
+© Gelir İdaresi Başkanlığı
+Her Hakkı Saklıdır.
+FB
+TW
+YT

@@ -1,0 +1,696 @@
+Loading...
+Mevzuat
+Sık Sorulan Sorular
+Onay Alan Firmalar
+İletişim
+Yeni Nesil Ödeme Kaydedici Cihaz Onayı Alan Firma ve Cihaz Listesi
+YENI NESIL ÖKC
+YENI NESIL POMPA ÖKC
+Tümü
+EFT-POS Özellikli
+Basit / Bilgisayar Bağlantılı
+Üretici Firma
+Marka
+Model
+ÖKC Türü
+Model Kodu
+Detay
+MT Bilgi Teknolojileri ve Dış Ticaret A.Ş.
+VERA
+Delta
+EFT-POS Özellikli
+RG
+Detay
+MT Bilgi Teknolojileri ve Dış Ticaret A.Ş.
+VERA
+Delta Plus
+EFT-POS Özellikli
+RJ
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+220 TR
+EFT-POS Özellikli
+AS
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+300 TR
+EFT-POS Özellikli
+AT
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+X30 TR
+EFT-POS Özellikli
+AV
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+TOKEN
+T1 Pro
+EFT-POS Özellikli
+AY
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+VeriFone VX 680-E1
+EFT-POS Özellikli
+BCA
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+FAREX
+FR-8300
+Basit Bilgisayar Bağlantılı
+BCB
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+YK-8200
+Basit Bilgisayar Bağlantılı
+BCD
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+TELESTAR
+TLS-8100
+Basit Bilgisayar Bağlantılı
+BCE
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Profilo
+YK-PS300
+Basit Bilgisayar Bağlantılı
+BCF
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Profilo
+YK-7200M
+Basit Bilgisayar Bağlantılı
+BCG
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Telestar
+TLS-7100M
+Basit Bilgisayar Bağlantılı
+BCH
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+TELEFUNKEN
+TFK-A1000
+Basit Bilgisayar Bağlantılı
+BCI
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+S900 ECR
+EFT-POS Özellikli
+BCJ
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROPAY
+P1000 ECR
+EFT-POS Özellikli
+BCM
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+VERİFONE
+Vx675 ECR
+EFT-POS Özellikli
+FO
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+FT-202
+Basit Bilgisayar Bağlantılı
+FP
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+FP-300
+Basit Bilgisayar Bağlantılı
+FR
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+V10
+EFT-POS Özellikli
+FV
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGIN
+T300
+EFT-POS Özellikli
+FT
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGIN
+S1
+EFT-POS Özellikli
+FU
+Detay
+PAVO Finansal Teknoloji
+Çözümleri A.Ş.
+INGENICO
+İWE280
+EFT-POS Özellikli
+JH
+Detay
+PAVO Finansal Teknoloji
+Çözümleri A.Ş.
+INGENICO
+İDE280
+EFT-POS Özellikli
+JI
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+MİKROSARAY
+Pidion MT360E
+EFT-POS Özellikli
+SC
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+İNFORMATİK
+inPOS m120
+EFT-POS Özellikli
+UB
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+MİKROSARAY
+inpos m530
+EFT-POS Özellikli
+SD
+Detay
+İNFOTEKS Bil. Elk. Tele. Med. Rek. İth.
+İhr. San. ve Tic. Ltd. ŞTİ.
+FUSIONS
+410G
+EFT-POS Özellikli
+OF
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico ECR
+IWE280
+EFT-POS Özellikli
+2A
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico ECR
+İDE280
+EFT-POS Özellikli
+2B
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico
+MOVE5000F
+EFT-POS Özellikli
+2C
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+PAX
+A910SF
+EFT-POS Özellikli
+2D
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+PBT 900 Serisi
+Basit Bilgisayar Bağlantılı
+PBT 900-E  3A / PBT 900-G 3B / PBT 900-P 3C
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+PBT 990-E
+Basit Bilgisayar Bağlantılı
+3D
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+VERİFONE MX 915 ECR
+EFT-POS Özellikli
+3E
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+MX 915 ECR-C
+EFT-POS Özellikli
+3F
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+VX680 ECR
+EFT-POS Özellikli
+3G
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-200
+Basit Bilgisayar Bağlantılı
+PC
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-100
+Basit Bilgisayar Bağlantılı
+PD
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-101
+Basit Bilgisayar Bağlantılı
+PE
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN500
+Basit Bilgisayar Bağlantılı
+PF
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10
+Basit Bilgisayar Bağlantılı
+TU
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10-7197
+Basit Bilgisayar Bağlantılı
+TV
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10-7199
+Basit Bilgisayar Bağlantılı
+TY
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+ENC-2020
+Basit Bilgisayar Bağlantılı
+TZ
+Detay
+TOSHIBA Global Commerce Solutions Turkey Teknoloji A.Ş.
+TOSHIBA
+4610-2NF
+Basit Bilgisayar Bağlantılı
+YAB
+Detay
+TOSHIBA Global Commerce Solutions Turkey Teknoloji A.Ş.
+TOSHIBA
+6145-1TF
+Basit Bilgisayar Bağlantılı
+YAC
+Detay
+PAYPORT Bilişim Tek. San. ve DışTicaret Ltd. Şti.
+PAYPORT
+PR-810
+Basit Bilgisayar Bağlantılı
+4A
+Detay
+PAYGO Finansal Teknoloji HizmetleriA.Ş
+PAYGO
+SP630PRO ECR
+EFT-POS Özellikli
+5B
+Detay
+PAYGO Finansal Teknoloji HizmetleriA.Ş
+PAYGO
+N950S ECR
+EFT-POS Özellikli
+5C
+Detay
+PAYERA Finansal Teknoloji Çözümleri A.Ş.
+PAYERA
+P10
+EFT-POS Özellikli
+6A
+Detay
+Üretici Firma
+Marka
+Model
+ÖKC Türü
+Model Kodu
+Detay
+MT Bilgi Teknolojileri ve Dış Ticaret A.Ş.
+VERA
+Delta
+EFT-POS Özellikli
+RG
+Detay
+MT Bilgi Teknolojileri ve Dış Ticaret A.Ş.
+VERA
+Delta Plus
+EFT-POS Özellikli
+RJ
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+220 TR
+EFT-POS Özellikli
+AS
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+300 TR
+EFT-POS Özellikli
+AT
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+X30 TR
+EFT-POS Özellikli
+AV
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+TOKEN
+T1 Pro
+EFT-POS Özellikli
+AY
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+VeriFone VX 680-E1
+EFT-POS Özellikli
+BCA
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+S900 ECR
+EFT-POS Özellikli
+BCJ
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROPAY
+P1000 ECR
+EFT-POS Özellikli
+BCM
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+VERİFONE
+Vx675 ECR
+EFT-POS Özellikli
+FO
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+V10
+EFT-POS Özellikli
+FV
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGIN
+T300
+EFT-POS Özellikli
+FT
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGIN
+S1
+EFT-POS Özellikli
+FU
+Detay
+PAVO Finansal Teknoloji
+Çözümleri A.Ş.
+INGENICO
+İWE280
+EFT-POS Özellikli
+JH
+Detay
+PAVO Finansal Teknoloji
+Çözümleri A.Ş.
+INGENICO
+İDE280
+EFT-POS Özellikli
+JI
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+MİKROSARAY
+Pidion MT360E
+EFT-POS Özellikli
+SC
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+İNFORMATİK
+inPOS m120
+EFT-POS Özellikli
+UB
+Detay
+MİKROSARAY Mikrobilgisayar Pazarlama
+ve Tic. A.Ş.
+MİKROSARAY
+inpos m530
+EFT-POS Özellikli
+SD
+Detay
+İNFOTEKS Bil. Elk. Tele. Med. Rek. İth.
+İhr. San. ve Tic. Ltd. ŞTİ.
+FUSIONS
+410G
+EFT-POS Özellikli
+OF
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico ECR
+IWE280
+EFT-POS Özellikli
+2A
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico ECR
+İDE280
+EFT-POS Özellikli
+2B
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+Ingenico
+MOVE5000F
+EFT-POS Özellikli
+2C
+Detay
+WORLDLİNE POS Teknoloji Çözüm ve Servisleri A.Ş.
+PAX
+A910SF
+EFT-POS Özellikli
+2D
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+VERİFONE MX 915 ECR
+EFT-POS Özellikli
+3E
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+MX 915 ECR-C
+EFT-POS Özellikli
+3F
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+VX680 ECR
+EFT-POS Özellikli
+3G
+Detay
+PAYGO Finansal Teknoloji HizmetleriA.Ş
+PAYGO
+SP630PRO ECR
+EFT-POS Özellikli
+5B
+Detay
+PAYGO Finansal Teknoloji HizmetleriA.Ş
+PAYGO
+N950S ECR
+EFT-POS Özellikli
+5C
+Detay
+PAYERA Finansal Teknoloji Çözümleri A.Ş.
+PAYERA
+P10
+EFT-POS Özellikli
+6A
+Detay
+Üretici Firma
+Marka
+Model
+ÖKC Türü
+Model Kodu
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+FAREX
+FR-8300
+Basit Bilgisayar Bağlantılı
+BCB
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROFİLO
+YK-8200
+Basit Bilgisayar Bağlantılı
+BCD
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+TELESTAR
+TLS-8100
+Basit Bilgisayar Bağlantılı
+BCE
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Profilo
+YK-PS300
+Basit Bilgisayar Bağlantılı
+BCF
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Profilo
+YK-7200M
+Basit Bilgisayar Bağlantılı
+BCG
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+Telestar
+TLS-7100M
+Basit Bilgisayar Bağlantılı
+BCH
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+TELEFUNKEN
+TFK-A1000
+Basit Bilgisayar Bağlantılı
+BCI
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+FT-202
+Basit Bilgisayar Bağlantılı
+FP
+Detay
+HUGİN Yazılım Teknolojileri A.Ş.
+HUGİN
+FP-300
+Basit Bilgisayar Bağlantılı
+FR
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+PBT 900 Serisi
+Basit Bilgisayar Bağlantılı
+PBT 900-E  3A / PBT 900-G 3B / PBT 900-P 3C
+Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+OLIVETTI
+PBT 990-E
+Basit Bilgisayar Bağlantılı
+3D
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-200
+Basit Bilgisayar Bağlantılı
+PC
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-100
+Basit Bilgisayar Bağlantılı
+PD
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN-101
+Basit Bilgisayar Bağlantılı
+PE
+Detay
+ENPOS Bilişim Sanayi ve Ticaret A.Ş.
+N-POS
+YN500
+Basit Bilgisayar Bağlantılı
+PF
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10
+Basit Bilgisayar Bağlantılı
+TU
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10-7197
+Basit Bilgisayar Bağlantılı
+TV
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+E10-7199
+Basit Bilgisayar Bağlantılı
+TY
+Detay
+NCR Bilişim Sistemleri Ltd. Şti.
+NCR
+ENC-2020
+Basit Bilgisayar Bağlantılı
+TZ
+Detay
+TOSHIBA Global Commerce Solutions Turkey Teknoloji A.Ş.
+TOSHIBA
+4610-2NF
+Basit Bilgisayar Bağlantılı
+YAB
+Detay
+TOSHIBA Global Commerce Solutions Turkey Teknoloji A.Ş.
+TOSHIBA
+6145-1TF
+Basit Bilgisayar Bağlantılı
+YAC
+Detay
+PAYPORT Bilişim Tek. San. ve DışTicaret Ltd. Şti.
+PAYPORT
+PR-810
+Basit Bilgisayar Bağlantılı
+4A
+Detay
+Tümü
+Üretici Firma
+Marka
+Model
+Model Kodu
+Detay
+TOKEN Finansal Teknolojiler A.Ş.
+BEKO
+1000TR
+AU
+Detay
+TURPAK Elektromanyetik Yakıt İkmal Sis. Tic. A.Ş.
+TURPAK
+VISION
+DK
+Detay
+MEPSAN Petrol Cihazları San. Tic. A.Ş.
+MEPSAN
+PCR 172
+IF
+Detay
+E DATA Elek. San. ve Tic. A.Ş.
+PROPAY
+PYK-9000
+BCL
+Detay
+Yardımcı Dokümanlar
+YN Pompa ÖKC Onayı Alan Firmalar
+Yemek Kartı POS Cihazlarının Haricen Kullanılmasına İzin Verilen Firmalar
+YN ÖKC Onayı Alan Firmalar
+Yeni Nesil ÖKC TSM'lerinin Firma Kodlarına Ait Liste
+Yetkili Ödeme Kaydedici Cihaz Firma İletişim Listesi
+Yardım ve Kaynaklar
+Mevzuat
+Sık Sorulan Sorular
+Onay Alan Firmalar
+İletişim
+Bağlantılar
+Cumhurbaşkanlığı
+Hazine ve Maliye Bakanlığı
+Gelir İdaresi Başkanlığı
+Dijital Vergi Dairesi
+Her hakkı saklıdır. © 2026 T.C. Gelir İdaresi Başkanlığı - GİB Teknoloji
