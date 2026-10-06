@@ -13,7 +13,7 @@ URL_LISTESI = [
         "isim": "GİB Duyuru Arşivi (Güncel)",
         "url":  "https://www.gib.gov.tr/duyuru-arsivi/guncel",
         "hash_file": "hash_gib_guncel.txt",
-        "api": "https://gib.gov.tr/api/gibportal/duyuru/listPublish?preview=false&page=0&size=5&sortFieldName=startdate&sortType=DESC",
+        "api": "https://gib.gov.tr/api/gibportal/duyuru/listPublish?preview=false&page=0&size=50&sortFieldName=startdate&sortType=DESC",
     },
     {
         "isim": "YN ÖKC Duyuru Arşivi",
