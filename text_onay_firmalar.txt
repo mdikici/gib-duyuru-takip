@@ -243,6 +243,12 @@ VX680 ECR
 EFT-POS Özellikli
 3G
 Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+V660p-A ECR
+EFT-POS Özellikli
+3H
+Detay
 ENPOS Bilişim Sanayi ve Ticaret A.Ş.
 N-POS
 YN-200
@@ -495,6 +501,12 @@ VX680 ECR
 EFT-POS Özellikli
 3G
 Detay
+PANAROMA Bil. Tek. San. ve Tic. A.Ş.
+VERİFONE
+V660p-A ECR
+EFT-POS Özellikli
+3H
+Detay
 PAYGO Finansal Teknoloji HizmetleriA.Ş
 PAYGO
 SP630PRO ECR
@@ -680,9 +692,9 @@ Detay
 Yardımcı Dokümanlar
 YN Pompa ÖKC Onayı Alan Firmalar
 Yemek Kartı POS Cihazlarının Haricen Kullanılmasına İzin Verilen Firmalar
-YN ÖKC Onayı Alan Firmalar
-Yeni Nesil ÖKC TSM'lerinin Firma Kodlarına Ait Liste
 Yetkili Ödeme Kaydedici Cihaz Firma İletişim Listesi
+Yeni Nesil ÖKC TSM'lerinin Firma Kodlarına Ait Liste
+YN ÖKC Onayı Alan Firmalar
 Yardım ve Kaynaklar
 Mevzuat
 Sık Sorulan Sorular
