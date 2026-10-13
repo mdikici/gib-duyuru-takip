@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import hashlib
 import os
 import smtplib
-import difflib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import time
@@ -55,7 +54,6 @@ def sayfa_icerik_al(site):
     url = site["url"]
 
     if site.get("api"):
-        # API POST metodu istiyor
         payload = {
             "preview": False,
             "page": 0,
@@ -82,27 +80,20 @@ def sayfa_icerik_al(site):
     return icerik_hash, metin
 
 
-def fark_bul(eski_metin, yeni_metin, max_satir=30):
-    """İki metin arasındaki farkı okunabilir şekilde döndürür."""
-    eski_satirlar = eski_metin.splitlines()
-    yeni_satirlar = yeni_metin.splitlines()
+def yeni_satirlari_bul(eski_metin, yeni_metin, max_satir=30):
+    """Yeni metinde olup eski metinde olmayan satırları döndürür."""
+    eski_set = set(s.strip() for s in eski_metin.splitlines() if s.strip())
+    yeni_satirlar = [s.strip() for s in yeni_metin.splitlines() if s.strip()]
 
-    farklar = []
-    for satir in difflib.unified_diff(
-        eski_satirlar, yeni_satirlar,
-        lineterm="", n=1
-    ):
-        # Sadece eklenen (+) ve silinen (-) satırları al
-        if satir.startswith("+") and not satir.startswith("+++"):
-            farklar.append(f"➕ {satir[1:].strip()}")
-        elif satir.startswith("-") and not satir.startswith("---"):
-            farklar.append(f"➖ {satir[1:].strip()}")
+    yeni_eklenenler = []
+    for satir in yeni_satirlar:
+        if satir not in eski_set:
+            yeni_eklenenler.append(satir)
+            if len(yeni_eklenenler) >= max_satir:
+                yeni_eklenenler.append("... (daha fazla yeni içerik var)")
+                break
 
-        if len(farklar) >= max_satir:
-            farklar.append("... (daha fazla fark var)")
-            break
-
-    return "\n".join(farklar) if farklar else "(Metin farkı hesaplanamadı)"
+    return yeni_eklenenler
 
 
 def email_gonder(konu, icerik):
@@ -147,7 +138,8 @@ def kontrol_et(site):
 
     if eski_hash != yeni_hash:
         print(f"[{time.strftime('%H:%M:%S')}] 🔔 DEĞİŞİKLİK: {isim}")
-        fark = fark_bul(eski_metin, yeni_metin)
+
+        yeni_icerikler = yeni_satirlari_bul(eski_metin, yeni_metin)
 
         # Güncel hash ve metni kaydet
         with open(hash_file, "w", encoding="utf-8") as f:
@@ -155,7 +147,11 @@ def kontrol_et(site):
         with open(text_file, "w", encoding="utf-8") as f:
             f.write(yeni_metin)
 
-        return {"isim": isim, "url": site["url"], "fark": fark}
+        return {
+            "isim": isim,
+            "url": site["url"],
+            "yeni_icerikler": yeni_icerikler,
+        }
     else:
         print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
         return None
@@ -172,19 +168,31 @@ def main():
     if degisenler:
         parcalar = []
         for d in degisenler:
+            # Her yeni satırı kısa ve okunabilir hale getir
+            satirlar = []
+            for s in d["yeni_icerikler"]:
+                # Çok uzun satırları kısalt
+                if len(s) > 200:
+                    s = s[:200] + "..."
+                satirlar.append(f"  • {s}")
+
+            if not satirlar:
+                satirlar = ["  (yeni içerik tespit edilemedi)"]
+
             parcalar.append(
-                f"═══════════════════════════════════\n"
                 f"📍 {d['isim']}\n"
-                f"🔗 {d['url']}\n"
-                f"───────────────────────────────────\n"
-                f"{d['fark']}\n"
+                f"🔗 {d['url']}\n\n"
+                f"Yeni içerik:\n"
+                + "\n".join(satirlar)
+                + "\n"
             )
+
         icerik = (
-            f"Aşağıdaki sayfalarda değişiklik tespit edildi:\n\n"
-            + "\n".join(parcalar)
+            f"Aşağıdaki sayfalarda yeni içerik tespit edildi:\n\n"
+            + "\n" + ("─" * 40 + "\n").join(parcalar)
             + f"\n⏰ Zaman: {time.strftime('%d.%m.%Y %H:%M:%S')}\n"
         )
-        email_gonder("🔔 Sayfa Değişikliği Tespit Edildi", icerik)
+        email_gonder("🔔 Sayfa Güncellemesi", icerik)
     else:
         print(f"[{time.strftime('%H:%M:%S')}] Hiçbir sayfada değişiklik yok.")
 
