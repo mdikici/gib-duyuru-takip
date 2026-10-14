@@ -13,6 +13,7 @@ URL_LISTESI = [
         "isim": "GİB Duyuru Arşivi (Güncel)",
         "url":  "https://www.gib.gov.tr/duyuru-arsivi/guncel",
         "hash_file": "hash_gib_guncel.txt",
+        "notified_file": "notified_gib_guncel.txt",
         "text_file": "text_gib_guncel.txt",
         "api": "https://gib.gov.tr/api/gibportal/duyuru/listPublish",
     },
@@ -20,18 +21,21 @@ URL_LISTESI = [
         "isim": "YN ÖKC Duyuru Arşivi",
         "url":  "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
         "hash_file": "hash_ynokc.txt",
+        "notified_file": "notified_ynokc.txt",
         "text_file": "text_ynokc.txt",
     },
     {
         "isim": "eBelge Duyuruları",
         "url":  "https://ebelge.gib.gov.tr/duyurular.html",
         "hash_file": "hash_ebelge.txt",
+        "notified_file": "notified_ebelge.txt",
         "text_file": "text_ebelge.txt",
     },
     {
         "isim": "Onay Alan Firmalar (1003)",
         "url":  "https://ynokc.gib.gov.tr/Home/OnayAlanFirmalar/1003",
         "hash_file": "hash_onay_firmalar.txt",
+        "notified_file": "notified_onay_firmalar.txt",
         "text_file": "text_onay_firmalar.txt",
     },
 ]
@@ -109,13 +113,16 @@ def email_gonder(konu, icerik):
             server.login(GONDEREN_EMAIL, GONDEREN_SIFRE)
             server.send_message(msg)
         print(f"[{time.strftime('%H:%M:%S')}] ✅ E-posta gönderildi.")
+        return True
     except Exception as e:
         print(f"[{time.strftime('%H:%M:%S')}] ❌ E-posta hatası: {e}")
+        return False
 
 
 def kontrol_et(site):
     isim = site["isim"]
     hash_file = site["hash_file"]
+    notified_file = site["notified_file"]
     text_file = site["text_file"]
 
     try:
@@ -131,30 +138,57 @@ def kontrol_et(site):
             f.write(yeni_hash)
         with open(text_file, "w", encoding="utf-8") as f:
             f.write(yeni_metin)
+        # İlk kayıtta bildirim yapılmadı, notified dosyasını da yaz
+        with open(notified_file, "w", encoding="utf-8") as f:
+            f.write(yeni_hash)
         return None
 
     eski_hash = open(hash_file, encoding="utf-8").read().strip()
     eski_metin = open(text_file, encoding="utf-8").read()
 
-    if eski_hash != yeni_hash:
-        print(f"[{time.strftime('%H:%M:%S')}] 🔔 DEĞİŞİKLİK: {isim}")
+    # Son bildirilen hash'i oku (yoksa eski hash kabul et)
+    if os.path.exists(notified_file):
+        son_bildirilen_hash = open(notified_file, encoding="utf-8").read().strip()
+    else:
+        son_bildirilen_hash = ""
 
-        yeni_icerikler = yeni_satirlari_bul(eski_metin, yeni_metin)
-
-        # Güncel hash ve metni kaydet
+    # Hash aynıysa hiçbir şey yapma
+    if eski_hash == yeni_hash:
+        print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
+        # Hash dosyasını güncelle (içerik değişmemiş olsa da tutarlılık için)
         with open(hash_file, "w", encoding="utf-8") as f:
             f.write(yeni_hash)
         with open(text_file, "w", encoding="utf-8") as f:
             f.write(yeni_metin)
-
-        return {
-            "isim": isim,
-            "url": site["url"],
-            "yeni_icerikler": yeni_icerikler,
-        }
-    else:
-        print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
         return None
+
+    # Hash değişti ama bu değişiklik DAHA ÖNCE bildirilmiş mi?
+    if yeni_hash == son_bildirilen_hash:
+        print(f"[{time.strftime('%H:%M:%S')}] Değişiklik var ama zaten bildirilmiş: {isim}")
+        with open(hash_file, "w", encoding="utf-8") as f:
+            f.write(yeni_hash)
+        with open(text_file, "w", encoding="utf-8") as f:
+            f.write(yeni_metin)
+        return None
+
+    # Gerçekten yeni bir değişiklik var → bildir
+    print(f"[{time.strftime('%H:%M:%S')}] 🔔 YENİ DEĞİŞİKLİK: {isim}")
+
+    yeni_icerikler = yeni_satirlari_bul(eski_metin, yeni_metin)
+
+    # Güncel hash, metin ve bildirilen hash'i kaydet
+    with open(hash_file, "w", encoding="utf-8") as f:
+        f.write(yeni_hash)
+    with open(text_file, "w", encoding="utf-8") as f:
+        f.write(yeni_metin)
+    with open(notified_file, "w", encoding="utf-8") as f:
+        f.write(yeni_hash)
+
+    return {
+        "isim": isim,
+        "url": site["url"],
+        "yeni_icerikler": yeni_icerikler,
+    }
 
 
 def main():
@@ -168,10 +202,8 @@ def main():
     if degisenler:
         parcalar = []
         for d in degisenler:
-            # Her yeni satırı kısa ve okunabilir hale getir
             satirlar = []
             for s in d["yeni_icerikler"]:
-                # Çok uzun satırları kısalt
                 if len(s) > 200:
                     s = s[:200] + "..."
                 satirlar.append(f"  • {s}")
@@ -194,7 +226,7 @@ def main():
         )
         email_gonder("🔔 Sayfa Güncellemesi", icerik)
     else:
-        print(f"[{time.strftime('%H:%M:%S')}] Hiçbir sayfada değişiklik yok.")
+        print(f"[{time.strftime('%H:%M:%S')}] Hiçbir sayfada yeni değişiklik yok.")
 
 
 if __name__ == "__main__":
