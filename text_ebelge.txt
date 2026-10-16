@@ -67,6 +67,9 @@ Mevzuat ve Teknik Mimari
 SSS
 Duyurular
 Duyurular
+16.10.2026
+e-Arşiv Paketi güncellenmiştir. earsiv.xsd dosyasındaki eksiklikler giderilmiştir. Güncel Pakete ulaşmak için
+tıklayınız.
 14.10.2026
 e-Müstahsil Makbuzu uygulamasına yönelik değişikliğin e-Arşiv Raporuna uygulanması ile ilgili olarak güncellenen e-Arşiv Paketi’ne ulaşmak için
 tıklayınız.
