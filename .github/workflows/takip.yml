@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add hash_*.txt text_*.txt
+          git add hash_*.txt text_*.txt notified_*.txt
           if git diff --staged --quiet; then
             echo "ℹ️ Değişiklik yok, commit atlanıyor."
           else
