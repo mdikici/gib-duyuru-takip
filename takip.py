@@ -188,13 +188,15 @@ def kontrol_et(site):
     # Hash aynıysa hiçbir şey yapma
     if eski_hash == yeni_hash:
         print(f"[{time.strftime('%H:%M:%S')}] Değişiklik yok: {isim}")
-        # Hash dosyasını güncelle (içerik değişmemiş olsa da tutarlılık için)
         with open(hash_file, "w", encoding="utf-8") as f:
             f.write(yeni_hash)
         with open(text_file, "w", encoding="utf-8") as f:
             f.write(yeni_metin)
         return None
 
+    # Debug: hash değerlerini göster
+    print(f"[DEBUG] {isim}: eski={eski_hash[:12]}... yeni={yeni_hash[:12]}... notified={son_bildirilen_hash[:12] or 'YOK'}...")
+    
     # Hash değişti ama bu değişiklik DAHA ÖNCE bildirilmiş mi?
     if yeni_hash == son_bildirilen_hash:
         print(f"[{time.strftime('%H:%M:%S')}] Değişiklik var ama zaten bildirilmiş: {isim}")
