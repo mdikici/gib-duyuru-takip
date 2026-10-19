@@ -72,7 +72,41 @@ def sayfa_icerik_al(site):
             timeout=20
         )
         r.raise_for_status()
-        metin = r.text
+
+        # JSON'dan SADECE anlamlı alanları çıkar
+        try:
+            data = r.json()
+
+            # Farklı API yanıt yapılarını destekle
+            if isinstance(data, dict):
+                items = data.get("content", data.get("data", data.get("items", [])))
+            elif isinstance(data, list):
+                items = data
+            else:
+                items = []
+
+            kayitlar = []
+            for item in items:
+                if isinstance(item, dict):
+                    kayitlar.append({
+                        "id": item.get("id", ""),
+                        "title": item.get("title", ""),
+                        "startdate": item.get("startdate", item.get("date", "")),
+                    })
+
+            # API farklı sırada döndürse bile hash stabil kalsın
+            kayitlar.sort(key=lambda x: (x.get("startdate", ""), str(x.get("id", ""))))
+
+            if kayitlar:
+                metin = json.dumps(kayitlar, sort_keys=True, ensure_ascii=False, indent=2)
+                print(f"[DEBUG] {site['isim']}: {len(kayitlar)} duyuru çekildi")
+            else:
+                # Beklenen yapı yoksa ham metne düş
+                print(f"[DEBUG] {site['isim']}: duyuru çıkarılamadı, ham metin kullanılıyor")
+                metin = r.text
+        except Exception as e:
+            print(f"[DEBUG] {site['isim']}: JSON parse hatası: {e}")
+            metin = r.text
     else:
         r = requests.get(url, headers=HEADERS, timeout=20)
         r.raise_for_status()
@@ -82,7 +116,6 @@ def sayfa_icerik_al(site):
 
     icerik_hash = hashlib.sha256(metin.encode("utf-8")).hexdigest()
     return icerik_hash, metin
-
 
 def yeni_satirlari_bul(eski_metin, yeni_metin, max_satir=30):
     """Yeni metinde olup eski metinde olmayan satırları döndürür."""
