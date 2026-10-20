@@ -35,16 +35,6 @@
     "ts": "2026-10-13T16:52:47.350126"
   },
   {
-    "id": 19177,
-    "title": "Sivaslı Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı",
-    "ts": "2026-10-13T17:12:28.972633"
-  },
-  {
-    "id": 19178,
-    "title": "Tatar Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı",
-    "ts": "2026-10-13T17:17:50.628496"
-  },
-  {
     "id": 19179,
     "title": "Pınarbaşı Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı",
     "ts": "2026-10-13T17:21:52.172879"
@@ -93,11 +83,6 @@
     "id": 19192,
     "title": "Ulubey Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı",
     "ts": "2026-10-14T15:54:45.109374"
-  },
-  {
-    "id": 19193,
-    "title": "Kemer Kaymakamı Sayın Ahmet SOLMAZ Defterdarımız İlhan KARAYILAN'ı ziyaret etti.",
-    "ts": "2026-10-14T16:15:27.517852"
   },
   {
     "id": 19194,
@@ -248,5 +233,20 @@
     "id": 19223,
     "title": "Alanyalı İş İnsanı Sn. Yasin AKSU ve Ankaralı İş İnsanı Sn. Mehmet Ali HOCAOĞLU, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.",
     "ts": "2026-10-20T08:18:45.323342"
+  },
+  {
+    "id": 19224,
+    "title": "Çorum Defterdarı Sayın Erkan CİĞER, Çorum Ticaret Borsası Yönetim Kurulu Başkanlığına Seçilen Sayın Yılmaz KAYA'yı Ziyaret Etti.",
+    "ts": "2026-10-20T08:59:43.182611"
+  },
+  {
+    "id": 19225,
+    "title": "Vergi Dairesi Müdür Yardımcıları ile Toplantı Düzenlendi.",
+    "ts": "2026-10-20T11:00:23.567808"
+  },
+  {
+    "id": 19226,
+    "title": "Mükellef ziyareti",
+    "ts": "2026-10-20T11:57:22.109911"
   }
 ]
