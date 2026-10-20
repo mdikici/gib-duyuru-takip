@@ -73,17 +73,10 @@ def sayfa_icerik_al(site):
         )
         r.raise_for_status()
 
-        # JSON'dan SADECE anlamlı alanları çıkar
         try:
             data = r.json()
-
-            # Farklı API yanıt yapılarını destekle
-            if isinstance(data, dict):
-                items = data.get("content", data.get("data", data.get("items", [])))
-            elif isinstance(data, list):
-                items = data
-            else:
-                items = []
+            # DOĞRU YOL: resultContainer.content
+            items = data.get("resultContainer", {}).get("content", [])
 
             kayitlar = []
             for item in items:
@@ -91,18 +84,17 @@ def sayfa_icerik_al(site):
                     kayitlar.append({
                         "id": item.get("id", ""),
                         "title": item.get("title", ""),
-                        "startdate": item.get("startdate", item.get("date", "")),
+                        "ts": item.get("ts", item.get("startdate", "")),
                     })
 
-            # API farklı sırada döndürse bile hash stabil kalsın
-            kayitlar.sort(key=lambda x: (x.get("startdate", ""), str(x.get("id", ""))))
+            # Sıralamayı sabitle: ts, sonra id
+            kayitlar.sort(key=lambda x: (str(x.get("ts", "")), str(x.get("id", ""))))
 
             if kayitlar:
                 metin = json.dumps(kayitlar, sort_keys=True, ensure_ascii=False, indent=2)
                 print(f"[DEBUG] {site['isim']}: {len(kayitlar)} duyuru çekildi")
             else:
-                # Beklenen yapı yoksa ham metne düş
-                print(f"[DEBUG] {site['isim']}: duyuru çıkarılamadı, ham metin kullanılıyor")
+                print(f"[DEBUG] {site['isim']}: duyuru çıkarılamadı (items={len(items)}), ham metin kullanılıyor")
                 metin = r.text
         except Exception as e:
             print(f"[DEBUG] {site['isim']}: JSON parse hatası: {e}")
@@ -116,6 +108,7 @@ def sayfa_icerik_al(site):
 
     icerik_hash = hashlib.sha256(metin.encode("utf-8")).hexdigest()
     return icerik_hash, metin
+
 
 def yeni_satirlari_bul(eski_metin, yeni_metin, max_satir=30):
     """Yeni metinde olup eski metinde olmayan satırları döndürür."""
