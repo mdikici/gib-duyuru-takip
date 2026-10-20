@@ -10,36 +10,6 @@
     "ts": "2026-10-01T13:57:23.660028"
   },
   {
-    "id": 19169,
-    "title": "Han Belediye Başkanı Sn. Bekir BELCELİ Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.",
-    "ts": "2026-10-13T14:55:46.336432"
-  },
-  {
-    "id": 19170,
-    "title": "Addax Tekstil, Konfeksiyon Sanayi ve Ticaret A.Ş. Yönetim Kurulu Başkanı Sn. Ahmet ŞAHİN, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.",
-    "ts": "2026-10-13T15:03:45.711607"
-  },
-  {
-    "id": 19172,
-    "title": "Defterdarımız Sn. Cemil MÜSEVİTOĞLU,  Mükellef Ziyaretleri Kapsamında ESGAZ A.Ş. yi Ziyaret Etti.",
-    "ts": "2026-10-13T16:29:11.006542"
-  },
-  {
-    "id": 19173,
-    "title": "Çorum Defterdarı Sayın Erkan CİĞER, İskilip Belediye Başkanı Sayın İsmail ÇİZİKCİ'yi ziyaret etti.",
-    "ts": "2026-10-13T16:49:38.816591"
-  },
-  {
-    "id": 19174,
-    "title": "Çorum Defterdarı Sayın Erkan CİĞER, BKMYBS Yerel Yönetimlerde Uygulanmasını Geliştirme Kapsamında İskilip Belediyesini Ziyaret Etti.",
-    "ts": "2026-10-13T16:52:47.350126"
-  },
-  {
-    "id": 19179,
-    "title": "Pınarbaşı Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı",
-    "ts": "2026-10-13T17:21:52.172879"
-  },
-  {
     "id": 19180,
     "title": "Alfa Türk Basın Medya Grubu İmtiyaz Sahibi Sn. M.Emin KABALI ile Gazeteciler Sn. Abdullah YEŞİLKAYA ve Özgür TIKIZ, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Ettiler.",
     "ts": "2026-10-14T08:19:57.203039"
@@ -93,11 +63,6 @@
     "id": 19195,
     "title": "Defterdarımız Sayın Ahmet BALIKCI Tufanbeyli, Saimbeyli ve Feke Vergi Dairelerimizi Ziyaret Etti",
     "ts": "2026-10-14T17:09:42.223575"
-  },
-  {
-    "id": 19196,
-    "title": "Uşak Belediye Başkanı Sayın Hatice TEREKECİ ÖZKAN’dan Defterdarlığımıza Nezaket Ziyareti",
-    "ts": "2026-10-14T17:31:04.972921"
   },
   {
     "id": 19197,
@@ -248,5 +213,40 @@
     "id": 19226,
     "title": "Mükellef ziyareti",
     "ts": "2026-10-20T11:57:22.109911"
+  },
+  {
+    "id": 19227,
+    "title": "Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Mükellef Ziyaretleri Kapsamında Korel Elektronik Sanayi ve Ticaret A.Ş. 'yi Ziyaret Etti.",
+    "ts": "2026-10-20T14:15:56.123929"
+  },
+  {
+    "id": 19228,
+    "title": "Defterdarımız Sn. Cemil MÜSEVİTOĞLU Yeni Göreve Başlayan Eskişehir Ticaret  Borsası Yönetim Kuruluna Hayırlı Olsun Ziyaretinde Bulundu.",
+    "ts": "2026-10-20T14:20:01.543242"
+  },
+  {
+    "id": 19229,
+    "title": "Defterdarlığımıza Ziyaret",
+    "ts": "2026-10-20T14:35:07.175138"
+  },
+  {
+    "id": 19230,
+    "title": "Ziyaret",
+    "ts": "2026-10-20T15:14:24.770322"
+  },
+  {
+    "id": 19231,
+    "title": "Yeşilay Muğla Şube Başkanı Abdullah Şenol ŞENGÜL, Defterdarımız Sayın İlhan AKÇAY'ı makamlarında ziyaret etmişlerdir.",
+    "ts": "2026-10-20T15:45:08.610816"
+  },
+  {
+    "id": 19232,
+    "title": "Samsun Serbest Muhasebeci Mali Müşavirler Odası Başkanı Sayın Osman ARSLAN Defterdarlığımızı Ziyaret Etti.",
+    "ts": "2026-10-20T16:03:00.670471"
+  },
+  {
+    "id": 19233,
+    "title": "İş Sağlığı ve Güvenliği Kapsamında Defterdarlığımız Personeline Yönelik 06-19 Ekim 2026 Tarihleri Arasında Sağlık Taraması Yaptırılmıştır.",
+    "ts": "2026-10-20T17:14:12.057933"
   }
 ]
