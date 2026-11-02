@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import hashlib
 import os
-import json
+import re
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -13,29 +13,28 @@ from datetime import datetime, timezone, timedelta
 URL_LISTESI = [
     {
         "isim": "GİB Duyuru Arşivi (Güncel)",
-        "url": "https://www.gib.gov.tr/duyuru-arsivi/guncel",
+        "url":  "https://www.gib.gov.tr/duyuru-arsivi/guncel",
         "hash_file": "hash_gib_guncel.txt",
         "text_file": "text_gib_guncel.txt",
         "notified_file": "notified_gib_guncel.txt",
-        # Artık API kullanmıyoruz, doğrudan HTML'den çekeceğiz.
     },
     {
         "isim": "YN ÖKC Duyuru Arşivi",
-        "url": "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
+        "url":  "https://ynokc.gib.gov.tr/Home/DuyuruArsiv",
         "hash_file": "hash_ynokc.txt",
         "text_file": "text_ynokc.txt",
         "notified_file": "notified_ynokc.txt",
     },
     {
         "isim": "eBelge Duyuruları",
-        "url": "https://ebelge.gib.gov.tr/duyurular.html",
+        "url":  "https://ebelge.gib.gov.tr/duyurular.html",
         "hash_file": "hash_ebelge.txt",
         "text_file": "text_ebelge.txt",
         "notified_file": "notified_ebelge.txt",
     },
     {
         "isim": "Onay Alan Firmalar (1003)",
-        "url": "https://ynokc.gib.gov.tr/Home/OnayAlanFirmalar/1003",
+        "url":  "https://ynokc.gib.gov.tr/Home/OnayAlanFirmalar/1003",
         "hash_file": "hash_onay_firmalar.txt",
         "text_file": "text_onay_firmalar.txt",
         "notified_file": "notified_onay_firmalar.txt",
@@ -54,28 +53,12 @@ HEADERS = {
                   "Chrome/124.0 Safari/537.36"
 }
 
-# Türkiye saat dilimi (UTC+3)
 TR_TZ = timezone(timedelta(hours=3))
-
-
-def tr_zaman(dt_str):
-    """ISO formatındaki zamanı Türkiye saatine çevirir."""
-    try:
-        # Örnek: "2026-10-20T14:15:56.123929"
-        dt = datetime.fromisoformat(dt_str)
-        # Eğer saat dilimi yoksa UTC olduğunu varsay (API'den gelen 'ts' alanı)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        dt_tr = dt.astimezone(TR_TZ)
-        return dt_tr.strftime("%d.%m.%Y %H:%M")
-    except Exception:
-        return dt_str[:16].replace("T", " ")
 
 
 def sayfa_icerik_al(site):
     """Sayfanın (stabil) metnini ve hash'ini döndürür."""
     url = site["url"]
-
     r = requests.get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
@@ -83,30 +66,30 @@ def sayfa_icerik_al(site):
     # --- GİB Güncel sayfası için özel ayrıştırma ---
     if "duyuru-arsivi/guncel" in url:
         kayitlar = []
-        # Sayfadaki duyuru başlıkları genellikle h3 veya h2 içinde yer alır.
-        for baslik in soup.find_all(["h2", "h3"]):
-            a = baslik.find("a")
-            if not a:
+        # Duyuru başlıkları doğrudan <a> etiketleri içinde ve
+        # href'leri "/duyuru-arsivi/guncel/" ile başlıyor.
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "/duyuru-arsivi/guncel/" not in href:
                 continue
-            baslik_metni = a.get_text(strip=True)
-            href = a.get("href", "")
 
-            # Sayfadaki tarih bilgisini, başlığın bulunduğu kapsayıcıdan çekmeye çalış
-            tarih_metni = ""
-            parent = baslik.find_parent(["div", "article"])
+            baslik = a.get_text(strip=True)
+            if not baslik:
+                continue
+
+            # Tarih bilgisini, bağlantının bulunduğu kapsayıcıdan çekmeye çalış
+            tarih = ""
+            parent = a.find_parent(["div", "li", "article"])
             if parent:
-                # Tarih genellikle "21.10.2026" formatındadır.
-                import re
                 m = re.search(r"\d{2}\.\d{2}\.\d{4}", parent.get_text())
                 if m:
-                    tarih_metni = m.group(0)
+                    tarih = m.group(0)
 
-            if baslik_metni and href:
-                kayitlar.append({
-                    "tarih": tarih_metni,
-                    "baslik": baslik_metni,
-                    "link": href,
-                })
+            kayitlar.append({
+                "tarih": tarih,
+                "baslik": baslik,
+                "link": href,
+            })
 
         # Sıralamayı sabitle (tarih, sonra başlık)
         kayitlar.sort(key=lambda x: (x["tarih"], x["baslik"]))
@@ -258,7 +241,6 @@ def main():
         for d in degisenler:
             satirlar = []
             for s in d["yeni_icerikler"]:
-                # Çok uzun satırları kısalt
                 if len(s) > 200:
                     s = s[:200] + "..."
                 satirlar.append(f"  • {s}")
@@ -274,7 +256,6 @@ def main():
                 + "\n"
             )
 
-        # E-posta zamanını Türkiye saatine çevir
         simdi_tr = datetime.now(TR_TZ).strftime("%d.%m.%Y %H:%M:%S")
 
         icerik = (
